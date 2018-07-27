@@ -1,0 +1,400 @@
+28262481;GENODEF1SDG;Raiffeisenbank Sande-Wangerland -alt-
+28262673;GENODEF1VAR;Raiffeisen-Volksbank Varel-Nordenham
+28270024;DEUTDEDB282;Deutsche Bank Privat und Geschäftskunden
+28270056;DEUTDEHB282;Deutsche Bank
+28280012;DRESDEFF282;Commerzbank vormals Dresdner Bank
+28290063;GENODEF1WHV;Volksbank Wilhelmshaven
+28291551;GENODEF1ESE;Volksbank Esens
+28320014;OLBODEH2286;Oldenburgische Landesbank AG
+28321816;OLBODEH2216;Oldenburgische Landesbank AG
+28350000;BRLADE21ANO;Sparkasse Aurich-Norden
+28361592;GENODEF1MAR;Raiffeisen-Volksbank Fresena
+28420007;OLBODEH2284;Oldenburgische Landesbank AG
+28421030;OLBODEH2230;Oldenburgische Landesbank AG
+28440037;COBADEFF284;Commerzbank
+28450000;BRLADE21EMD;Sparkasse Emden
+28470024;DEUTDEDB284;Deutsche Bank Privat und Geschäftskunden
+28470091;DEUTDEHB284;Deutsche Bank
+28500000;MARKDEF1285;Bundesbank eh Leer
+28520009;OLBODEH2285;Oldenburgische Landesbank AG
+28521518;OLBODEH2287;Oldenburgische Landesbank AG
+28540034;COBADEFF285;Commerzbank
+28550000;BRLADE21LER;Sparkasse LeerWittmund
+28562297;GENODEF1UPL;Raiffeisen-Volksbank
+28562716;GENODEF1WEF;Raiffeisenbank Flachsmeer
+28562863;GENODEF1HTL;Raiffeisenbank Moormerland
+28563749;GENODEF1MML;Raiffeisenbank
+28570024;DEUTDEDB285;Deutsche Bank Privat und Geschäftskunden
+28570092;DEUTDEHB285;Deutsche Bank
+28590075;GENODEF1LER;Ostfriesische Volksbank Leer
+28591579;GENODEF1PAP;Volksbank Papenburg Fil d. Ostfries. VB Leer
+28591654;GENODEF1WRH;Volksbank Westrhauderfehn
+29000000;MARKDEF1290;Bundesbank
+29010111;ESSEDE5F290;SEB
+29010400;DESBDE22XXX;Deutsche Schiffsbank
+29020000;NEELDE22XXX;Bankhaus Neelmeyer
+29020100;BANVDEHBXXX;KBC Bank Deutschland
+29020200;NFHBDE21XXX;NordFinanz Bank
+29020400;DFABDE21XXX;Deutsche Factoring Bank
+29030400;PLUMDE29XXX;Bankhaus Carl F. Plump & CO
+29040060;COBADEFF072;Commerzbank CC
+29040061;COBADEFF073;Commerzbank CC
+29040090;COBADEFF290;Commerzbank
+29050000;BRLADE22XXX;Bremer Landesbank
+29050101;SBREDE22XXX;Sparkasse Bremen
+29070024;DEUTDEDBBRE;Deutsche Bank Privat und Geschäftskunden
+29070050;DEUTDEHBXXX;Deutsche Bank
+29070051;DEUTDEHB292;Deutsche Bank
+29070052;DEUTDEHB294;Deutsche Bank
+29070058;DEUTDEHB293;Deutsche Bank
+29070059;DEUTDEHB290;Deutsche Bank
+29080010;DRESDEFF290;Commerzbank vormals Bremer Bank (Dresdner Bank)
+29089210;DRESDEFFI13;Commerzbank vormals Bremer Bank (Dresdner Bank) ITGK
+29090605;DAAEDED1005;apoBank
+29090900;GENODEF1P03;PSD Bank Nord
+29121731;OLBODEH2231;Oldenburgische Landesbank AG
+29151700;BRLADE21SYK;Kreissparkasse Syke
+29152300;BRLADE21OHZ;Kreissparkasse Osterholz
+29152550;BRLADE21SHL;Zweckverbandssparkasse Scheeßel
+29152670;BRLADE21VER;Kreissparkasse Verden
+29162394;GENODEF1OHZ;Volksbank
+29162453;GENODEF1SWW;Volksbank Schwanewede
+29162697;GENODEF1VER;Volksbank Aller-Weser
+29165545;GENODEF1OYT;Volksbank Oyten
+29165681;GENODEF1SUM;Volksbank Sottrum
+29166568;GENODEF1WOP;Volksbank
+29167624;GENODEF1SHR;Volksbank Syke
+29172624;DEUTDEDB291;Deutsche Bank Privat und Geschäftskunden
+29172655;DEUTDEHB291;Deutsche Bank
+29190024;GENODEF1HB1;Bremische Volksbank
+29190330;GENODEF1HB2;Volksbank Bremen-Nord
+29200000;MARKDEF1292;Bundesbank eh Bremerhaven
+29210111;ESSEDE5F292;SEB
+29240024;COBADEFF292;Commerzbank
+29250000;BRLADE21BRS;Sparkasse Bremerhaven
+29250150;BRLADE21BRK;Kreissparkasse Wesermünde-Hadeln
+29262722;GENODEF1BRV;Volksbank Geeste-Nord
+29265747;GENODEF1BEV;Volksbank Bremerhaven-Cuxland
+29280011;DRESDEFF292;Commerzbank vormals Dresdner Bank
+29290034;GENODEF1HBV;Volksbank Bremerhaven-Wesermünde -alt-
+30000000;MARKDEF1300;Bundesbank
+30010111;ESSEDE5F300;SEB
+30010400;IKBDDEDDXXX;IKB Deutsche Industriebank
+30010444;IKBDDEDDDIR;IKB Direkt - IKB Deutsche Industriebank
+30010700;BOTKDEDXXXX;The Bank of Tokyo-Mitsubishi UFJ, Ltd.
+30020300;CCBADE31RBS;Santander Consumer Bank
+30020500;BHFBDEFF300;BHF-BANK
+30020700;MHCBDEDDXXX;Mizuho Corporate Bank Ltd Fil Düsseldorf
+30020900;CMCIDEDDXXX;TARGOBANK
+30022000;NRWBDEDMXXX;NRW.BANK
+30025500;PORTDEDDXXX;Portigon
+30030100;PULSDEDDXXX;S Broker Wiesbaden
+30030400;FXDBDE31XXX;FXdirekt Bank
+30030500;CUABDED1XXX;C&A Bank
+30030600;ETRIDE31XXX;ETRIS Bank
+30030880;TUBDDEDDXXX;HSBC Trinkaus & Burkhardt
+30030900;MEFIDEMM300;Merck Finck & Co
+30040000;COBADEDDXXX;Commerzbank
+30040048;COBADEFF930;Commerzbank GF-D48
+30040060;COBADEFF064;Commerzbank Gf 660
+30040061;COBADEFF065;Commerzbank Gf 661
+30040062;COBADEFF084;Commerzbank CC
+30040063;COBADEFF085;Commerzbank CC
+30050000;WELADEDDXXX;Landesbank Hessen-Thüringen Girozentrale NL. Düsseldorf
+30050110;DUSSDEDDXXX;Stadtsparkasse Düsseldorf
+30060010;GENODEDDXXX;WGZ Bank
+30060601;DAAEDEDDXXX;apoBank
+30060992;GENODEF1P05;PSD Bank Rhein-Ruhr
+30070010;DEUTDEDDXXX;Deutsche Bank
+30070024;DEUTDEDBDUE;Deutsche Bank Privat und Geschäftskunden
+30080000;DRESDEFF300;Commerzbank vormals Dresdner Bank
+30080005;DRESDEF1S04;Commerzbank vormals Dresdner Bank Zw 05
+30080022;DRESDEFFI28;Commerzbank vormals Dresdner Bank Ztv 22
+30080038;DRESDEF1S05;Commerzbank vormals Dresdner Bank Zw 38
+30080041;DRESDEFFI29;Commerzbank vormals Dresdner Bank Zw 41
+30080053;DRESDEFFI30;Commerzbank vormals Dresdner Bank Zw 53
+30080055;DRESDEFF309;Commerzbank vormals Dresdner Bank Zw 55
+30080057;DRESDEFF316;Commerzbank vormals Dresdner Bank Gf ZW 57
+30080061;DRESDEFFI31;Commerzbank vormals Dresdner Bank Zw 61
+30080074;DRESDEFFI32;Commerzbank vormals Dresdner Bank Zw 74
+30080080;DRESDEFFI76;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 3
+30080081;DRESDEFFI77;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 4
+30080082;DRESDEFFI78;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 5
+30080083;DRESDEFFI79;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 6
+30080084;DRESDEFFI80;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 7
+30080085;DRESDEFFI81;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 8
+30080086;DRESDEFFI82;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 9
+30080087;DRESDEFFI83;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 10
+30080088;DRESDEFFI84;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 11
+30080089;DRESDEFFI85;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 12
+30080095;DRESDEFFI33;Commerzbank vormals Dresdner Bank Zw 95
+30089300;DRESDEFFI02;Commerzbank vormals Dresdner Bank ITGK I
+30089302;DRESDEFFI03;Commerzbank vormals Dresdner Bank ITGK II
+30110300;SMBCDEDDXXX;Sumitomo Mitsui Banking Corporation
+30120400;ABNADEFFDUS;The Royal Bank of Scotland Niederlassung Frankfurt
+30120500;BANVDEHB300;KBC Bank Deutschland
+30120764;HYVEDEM1086;UniCredit Bank - HypoVereinsbank Ndl 450 Düs
+30130100;DHBNDEDDXXX;Demir-Halk Bank (Nederland)
+30130200;UGBIDEDDXXX;GarantiBank International
+30130600;ISBKDEFXDUS;Isbank Fil Düsseldorf
+30130800;DHYPDEDDXXX;Düsseldorfer Hypothekenbank
+30150001;;Helaba Düsseldorf Gf Verrechnung FI-Dus
+30150200;WELADED1KSD;Kreissparkasse Düsseldorf
+30160213;GENODED1DNE;Volksbank Düsseldorf Neuss
+30220190;HYVEDEMM414;UniCredit Bank - HypoVereinsbank
+30351220;WELADED1HAA;Stadt-Sparkasse Haan
+30520000;RCIDDE3NXXX;RCI Banque Niederlassung Deutschland
+30520037;RCIDDE3NPAY;RCI Banque Direkt
+30530000;WERHDED1XXX;Bankhaus Werhahn
+30530500;WEFZDED1XXX;Bank11 für Privatkunden und Handel, Neuss
+30550000;WELADEDNXXX;Sparkasse Neuss
+30551240;WELADED1KST;Stadtsparkasse Kaarst-Büttgen -alt-
+30560090;GENODED1NSS;Volksbank Neuss -alt-
+30560548;GENODED1NLD;VR Bank
+31000000;MARKDEF1310;Bundesbank eh Mönchengladbach
+31010111;ESSEDE5F310;SEB
+31010833;CCBADE31XXX;Santander Consumer Bank
+31040015;COBADEFF310;Commerzbank
+31040060;COBADEFF088;Commerzbank CC
+31040061;COBADEFF089;Commerzbank CC
+31050000;MGLSDE33XXX;Stadtsparkasse Mönchengladbach
+31060181;GENODED1GBM;Gladbacher Bank von 1922
+31060517;GENODED1MRB;Volksbank Mönchengladbach
+31062154;GENODED1KBN;Volksbank Brüggen-Nettetal
+31062553;GENODED1NKR;Volksbank Schwalmtal
+31070001;DEUTDEDD310;Deutsche Bank
+31070024;DEUTDEDB310;Deutsche Bank Privat und Geschäftskunden
+31080015;DRESDEFF310;Commerzbank vormals Dresdner Bank
+31080061;DRESDEFFI34;Commerzbank vormals Dresdner Bank Zw 61
+31251220;WELADED1ERK;Kreissparkasse Heinsberg in Erkelenz
+31261282;GENODED1EHE;Volksbank Erkelenz
+31263359;GENODED1LOE;Raiffeisenbank Erkelenz
+31460290;GENODED1VSN;Volksbank Viersen
+31470004;DEUTDEDD314;Deutsche Bank
+31470024;DEUTDEDB314;Deutsche Bank Privat und Geschäftskunden
+32000000;MARKDEF1320;Bundesbank eh Krefeld
+32040024;COBADEFF320;Commerzbank
+32050000;SPKRDE33XXX;Sparkasse Krefeld
+32051996;WELADED1STR;Sparkasse der Stadt Straelen
+32060362;GENODED1HTK;Volksbank Krefeld
+32061384;GENODED1GDL;Volksbank an der Niers
+32061414;GENODED1KMP;Volksbank Kempen-Grefrath
+32070024;DEUTDEDB320;Deutsche Bank Privat und Geschäftskunden
+32070080;DEUTDEDD320;Deutsche Bank
+32080010;DRESDEFF320;Commerzbank vormals Dresdner Bank
+32250050;WELADED1GOC;Verbandssparkasse Goch
+32400000;MARKDEF1324;Bundesbank eh Kleve, Niederrhein
+32440023;COBADEFF324;Commerzbank
+32450000;WELADED1KLE;Sparkasse Kleve
+32460422;GENODED1KLL;Volksbank Kleverland
+32470024;DEUTDEDB324;Deutsche Bank Privat und Geschäftskunden
+32470077;DEUTDEDD324;Deutsche Bank
+33000000;MARKDEF1330;Bundesbank eh Wuppertal
+33010111;ESSEDE5F330;SEB
+33020000;AKFBDE31XXX;akf bank
+33020190;HYVEDEMM809;UniCredit Bank - HypoVereinsbank
+33030000;GGABDE31XXX;GEFA
+33040001;COBADEFF330;Commerzbank
+33040310;COBADEDHXXX;Commerzbank Zw 117
+33050000;WUPSDE33XXX;Stadtsparkasse Wuppertal
+33060098;GENODED1CVW;Credit- und Volksbank Wuppertal
+33060592;GENODED1SPW;Sparda-Bank West
+33060616;DAAEDED1016;apoBank
+33070024;DEUTDEDBWUP;Deutsche Bank Privat und Geschäftskunden
+33070090;DEUTDEDWXXX;Deutsche Bank
+33080001;DRESDEFFI86;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 1
+33080030;DRESDEFF332;Commerzbank vormals Dresdner Bank
+33080085;DRESDEFFI87;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 2
+33080086;DRESDEFFI88;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 3
+33080087;DRESDEFFI89;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 4
+33080088;DRESDEFFI90;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 5
+33440035;COBADEFF334;Commerzbank
+33450000;WELADED1VEL;Sparkasse Hilden-Ratingen-Velbert
+33451220;WELADED1HGH;Sparkasse Heiligenhaus -alt-
+34040049;COBADEFF340;Commerzbank
+34050000;WELADEDRXXX;Stadtsparkasse Remscheid
+34051350;WELADED1RVW;Sparkasse Radevormwald-Hückeswagen
+34051570;WELADED1WMK;Stadtsparkasse Wermelskirchen
+34060094;VBRSDE33XXX;Volksbank Remscheid-Solingen Remscheid-Lennep
+34070024;DEUTDEDB340;Deutsche Bank Privat und Geschäftskunden
+34070093;DEUTDEDW340;Deutsche Bank
+34080031;DRESDEFF340;Commerzbank vormals Dresdner Bank
+34240050;COBADEFF342;Commerzbank
+34250000;SOLSDE33XXX;Stadt-Sparkasse Solingen
+34270024;DEUTDEDB342;Deutsche Bank Privat und Geschäftskunden
+34270094;DEUTDEDW342;Deutsche Bank
+34280032;DRESDEFF342;Commerzbank vormals Dresdner Bank
+35000000;MARKDEF1350;Bundesbank eh Duisburg
+35010111;ESSEDE5F350;SEB
+35020030;NBAGDE3EXXX;National-Bank -alt-
+35040038;COBADEFF350;Commerzbank
+35040085;COBADEFF350;Commerzbank, Gf Web-K
+35050000;DUISDE33XXX;Sparkasse Duisburg
+35060190;GENODED1DKD;Bank für Kirche und Diakonie - KD-Bank
+35060386;GENODED1VRR;Volksbank Rhein-Ruhr
+35060632;DAAEDED1032;apoBank
+35070024;DEUTDEDB350;Deutsche Bank Privat und Geschäftskunden
+35070030;DEUTDEDE350;Deutsche Bank
+35080070;DRESDEFF350;Commerzbank vormals Dresdner Bank
+35080085;DRESDEFFI91;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 1
+35080086;DRESDEFFI92;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 2
+35080087;DRESDEFFI93;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 3
+35080088;DRESDEFFI94;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 4
+35080089;DRESDEFFI95;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 5
+35090300;GENODEF1BSD;Bank für Schiffahrt (BFS) Fil d Ostfr VB Leer
+35211012;ESSEDE5F352;SEB
+35251000;WELADED1DIN;Sparkasse Dinslaken-Voerde-Hünxe
+35261248;GENODED1DLK;Volksbank Dinslaken
+35450000;WELADED1MOR;Sparkasse am Niederrhein
+35451460;WELADED1NVL;Sparkasse Neukirchen-Vluyn -alt-
+35451775;WELADED1RHB;Sparkasse Rheinberg -alt-
+35461106;GENODED1NRH;Volksbank Niederrhein
+35600000;MARKDEF1356;Bundesbank eh Wesel
+35640064;COBADEFF356;Commerzbank
+35650000;WELADED1WES;Verbands-Sparkasse Wesel
+35660599;GENODED1RLW;Volksbank Rhein-Lippe
+35850000;WELADED1EMR;Stadtsparkasse Emmerich-Rees
+35860245;GENODED1EMR;Volksbank Emmerich-Rees
+36000000;MARKDEF1360;Bundesbank
+36010043;PBNKDEFF360;Postbank
+36010111;ESSEDE5F360;SEB
+36010200;VONEDE33XXX;VON ESSEN Bankgesellschaft
+36010424;AARBDE5W360;Aareal Bank
+36010600;GABKDE31XXX;GALLINAT-BANK
+36010699;GABKDE31699;Gallinat - Bank Asset Backed Securities
+36010800;;AKBANK N.V. Essen
+36020030;NBAGDE3EXXX;National-Bank Essen
+36020186;HYVEDEMM360;UniCredit Bank - HypoVereinsbank
+36020700;HSTBDEH1ESS;Hanseatic Bank
+36033300;SCFBDE33XXX;Santander Consumer Bank
+36036000;VABKDE3EXXX;VALOVIS Bank
+36040039;COBADEFF360;Commerzbank
+36040060;COBADEFF082;Commerzbank CC
+36040061;COBADEFF083;Commerzbank CC
+36040085;COBADEFF360;Commerzbank, Gf Web-K
+36050000;WELADE3EXXX;Landesbank Hessen-Thüringen Girozentrale NL. Düsseldorf
+36050105;SPESDE3EXXX;Sparkasse Essen
+36060192;GENODED1PA2;Pax-Bank
+36060295;GENODED1BBE;Bank im Bistum Essen
+36060488;GENODEM1GBE;GENO BANK ESSEN
+36060591;GENODED1SPE;Sparda-Bank West
+36060610;DAAEDED1010;apoBank
+36070024;DEUTDEDBESS;Deutsche Bank Privat und Geschäftskunden
+36070050;DEUTDEDEXXX;Deutsche Bank
+36080080;DRESDEFF360;Commerzbank vormals Dresdner Bank
+36080085;DRESDEFFI66;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK  2
+36089321;DRESDEFFI17;Commerzbank vormals Dresdner Bank ITGK
+36200000;MARKDEF1362;Bundesbank eh Mülheim an der Ruhr
+36210111;ESSEDE5F362;SEB
+36220030;NBAGDE3EXXX;National-Bank -alt-
+36240045;COBADEFF362;Commerzbank
+36250000;SPMHDE3EXXX;Sparkasse Mülheim an der Ruhr
+36270024;DEUTDEDB362;Deutsche Bank Privat und Geschäftskunden
+36270048;DEUTDEDE362;Deutsche Bank
+36280071;DRESDEFF362;Commerzbank vormals Dresdner Bank
+36500000;MARKDEF1365;Bundesbank eh Oberhausen
+36520030;NBAGDE3EXXX;National-Bank -alt-
+36540046;COBADEFF365;Commerzbank
+36550000;WELADED1OBH;Stadtsparkasse Oberhausen
+36570024;DEUTDEDB365;Deutsche Bank Privat und Geschäftskunden
+36570049;DEUTDEDE365;Deutsche Bank
+36580072;DRESDEFF365;Commerzbank vormals Dresdner Bank
+37000000;MARKDEF1370;Bundesbank
+37010050;PBNKDEFF370;Postbank
+37010111;ESSEDE5F370;SEB
+37010222;ABNADEFFKOE;The Royal Bank of Scotland Niederlassung Frankfurt
+37010600;GEBADE33XXX;Fortis Bank Ndl Deutschland
+37011000;PBNKDEFFETR;Deutsche Postbank Easytrade
+37013030;DEZMDE31XXX;Deutsche Post Zahlungsdienste
+37020090;HYVEDEMM429;UniCredit Bank - HypoVereinsbank
+37020200;AXABDE31XXX;AXA Bank
+37020400;TOBADE33XXX;TOYOTA Kreditbank
+37020500;BFSWDE33XXX;Bank für Sozialwirtschaft
+37020599;BFSWDE33BEK;Bank für Sozialwirtschaft Köln Gf
+37020600;AKBCDE31XXX;Santander Consumer Bank MG
+37020900;FDBADE3KXXX;Ford Bank Ndl. der FCE Bank
+37021100;MAZDDED1XXX;Mazda Bank Niederlassung der FCE Bank
+37021200;VOLVDE31XXX;Volvo Auto Bank
+37021201;VOLVDE3K001;Volvo Auto Bank - Direktbank
+37021300;JAGUDE31XXX;Jaguar Financial Services Ndl der FCE Bank
+37021400;LRFSDE31XXX;Land Rover Financial Services Ndl der FCE Bank
+37030200;SOPPDE3KXXX;Oppenheim, Sal - jr & Cie
+37030700;WWBADE31XXX;abcbank
+37030800;ISBKDEFXKOL;Isbank Fil Köln
+37040037;COBADEFFS03;Commerzbank, CC SP
+37040044;COBADEFF370;Commerzbank
+37040048;COBADEFF937;Commerzbank GF-K48
+37040060;COBADEFF086;Commerzbank CC
+37040061;COBADEFF087;Commerzbank CC
+37050198;COLSDE33XXX;Sparkasse KölnBonn
+37050299;COKSDE33XXX;Kreissparkasse Köln
+37060120;GENODED1PA7;Pax-Bank Gf MHD
+37060193;GENODED1PAX;Pax-Bank
+37060590;GENODED1SPK;Sparda-Bank West
+37060615;DAAEDED1015;apoBank
+37060993;GENODEF1P13;PSD Bank Köln
+37062124;GENODED1BGL;Bensberger Bank
+37062365;GENODED1FHH;Raiffeisenbank Frechen-Hürth
+37062600;GENODED1PAF;VR Bank Bergisch Gladbach
+37063367;GENODED1FKH;Raiffeisenbank Fischenich-Kendenich
+37069101;GENODED1AEG;Spar- und Darlehnskasse Aegidienberg
+37069103;GENODED1ALD;Raiffeisenbank Aldenhoven
+37069125;GENODED1RKO;Raiffeisenbank Kürten-Odenthal
+37069153;GENODED1HCK;Spar- und Darlehnskasse Brachelen
+37069164;GENODED1MBU;Volksbank Meerbusch
+37069252;GENODED1ERE;Volksbank Erft
+37069302;GENODED1GLK;Raiffeisenbank
+37069303;GENODED1GKK;Volksbank Gemünd-Kall -alt-
+37069306;GENODED1GRB;Raiffeisenbank Grevenbroich
+37069322;GENODED1EGY;Raiffeisenbank Gymnich
+37069330;GENODED1HAW;Volksbank Haaren
+37069331;GENODED1KHO;Raiffeisenbank von 1895 Zw Horrem -alt-
+37069342;GENODED1HMB;Volksbank Heimbach
+37069354;GENODED1SEG;Raiffeisenbank Selfkant Zw -alt-
+37069355;GENODED1AHO;Spar- und Darlehnskasse Hoengen
+37069381;GENODED1IMM;Volksbank Randerath-Immendorf
+37069401;GENODED1JUK;Raiffeisenbank Junkersdorf
+37069405;GENODED1KAA;Raiffeisenbank Kaarst
+37069412;GENODED1HRB;Raiffeisenbank
+37069427;GENODED1DHK;Volksbank Dünnwald-Holweide
+37069429;GENODED1KNL;Volksbank Köln-Nord
+37069472;GENODED1ERF;Raiffeisenbk Erftstadt -alt-
+37069520;GENODED1RST;VR-Bank Rhein-Sieg
+37069521;GENODED1MNH;Raiffeisenbank Rhein-Berg
+37069524;GENODED1MUC;Raiffeisenbank Much-Ruppichteroth
+37069577;GENODED1ODT;Raiffeisenbank Odenthal -alt-
+37069627;GENODED1RBC;Raiffeisenbank Rheinbach Voreifel
+37069639;GENODED1WND;Rosbacher Raiffeisenbank
+37069642;GENODED1SMR;Raiffeisenbank
+37069707;GENODED1SAM;Raiffeisenbank Sankt Augustin
+37069720;GENODED1SLE;VR-Bank Nordeifel
+37069805;GENODED1WVI;Volksbank Wachtberg
+37069833;GENODED1WSL;Raiffeisenbk Wesseling -alt-
+37069840;GENODED1WPF;Volksbank Wipperfürth-Lindlar
+37069991;GENODED1BRL;Brühler Bank
+37070000;DEUTDEDK402;Deutsche Bank Gf F
+37070024;DEUTDEDBKOE;Deutsche Bank Privat und Geschäftskunden
+37070060;DEUTDEDKXXX;Deutsche Bank
+37080040;DRESDEFF370;Commerzbank vormals Dresdner Bank
+37080085;DRESDEFFI51;Commerzbank vormals Dresdner Bank Gf PCC DCC-ITGK 1
+37080086;DRESDEFFI67;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 4
+37080087;DRESDEFFI96;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 5
+37080088;DRESDEFFI97;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 6
+37080089;DRESDEFFI98;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 7
+37080090;DRESDEFFJ01;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 8
+37080091;DRESDEFFJ02;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 9
+37080092;DRESDEFFJ03;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 10
+37080093;DRESDEFFJ04;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 11
+37080094;DRESDEFFJ05;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 12
+37080095;DRESDEFFJ06;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 13
+37080096;DRESDEF1S06;Commerzbank vormals Dresdner Bank Zw 96
+37080097;DRESDEF1S07;Commerzbank vormals Dresdner Bank Zw 97
+37080098;DRESDEFFJ07;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 14
+37080099;DRESDEFFI36;Commerzbank vormals Dresdner Bank Zw 99
+37089340;DRESDEFFI04;Commerzbank vormals Dresdner Bank ITGK I
+37089342;DRESDEFFI05;Commerzbank vormals Dresdner Bank ITGK II
+37160087;GENODED1CGN;Kölner Bank
+37161289;GENODED1BRH;VR-Bank Rhein-Erft
+37540050;COBADEFF375;Commerzbank
+37551020;WELADED1LEI;Stadt-Sparkasse Leichlingen
+37551440;WELADEDLLEV;Sparkasse Leverkusen

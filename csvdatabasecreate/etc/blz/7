@@ -1,0 +1,400 @@
+64150020;SOLADES1TUB;Kreissparkasse Tübingen
+64150182;SOLADEST470;Baden-Württemb.Bank/Landesbank Baden-Württemb.
+64161397;GENODES1AMM;Volksbank Ammerbuch
+64161608;GENODES1RHK;Raiffeisenbank Härten -alt-
+64161956;GENODES1VMO;Volksbank
+64163225;GENODES1VHZ;Volksbank Hohenzollern
+64180014;DRESDEFF641;Commerzbank vormals Dresdner Bank
+64190110;GENODES1TUE;Volksbank Tübingen
+64191030;GENODES1NAG;Volksbank Nagoldtal
+64191210;GENODES1ALT;Volksbank Nordschwarzwald
+64191700;GENODES1HOR;Volksbank Horb -alt-
+64232000;FAITDE66SBG;Bankhaus J. Faißt
+64240048;COBADEFF967;Commerzbank
+64240071;COBADEFF642;Commerzbank
+64250040;SOLADES1RWL;Kreissparkasse Rottweil
+64251060;SOLADES1FDS;Kreissparkasse Freudenstadt
+64261363;GENODES1BAI;Volksbank Baiersbronn Murgtal
+64261626;GENODES1MMO;Murgtalbank Mitteltal - Obertal -alt-
+64261853;GENODES1PGW;Volksbank Nordschwarzwald
+64262408;GENODES1VDS;Volksbank Dornstetten
+64263273;GENODES1DUN;Volksbank Bösingen Dunningen Fluorn-Winzeln -alt-
+64290120;GENODES1VRW;Volksbank Rottweil
+64291010;GENODES1FDS;Volksbank Horb-Freudenstadt
+64291420;GENODES1VDL;Volksbank Deißlingen
+64292020;GENODES1SBG;Volksbank Schwarzwald-Neckar
+64292310;GENODES1TRO;Volksbank Trossingen
+64350070;SOLADES1TUT;Kreissparkasse Tuttlingen
+64361359;GENODES1RDH;Raiffeisenbank Donau-Heuberg
+64380011;DRESDEFF643;Commerzbank vormals Dresdner Bank
+64390130;GENODES1TUT;Volksbank Donau-Neckar
+64420030;SOLADEST644;Baden-Württembergische Bank
+64450288;SOLADEST480;Baden-Württemb.Bank/Landesbank Baden-Württemb.
+65000000;MARKDEF1650;Bundesbank eh Ravensburg
+65020030;SOLADEST650;Baden-Württembergische Bank
+65020186;HYVEDEMM588;UniCredit Bank - HypoVereinsbank
+65040073;COBADEFF650;Commerzbank
+65050110;SOLADES1RVB;Kreissparkasse Ravensburg
+65050281;SOLADEST450;Baden-Württemb.Bank/Landesbank Baden-Württemb.
+65061219;GENODES1AUL;Raiffeisenbank Aulendorf
+65062577;GENODES1RRV;Raiffeisenbank Ravensburg
+65062793;GENODES1AMZ;Raiffeisenbank Vorallgäu -alt-
+65063086;GENODES1SAG;Raiffeisenbank Bad Saulgau
+65070024;DEUTDEDB650;Deutsche Bank Privat und Geschäftskunden
+65070084;DEUTDESS650;Deutsche Bank
+65080009;DRESDEFF650;Commerzbank vormals Dresdner Bank
+65090100;ULMVDE66001;Volksbank Ulm-Biberach -alt-
+65091040;GENODES1LEU;Leutkircher Bank Raiffeisen- und Volksbank
+65091300;GENODES1BWB;Bad Waldseer Bank
+65091400;GENODES1ISN;Isnyer Volksbank -alt-
+65091600;GENODES1VWG;Volksbank Weingarten
+65092010;GENODES1WAN;Volksbank Allgäu-West
+65092200;GENODES1VAH;Volksbank Altshausen
+65093020;GENODES1SLG;Volksbank Bad Saulgau
+65110200;IBBFDE81XXX;Internationales Bankhaus Bodensee
+65120091;HYVEDEMM586;UniCredit Bank - HypoVereinsbank
+65140072;COBADEFF651;Commerzbank
+65161497;GENODES1GMB;Genossenschaftsbank Meckenbeuren
+65162832;GENODES1OTE;Raiffeisenbank
+65180005;DRESDEFF651;Commerzbank vormals Dresdner Bank
+65190110;GENODES1VFN;Volksbank Friedrichshafen
+65191500;GENODES1TET;Volksbank Tettnang
+65300000;MARKDEF1653;Bundesbank eh Albstadt
+65310111;ESSEDE5F653;SEB
+65340004;COBADEFF653;Commerzbank
+65341204;COBADEFF655;Commerzbank
+65350186;SOLADEST476;Baden-Württemb.Bank/Landesbank Baden-Württemb.
+65351050;SOLADES1SIG;Hohenz Landesbank Kreissparkasse Sigmaringen
+65351260;SOLADES1BAL;Sparkasse Zollernalb
+65361469;GENODES1HBM;Volksbank Heuberg
+65361898;GENODES1WLB;Winterlinger Bank
+65361989;GENODES1ONS;Onstmettinger Bank
+65362499;GENODES1GEI;Raiffeisenbank Geislingen-Rosenfeld
+65370024;DEUTDEDB653;Deutsche Bank Privat und Geschäftskunden
+65370075;DEUTDESS653;Deutsche Bank
+65380003;DRESDEFF653;Commerzbank vormals Dresdner Bank
+65390120;GENODES1EBI;Volksbank Ebingen
+65391210;GENODES1BAL;Volksbank Balingen
+65392030;GENODES1TAI;Volksbank Tailfingen
+65440087;COBADEFF654;Commerzbank
+65450070;SBCRDE66XXX;Kreissparkasse Biberach
+65461878;GENODES1WAR;Raiffeisenbank Risstal
+65462231;GENODES1ERO;Raiffeisenbank Illertal
+65490130;GENODES1VBC;Volksbank Ulm-Biberach
+65491320;GENODES1VBL;Volksbank Laupheim
+65491510;GENODES1VRR;Volksbank-Raiffeisenbank Riedlingen
+66000000;MARKDEF1660;Bundesbank
+66010075;PBNKDEFF660;Postbank
+66010111;ESSEDE5F660;SEB
+66010200;BBSPDE6KXXX;Deutsche Bausparkasse Badenia
+66010700;LKBWDE6KXXX;Landeskreditbank Baden-Württemberg Förderbank
+66020020;SOLADEST663;Baden-Württembergische Bank
+66020150;HYVEDEM1076;UniCredit Bank - HypoVereinsbank Ndl 145 Kruh
+66020286;HYVEDEMM475;UniCredit Bank - HypoVereinsbank
+66020500;BFSWDE33KRL;Bank für Sozialwirtschaft
+66030600;ISBKDEFXKRL;Isbank Fil Karlsruhe
+66040018;COBADEFF660;Commerzbank
+66040026;COBADEFF661;Commerzbank/Kreditcenter Badenia
+66050000;SOLADEST660;Landesbank Baden-Württemberg
+66050101;KARSDE66XXX;Sparkasse Karlsruhe Ettlingen
+66051220;SOLADES1ETT;Sparkasse Ettlingen -alt-
+66060000;GENODE6KXXX;DZ BANK
+66060300;GENODE61KA3;Spar- und Kreditbank
+66060800;GENODEF1EK5;Evangelische Kreditgenossenschaft -Filiale Karlsruhe-
+66061059;GENODE61SBA;Volksbank Stutensee Hardt -alt-
+66061407;GENODE61RH2;Spar- und Kreditbank
+66061724;GENODE61WGA;Volksbank Stutensee-Weingarten
+66062138;GENODE61EGG;Spar- und Kreditbank Hardt
+66062366;GENODE61DET;Raiffeisenbank Hardt-Bruhrain
+66069103;GENODE61ELZ;Raiffeisenbank Elztal
+66069104;GENODE61DAC;Spar- und Kreditbank
+66069265;GENODE61SHI;Raiffeisenbank Hilsbach -alt-
+66069323;GENODE61KA4;Spar- und Kreditbank Daxlanden Karlsruhe -alt-
+66069342;GENODE61KTH;Volksbank Krautheim
+66069573;GENODE61SEX;Raiffeisenbank Sexau -alt-
+66070004;DEUTDESM660;Deutsche Bank
+66070024;DEUTDEDB660;Deutsche Bank Privat und Geschäftskunden
+66080052;DRESDEFF660;Commerzbank vormals Dresdner Bank
+66090621;DAAEDED1021;apoBank
+66090800;GENODE61BBB;BBBank
+66090900;GENODEF1P10;PSD Bank Karlsruhe-Neustadt
+66091200;GENODE61ETT;Volksbank Ettlingen
+66091500;GENODE61KA5;Volksbank Neureut -alt-
+66190000;GENODE61KA1;Volksbank Karlsruhe
+66190100;GENODE61KA2;Volksbank Durlach -alt-
+66200000;MARKDEF1662;Bundesbank eh Baden-Baden
+66220020;SOLADEST662;Baden-Württembergische Bank
+66240002;COBADEFF662;Commerzbank
+66250030;SOLADES1BAD;Sparkasse Baden-Baden Gaggenau
+66251434;SOLADES1BHL;Sparkasse Bühl
+66261092;GENODE61BHT;Spar- und Kreditbank
+66261416;GENODE61ALR;Raiffeisenbank Altschweier
+66270001;DEUTDESM662;Deutsche Bank
+66270024;DEUTDEDB662;Deutsche Bank Privat und Geschäftskunden
+66280053;DRESDEFF662;Commerzbank vormals Dresdner Bank
+66290000;VBRADE6KXXX;Volksbank Baden-Baden Rastatt
+66291300;GENODE61ACH;Volksbank Achern
+66291400;GENODE61BHL;Volksbank Bühl
+66340018;COBADEFF663;Commerzbank
+66350036;BRUSDE66XXX;Sparkasse Kraichgau Bruchsal-Bretten-Sinsheim
+66361178;GENODE61FST;Raiffeisenbank Kraich-Hardt -alt-
+66361335;GENODE61WAG;Volksbank Kirrlach -alt-
+66362345;GENODE61KRO;Raiffeisenbank Kronau -alt-
+66363487;GENODE61OOM;Raiffeisenbank Odenheim-Tiefenbach -alt-
+66390000;GENODE61BRU;Volksbank Bruchsal-Bretten -alt-
+66391200;GENODE61BTT;Volksbank Bruchsal-Bretten
+66391600;GENODE61ORH;Volksbank Bruhrain-Kraich-Hardt
+66400000;MARKDEF1664;Bundesbank eh Offenburg
+66420020;SOLADEST664;Baden-Württembergische Bank
+66432700;FAITDE66XXX;Bankhaus J. Faißt
+66440084;COBADEFF664;Commerzbank
+66450050;SOLADES1OFG;Sparkasse Offenburg/Ortenau
+66451346;SOLADES1GEB;Sparkasse Gengenbach
+66451548;SOLADES1HAL;Sparkasse Haslach-Zell
+66451862;SOLADES1KEL;Sparkasse Hanauerland
+66452776;SOLADES1WOF;Sparkasse Wolfach
+66470024;DEUTDEDB968;Deutsche Bank Privat und Geschäftskunden
+66470035;DEUTDE6F664;Deutsche Bank
+66490000;GENODE61OG1;Volksbank Offenburg
+66491800;GENODE61BH1;Volksbank Bühl Fil Kehl
+66492600;GENODE61APP;Volksbank Appenweier-Urloffen Appenweier -alt-
+66492700;GENODE61KZT;Volksbank Kinzigtal
+66550070;SOLADES1RAS;Sparkasse Rastatt-Gernsbach
+66551290;SOLADES1GAG;Sparkasse Gaggenau-Kuppenheim -alt-
+66562053;GENODE61DUR;Raiffeisenbank Südhardt Durmersheim
+66562300;GENODE61IFF;VR-Bank in Mittelbaden
+66600000;MARKDEF1666;Bundesbank eh Pforzheim
+66610111;ESSEDE5F666;SEB
+66620020;SOLADEST666;Baden-Württembergische Bank
+66640035;COBADEFF666;Commerzbank
+66650085;PZHSDE66XXX;Sparkasse Pforzheim Calw
+66661244;GENODE61NBT;Raiffeisenbank Bauschlott
+66661329;GENODE61KBR;Raiffeisenbank Kieselbronn
+66661454;GENODE61NFO;VR Bank im Enzkreis
+66662155;GENODE61ERS;Raiffeisenbank Ersingen
+66662220;GENODE61KBS;Volksbank Stein Eisingen
+66663439;GENODE61NHS;Raiffeisen-Gebietsbank
+66670006;DEUTDESM666;Deutsche Bank
+66670024;DEUTDEDB666;Deutsche Bank Privat und Geschäftskunden
+66680013;DRESDEFF666;Commerzbank vormals Dresdner Bank
+66690000;VBPFDE66XXX;Volksbank Pforzheim
+66692300;GENODE61WIR;Volksbank Wilferdingen-Keltern
+66762332;GENODE61KIR;Raiffeisenbank Kraichgau
+66762433;GENODE61NEU;Raiffeisenbank Neudenau-Stein-Herbolzheim
+67000000;MARKDEF1670;Bundesbank eh Mannheim
+67010111;ESSEDE5F670;SEB
+67020020;SOLADEST671;Baden-Württembergische Bank
+67020190;HYVEDEMM489;UniCredit Bank - HypoVereinsbank
+67020259;HYVEDEM1103;UniCredit Bank - HypoVereinsbank Ndl 681 Mnh
+67040031;COBADEFF670;Commerzbank
+67040060;COBADEFF094;Commerzbank CC
+67040061;COBADEFF095;Commerzbank CC
+67040085;COBADEFF670;Commerzbank, Gf Web-K
+67050000;SOLADEST670;Landesbank Baden-Württemberg
+67050505;MANSDE66XXX;Sparkasse Rhein Neckar Nord
+67051203;SOLADES1HOC;Sparkasse Hockenheim
+67060031;GENODE61MA3;Volksbank Sandhofen
+67070010;DEUTDESMXXX;Deutsche Bank
+67070024;DEUTDEDBMAN;Deutsche Bank Privat und Geschäftskunden
+67080050;DRESDEFF670;Commerzbank vormals Dresdner Bank
+67080085;DRESDEFFI60;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 2
+67080086;DRESDEFFI61;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 3
+67089440;DRESDEFFI22;Commerzbank vormals Dresdner Bank ITGK
+67090000;GENODE61MA2;VR Bank Rhein-Neckar
+67090617;DAAEDED1017;apoBank
+67091500;GENODE61LDB;Volksbank Kurpfalz H+G Bank
+67092300;GENODE61WNM;Volksbank Weinheim
+67210111;ESSEDE5F672;SEB
+67220020;SOLADEST672;Baden-Württembergische Bank
+67220286;HYVEDEMM479;UniCredit Bank - HypoVereinsbank
+67220464;HYVEDEM1087;UniCredit Bank - HypoVereinsbank Ndl 488 Hd
+67230000;MLPBDE61XXX;MLP Finanzdienstleistungen
+67230001;MLPBDE61001;MLP Finanzdienstleistungen Zw CS
+67240039;COBADEFF672;Commerzbank
+67250020;SOLADES1HDB;Sparkasse Heidelberg
+67261909;GENODE61SSW;Raiffeisenbank Steinsberg -alt-
+67262243;GENODE61WIB;Raiffeisen Privatbank
+67262402;GENODE61WBT;Volksbank Schwarzbachtal -alt-
+67262550;GENODE61LRO;Volksbank Rot
+67270003;DEUTDESM672;Deutsche Bank
+67270024;DEUTDEDB672;Deutsche Bank Privat und Geschäftskunden
+67280051;DRESDEFF672;Commerzbank vormals Dresdner Bank
+67290000;GENODE61HD1;Heidelberger Volksbank
+67290100;GENODE61HD3;Volksbank Kurpfalz H+G Bank
+67291500;GENODE61MHS;Volksbank f d Angelbachtal -alt-
+67291700;GENODE61NGD;Volksbank Neckartal
+67291900;GENODE61SSH;Volksbank Kraichgau -alt-
+67292200;GENODE61WIE;Volksbank Kraichgau Wiesloch-Sinsheim
+67320020;SOLADEST623;Baden-Württembergische Bank
+67332551;SOLADEST675;Baden-Württembergische Bank
+67352565;SOLADES1TBB;Sparkasse Tauberfranken
+67362560;GENODE61TBB;Volksbank Tauber -alt-
+67390000;GENODE61WTH;Volksbank Main-Tauber
+67450048;SOLADES1MOS;Sparkasse Neckartal-Odenwald
+67460041;GENODE61MOS;Volksbank Mosbach
+67461424;GENODE61BUC;Volksbank Franken
+67461733;GENODE61RNG;Volksbank Kirnau
+67462368;GENODE61LMB;Volksbank Limbach
+67462480;GENODE61SOB;Raiffeisenbank Schefflenz-Seckach -alt-
+68000000;MARKDEF1680;Bundesbank
+68010111;ESSEDE5F680;SEB
+68020020;SOLADEST682;Baden-Württembergische Bank
+68020186;HYVEDEMM357;UniCredit Bank - HypoVereinsbank
+68020460;HYVEDEM1082;UniCredit Bank - HypoVereinsbank Ndl 405 Frb
+68030000;BKMADE61XXX;Bankhaus E. Mayer
+68040007;COBADEFF680;Commerzbank
+68050000;SOLADEST680;Landesbank Baden-Württemberg
+68050101;FRSPDE66XXX;Sparkasse Freiburg-Nördlicher Breisgau
+68051004;SOLADES1HSW;Sparkasse Hochschwarzwald
+68051207;SOLADES1BND;Sparkasse Bonndorf-Stühlingen
+68051310;SOLADES1BRS;Sparkasse Breisach -alt-
+68052230;SOLADES1STB;Sparkasse St. Blasien
+68052328;SOLADES1STF;Sparkasse Staufen-Breisach
+68052863;SOLADES1SCH;Sparkasse Schönau-Todtnau
+68061505;GENODE61IHR;Volksbank Breisgau-Süd
+68062105;GENODE61DEN;Raiffeisenbank Denzlingen-Sexau
+68062730;GENODE61WYH;Raiffeisenbank Wyhl
+68063254;GENODE61HHM;Spar- u Kreditbank Bad Krozingen-Heitersheim
+68063479;GENODE61VOK;Raiffeisenbank Kaiserstuhl
+68064222;GENODE61GUN;Raiffeisenbank
+68070024;DEUTDEDBFRE;Deutsche Bank Privat und Geschäftskunden
+68070030;DEUTDE6FXXX;Deutsche Bank
+68080030;DRESDEFF680;Commerzbank vormals Dresdner Bank
+68080031;DRESDEFFI44;Commerzbank vormals Dresdner Bank Zw Münsterstraße
+68080085;DRESDEFFI62;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 1
+68080086;DRESDEFFJ22;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 2
+68090000;GENODE61FR1;Volksbank Freiburg
+68090622;DAAEDED1022;apoBank
+68090900;GENODEF1P07;PSD Bank RheinNeckarSaar
+68091900;GENODE61MHL;Volksbank Müllheim
+68092000;GENODE61EMM;Volksbank Breisgau Nord
+68092300;GENODE61STF;Volksbank Staufen
+68250040;SOLADES1LAR;Sparkasse Lahr -alt-
+68270024;DEUTDEDB682;Deutsche Bank Privat und Geschäftskunden
+68270033;DEUTDE6F682;Deutsche Bank
+68290000;GENODE61LAH;Volksbank Lahr
+68300000;MARKDEF1683;Bundesbank eh Lörrach
+68310111;ESSEDE5F683;SEB
+68320020;SOLADEST683;Baden-Württembergische Bank
+68340058;COBADEFF683;Commerzbank
+68350048;SKLODE66XXX;Sparkasse Lörrach-Rheinfelden
+68351557;SOLADES1SFH;Sparkasse Schopfheim-Zell
+68351865;SOLADES1MGL;Sparkasse Markgräflerland
+68351976;SOLADES1ZLW;Sparkasse Zell i W -alt-
+68361394;GENODE61MAU;Raiffeisenbank Maulburg -alt-
+68370024;DEUTDEDB683;Deutsche Bank Privat und Geschäftskunden
+68370034;DEUTDE6F683;Deutsche Bank
+68390000;VOLODE66XXX;Volksbank Dreiländereck
+68391500;GENODE61SPF;VR Bank
+68452290;SKHRDE6WXXX;Sparkasse Hochrhein
+68462427;GENODE61WUT;Volksbank Klettgau-Wutöschingen
+68490000;GENODE61BSK;Volksbank Rhein-Wehra
+68491500;GENODE61JES;Volksbank Jestetten
+68492200;GENODE61WT1;Volksbank Hochrhein
+69000000;MARKDEF1690;Bundesbank eh Konstanz
+69010111;ESSEDE5F690;SEB
+69020020;SOLADEST690;Baden-Württembergische Bank
+69020190;HYVEDEMM591;UniCredit Bank - HypoVereinsbank
+69040045;COBADEFF690;Commerzbank
+69050001;SOLADES1KNZ;Sparkasse Bodensee
+69051410;SOLADES1REN;Bezirkssparkasse Reichenau
+69051620;SOLADES1PFD;Sparkasse Pfullendorf-Meßkirch
+69051725;SOLADES1SAL;Sparkasse Salem-Heiligenberg
+69061800;GENODE61UBE;Volksbank Überlingen
+69070024;DEUTDEDB690;Deutsche Bank Privat und Geschäftskunden
+69070032;DEUTDE6F690;Deutsche Bank
+69091200;GENODE61HAG;Hagnauer Volksbank
+69091600;GENODE61PFD;Volksbank Pfullendorf
+69220020;SOLADEST692;Baden-Württembergische Bank
+69220186;HYVEDEMM590;UniCredit Bank - HypoVereinsbank
+69240075;COBADEFF692;Commerzbank
+69250035;SOLADES1SNG;Sparkasse Singen-Radolfzell
+69251445;SOLADES1ENG;Sparkasse Engen-Gottmadingen
+69251755;SOLADES1STO;Sparkasse Stockach
+69270024;DEUTDEDB692;Deutsche Bank Privat und Geschäftskunden
+69270038;DEUTDE6F692;Deutsche Bank
+69280035;DRESDEFF692;Commerzbank vormals Dresdner Bank
+69290000;GENODE61SIN;Volksbank Hegau -alt-
+69291000;GENODE61RAD;Volksbank Konstanz
+69362032;GENODE61MES;Volksbank Meßkirch Raiffeisenbank
+69400000;MARKDEF1694;Bundesbank
+69421020;SOLADEST694;Baden-Württembergische Bank
+69440007;COBADEFF694;Commerzbank Villingen u Schwenningen
+69440060;COBADEFF108;Commerzbank CC
+69450065;SOLADES1VSS;Sparkasse Schwarzwald-Baar
+69451070;SOLADES1DOE;Sparkasse Donaueschingen -alt-
+69470024;DEUTDEDB694;Deutsche Bank Privat und Geschäftskunden
+69470039;DEUTDE6F694;Deutsche Bank Villingen u Schwenningen
+69490000;GENODE61VS1;Volksbank Schwarzwald Baar Hegau
+69491700;GENODE61TRI;Volksbank Triberg
+70000000;MARKDEF1700;Bundesbank
+70010080;PBNKDEFF700;Postbank (Giro)
+70010111;ESSEDE5F700;SEB
+70010424;AARBDE5W700;Aareal Bank
+70010500;REBMDEMMXXX;Deutsche Pfandbriefbank
+70010555;REBMDEMM555;Deutsche Pfandbriefbank - Einlagengeschäfte
+70010570;REBMDE7CXXX;Deutsche Pfandbriefbank
+70011100;DEKTDE71001;Deutsche Kontor Privatbank
+70011110;DEKTDE71002;Deutsche Kontor Privatbank Sofort Bank
+70011200;VONTDEM1XXX;Bank Vontobel Europe
+70011300;AUZDDEM1XXX;Autobank
+70011400;BFWODE71XXX;BfW - Bank für Wohnungswirtschaft
+70011500;SIBADEMMXXX;SIEMENS BANK
+70011700;BVDHDEMMXXX;Bankhaus von der Heydt
+70011900;ICRDDE71XXX;InterCard
+70011910;ICRDDE71010;InterCard Cash Services 10
+70011920;ICRDDE71020;InterCard Cash Services 20
+70012000;CLABDEMMXXX;UniCredit Family Financing Bank, Ndl der UniCredit
+70012100;VEAKDEMMXXX;VEM Aktienbank
+70012200;SRRADEM1XXX;Bank Sarasin
+70012300;VBANDEMMXXX;V-Bank
+70012600;SUSKDEM1XXX;Südtiroler Sparkasse Niederlassung München
+70013000;COBADEMXXXX;European Bank for Fund Services
+70013010;EFSGDEM1XXX;European Bank for Fund Services
+70013100;BVWBDE2WXXX;net-m privatbank 1891
+70013155;BVWBDE2TRAX;net-m privatbank 1891 (Gf TRAXPAY)
+70013199;BVWBDE2WXXX;net-m privatbank 1891
+70013500;HERZDEM1XXX;Bankhaus Herzogpark
+70015000;TEZGDEB1XXX;transact Elektronische Zahlungssysteme
+70015015;TEZGDEB1001;transact Elektronische Zahlungssysteme
+70015025;TEZGDEB1002;transact Elektronische Zahlungssysteme
+70015035;TEZGDEB1003;transact Elektronische Zahlungssysteme
+70017000;PAGMDEM1XXX;PayCenter
+70020001;HYVEDEM1092;UniCredit Bank - HypoVereinsbank Ndl 645 M
+70020270;HYVEDEMMXXX;UniCredit Bank - HypoVereinsbank
+70020300;WKVBDEM1XXX;Commerz Finanz
+70020500;BFSWDE33MUE;Bank für Sozialwirtschaft
+70020800;BCITDEFFMUC;INTESA SANPAOLO
+70021180;HYVEDEMM418;UniCredit Bank - HypoVereinsbank
+70022200;FDDODEM1XXX;FIDOR Bank
+70025175;HYVEDEMM643;UniCredit Bank - HypoVereinsbank
+70030014;FUBKDE71MUC;Fürst Fugger Privatbank
+70030111;FLESDEMM700;Bankhaus Max Flessa
+70030300;CHDBDEHHXXX;Bankhaus Reuschel & Co
+70030400;MEFIDEMMXXX;Merck Finck & Co
+70030800;DELBDE33XXX;Bethmann Bank
+70031000;BHLSDEM1XXX;Bankhaus Ludwig Sperrer
+70032500;GAKDDEM1XXX;St. Galler Kantonalbank Deutschland
+70033100;BDWBDEMMXXX;Baader Bank
+70035000;OLBODEH2700;Allianz Bank (Zndl der Oldenburgische Landesbank)
+70040041;COBADEFF700;Commerzbank
+70040048;COBADEFF970;Commerzbank GF-M48
+70040060;COBADEFF068;Commerzbank Gf 860
+70040061;COBADEFF069;Commerzbank Gf 861
+70040062;COBADEFF098;Commerzbank CC
+70040063;COBADEFF099;Commerzbank CC
+70040070;COBADEFFS07;Commerzbank, CC SP
+70045050;COBADEFFBZM;Commerzbank Service-BZ
+70050000;BYLADEMMXXX;Bayerische Landesbank
+70051003;BYLADEM1FSI;Sparkasse Freising
+70051540;BYLADEM1DAH;Sparkasse Dachau
+70051805;BYLADEM1EBE;Kreissparkasse München Starnberg Ebersberg
+70051995;BYLADEM1ERD;Kreis- und Stadtsparkasse Erding-Dorfen
+70052060;BYLADEM1LLD;Sparkasse Landsberg-Dießen
+70053070;BYLADEM1FFB;Sparkasse Fürstenfeldbruck
+70054306;BYLADEM1WOR;Sparkasse Bad Tölz-Wolfratshausen
+70070010;DEUTDEMMXXX;Deutsche Bank
+70070024;DEUTDEDBMUC;Deutsche Bank Privat und Geschäftskunden
+70080000;DRESDEFF700;Commerzbank vormals Dresdner Bank
+70080056;DRESDEFF714;Commerzbank vormals Dresdner Bank Zw 56
+70080057;DRESDEFF724;Commerzbank vormals Dresdner Bank Gf ZW 57

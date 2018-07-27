@@ -1,0 +1,81 @@
+85060000;GENODEF1PR2;Volksbank Pirna
+85065028;GENODEF1SEB;Raiffeisenbank Neustadt, Sachs -alt-
+85080000;DRESDEFF850;Commerzbank vormals Dresdner Bank
+85080085;DRESDEFFJ29;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 1
+85080086;DRESDEFFJ30;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 2
+85080200;DRESDEFF857;Commerzbank vormals Dresdner Bank
+85089270;DRESDEFFI15;Commerzbank vormals Dresdner Bank ITGK
+85090000;GENODEF1DRS;Dresdner Volksbank Raiffeisenbank
+85094984;GENODEF1RIE;Volksbank Riesa
+85095004;GENODEF1MEI;Volksbank Raiffeisenbank Meißen Großenhain
+85095164;GENODEF1LKG;Landeskirchliche Kredit-Genossenschaft Sachsen -alt-
+85550000;SOLADES1BAT;Kreissparkasse Bautzen
+85550200;SOLADES1ZIT;Kreissparkasse Löbau-Zittau -alt-
+85590000;GENODEF1BZV;Volksbank Bautzen
+85590100;GENODEF1NGS;Volksbank Löbau-Zittau
+85591000;GENODEF1GR1;Volksbank Raiffeisenbank Niederschlesien
+85595500;GENODEF1BIW;Volksbank Westlausitz -alt-
+86000000;MARKDEF1860;Bundesbank
+86010090;PBNKDEFF860;Postbank
+86010111;ESSEDE5F860;SEB
+86010424;AARBDE5W860;Aareal Bank
+86020030;SOLADEST860;ZV Landesbank Baden-Württemberg
+86020086;HYVEDEMM495;UniCredit Bank - HypoVereinsbank
+86020200;BHFBDEFF860;BHF-BANK
+86020500;BFSWDE33LPZ;Bank für Sozialwirtschaft
+86020600;HSTBDEH1LEI;Hanseatic Bank
+86020880;HYVEDEM1088;UniCredit Bank - HypoVereinsbank Ndl 508 Lei
+86033300;SCFBDE33XXX;Santander Consumer Bank
+86040000;COBADEFF860;Commerzbank
+86040060;COBADEFF106;Commerzbank CC
+86040061;COBADEFF107;Commerzbank CC
+86050000;SOLADEST861;ZV Landesbank Baden-Württemberg
+86050200;SOLADES1GRM;Sparkasse Muldental
+86050600;WELADED1TGU;Kreissparkasse Torgau-Oschatz -alt-
+86055002;SOLADES1DES;Sparkasse Delitzsch-Eilenburg -alt-
+86055462;SOLADES1DLN;Kreissparkasse Döbeln
+86055592;WELADE8LXXX;Stadt- und Kreissparkasse Leipzig
+86065448;GENODEF1BOA;VR Bank Leipziger Land
+86065468;GENODEF1DL1;VR-Bank Mittelsachsen
+86065483;GENODEF1GMR;Raiffeisenbank Grimma
+86065548;GENODEF1WUZ;Wurzener Bank (Raiffeisen-Volksbank) -alt-
+86069070;GENODEF1TGB;Raiffeisenbank
+86070000;DEUTDE8LXXX;Deutsche Bank
+86070024;DEUTDEDBLEG;Deutsche Bank Privat und Geschäftskunden
+86080000;DRESDEFF860;Commerzbank vormals Dresdner Bank
+86080055;DRESDEFF862;Commerzbank vormals Dresdner Bank Zw 55
+86080057;DRESDEFF867;Commerzbank vormals Dresdner Bank Gf ZW 57
+86080085;DRESDEFFJ31;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 1
+86080086;DRESDEFFJ32;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 2
+86089280;DRESDEFFI16;Commerzbank vormals Dresdner Bank ITGK
+86095484;GENODEF1GMV;Volks- und Raiffeisenbank Muldental
+86095554;GENODEF1DZ1;Volksbank Delitzsch
+86095604;GENODEF1LVB;Volksbank Leipzig
+87000000;MARKDEF1870;Bundesbank
+87020086;HYVEDEMM497;UniCredit Bank - HypoVereinsbank
+87020087;HYVEDEMM481;UniCredit Bank - HypoVereinsbank
+87020088;HYVEDEMM441;UniCredit Bank - HypoVereinsbank
+87040000;COBADEFF870;Commerzbank
+87050000;CHEKDE81XXX;Sparkasse Chemnitz
+87051000;WELADED1MTW;Sparkasse Mittelsachsen
+87052000;WELADED1FGX;Sparkasse Mittelsachsen
+87053000;SOLADES1SME;Sparkasse Mittleres Erzgebirge -alt-
+87054000;WELADED1STB;Erzgebirgssparkasse
+87055000;WELADED1ZWI;Sparkasse Zwickau
+87056000;WELADED1AUS;Kreissparkasse Aue-Schwarzenberg -alt-
+87058000;WELADED1PLX;Sparkasse Vogtland
+87065893;GENODEF1AUE;Volksbank Erzgebirge -alt-
+87065918;GENODEF1LGH;Raiffeisenbank Werdau-Zwickau -alt-
+87069075;GENODEF1MBG;Volksbank Mittleres Erzgebirge
+87069077;GENODEF1BST;Vereinigte Raiffeisenbank Burgstädt
+87070000;DEUTDE8CXXX;Deutsche Bank
+87070024;DEUTDEDBCHE;Deutsche Bank Privat und Geschäftskunden
+87080000;DRESDEFF870;Commerzbank vormals Dresdner Bank
+87095824;GENODEF1PL1;Volksbank Vogtland
+87095899;GENODEF1EXT;Volksbank Vogtland GAA
+87095934;GENODEF1Z01;Volksbank Zwickau
+87095974;GENODEF1GC1;Volksbank-Raiffeisenbank Glauchau
+87096034;GENODEF1ANA;Volksbank Erzgebirge -alt-
+87096074;GENODEF1FBV;Freiberger Bank -alt-
+87096124;GENODEF1MIW;Volksbank
+87096214;GENODEF1CH1;Volksbank Chemnitz

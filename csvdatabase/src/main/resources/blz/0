@@ -1,0 +1,400 @@
+10000000;MARKDEF1100;Bundesbank
+10010010;PBNKDEFF100;Postbank
+10010111;ESSEDE5F100;SEB
+10010222;ABNADEFFBER;The Royal Bank of Scotland Niederlassung Frankfurt
+10010424;AARBDE5W100;Aareal Bank
+10019610;DXIADEBBXXX;Dexia Kommunalbank Deutschland
+10020000;;Berliner Bank -alt-
+10020200;BHFBDEFF100;BHF-BANK
+10020400;PARXDEBBXXX;Citadele Bank Zndl Deutschland
+10020500;BFSWDE33BER;Bank für Sozialwirtschaft
+10020890;HYVEDEMM488;UniCredit Bank - HypoVereinsbank
+10030200;BHYPDEB1XXX;Berlin-Hannoversche Hypothekenbank
+10030400;ABKBDEBBXXX;ABK-Kreditbank
+10030500;LOEBDEBBXXX;Bankhaus Löbbecke
+10030600;GENODEF1OGK;North Channel Bank
+10030700;DLGHDEB1XXX;Eurocity Bank
+10033300;SCFBDE33XXX;Santander Consumer Bank
+10040000;COBADEBBXXX;Commerzbank Berlin (West)
+10040010;COBADEFFS01;Commerzbank, CC SP
+10040048;COBADEFF910;Commerzbank GF-B48
+10040060;COBADEFF060;Commerzbank Gf 160
+10040061;COBADEFF061;Commerzbank Gf 161
+10040062;COBADEFF102;Commerzbank CC
+10040063;COBADEFF103;Commerzbank CC
+10040085;COBADEBBXXX;Commerzbank, Gf Web-K
+10045050;COBADEFFBZB;Commerzbank Service-BZ
+10050000;BELADEBEXXX;Landesbank Berlin - Berliner Sparkasse
+10050005;BELADEB1DB5;Landesbank Berlin - E 1 -
+10050006;BELADEB1DB6;Landesbank Berlin - E 2 -
+10050007;BELADEB1DB7;Landesbank Berlin - E 3 -
+10050008;BELADEB1DB8;Landesbank Berlin - E 4 -
+10050020;SKPADEB1XXX;LBB S-Kreditpartner, Berlin
+10050021;SKPADEB1HOM;LBB S-Kreditpartner Bad Homburg v d Höhe
+10050500;LBSODEB1BLN;LBS Ost Berlin
+10050600;WELADEBBXXX;Landesbank Hessen-Thüringen Girozentrale NL. Düsseldorf
+10050999;DGZFDEFFBER;DekaBank Berlin
+10060198;GENODED1PA6;Pax-Bank
+10060237;GENODEF1EDB;Evangelische Darlehnsgenossenschaft
+10061006;GENODED1KDB;Bank für Kirche und Diakonie - KD-Bank Gf Sonder-BLZ
+10070000;DEUTDEBBXXX;Deutsche Bank Fil Berlin
+10070024;DEUTDEDBBER;Deutsche Bank Privat und Geschäftskunden F 700
+10070100;DEUTDEBB101;Deutsche Bank Fil Berlin II
+10070124;DEUTDEDB101;Deutsche Bank Privat und Geschäftskd Berlin II
+10070848;DEUTDEDB110;Berliner Bank Niederlassung der Deutsche Bank PGK
+10077777;NORSDE51XXX;norisbank
+10080000;DRESDEFF100;Commerzbank vormals Dresdner Bank Filiale Berlin I
+10080005;DRESDEFFI26;Commerzbank vormals Dresdner Bank Zw A
+10080006;DRESDEF1S02;Commerzbank vormals Dresdner Bank Zw B
+10080055;DRESDEFF112;Commerzbank vormals Dresdner Bank Zw 55
+10080057;DRESDEFF114;Commerzbank vormals Dresdner Bank Gf ZW 57
+10080085;DRESDEFFI53;Commerzbank vormals Dresdner Bank Gf PCC DCC-ITGK 3
+10080086;DRESDEFFI71;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 4
+10080087;DRESDEFFI72;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 5
+10080088;DRESDEF1S03;Commerzbank vormals Dresdner Bank IBLZ
+10080089;DRESDEFFI73;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 6
+10080900;DRESDEFF199;Commerzbank vormals Dresdner Bank Filiale Berlin III
+10089260;DRESDEFFI14;Commerzbank vormals Dresdner Bank ITGK
+10089999;DRESDEFFI99;Commerzbank vormals Dresdner Bank ITGK 2
+10090000;BEVODEBBXXX;Berliner Volksbank
+10090300;GENODEF1BSB;Bank für Schiffahrt (BFS) Fil d Ostfr VB Leer
+10090603;DAAEDED1003;apoBank
+10090900;GENODEF1P01;PSD Bank Berlin-Brandenburg
+10110300;MACODEB1XXX;Bankhaus Dr. Masel
+10110400;IBBBDEBBXXX;Investitionsbank Berlin
+10110600;QUBKDEBBXXX;quirin bank
+10120100;WELADED1WBB;Weberbank
+10120600;GEMKDE21BER;Santander Consumer Bank
+10120760;HYVEDEM1079;UniCredit Bank - HypoVereinsbank Ndl 260 BIn
+10120800;VONEDE33BLN;VON ESSEN Bankgesellschaft
+10130600;ISBKDEFXBER;Isbank Fil Berlin
+10130800;BIWBDE33XXX;BIW Bank
+10220600;SYBKDE22BER;Sydbank Filiale Berlin
+10310600;TRDADEB1XXX;Tradegate Wertpapierhandelsbank Berlin
+12016836;KFWIDEFF100;KfW Kreditanstalt für Wiederaufbau
+12030000;BYLADEM1001;Deutsche Kreditbank Berlin
+12030900;MEFIDEMM100;Merck Finck & Co
+12040000;COBADEBB120;Commerzbank Berlin Ost
+12050555;NOLADE21DVS;NLB FinanzIT
+12060000;GENODEFF120;DZ BANK
+12070000;DEUTDEBB160;Deutsche Bank Ld Brandenburg
+12070024;DEUTDEDB160;Deutsche Bank Privat und Geschäftskunden
+12070070;DEUTDEFFVAC;Deutsche Bank (Gf intern)
+12070088;DEUTDEDBPAL;Deutsche Bank (Gf intern)
+12080000;DRESDEFF120;Commerzbank vormals Dresdner Bank Filiale Berlin II
+12090640;DAAEDED1040;apoBank
+12096597;GENODEF1S10;Sparda-Bank Berlin
+13000000;MARKDEF1130;Bundesbank
+13010111;ESSEDE5F130;SEB
+13040000;COBADEFF130;Commerzbank
+13050000;NOLADE21ROS;Ostseesparkasse Rostock
+13051042;NOLADE21RUE;Sparkasse Rügen
+13061008;GENODEF1WOG;Volksbank Wolgast
+13061028;GENODEF1GW1;Volksbank Raiffeisenbank ehem VB Greifswald
+13061078;GENODEF1HWI;Volks- und Raiffeisenbank
+13061088;GENODEF1HWR;Raiffeisenbank Wismar -alt-
+13061128;GENODEF1DBR;Raiffeisenbank
+13070000;DEUTDEBRXXX;Deutsche Bank
+13070024;DEUTDEDBROS;Deutsche Bank Privat und Geschäftskunden
+13080000;DRESDEFF130;Commerzbank vormals Dresdner Bank
+13090000;GENODEF1HR1;Rostocker Volks- und Raiffeisenbank
+13091054;GENODEF1HST;Pommersche Volksbank
+13091084;GENODEF1HWV;Volksbank Wismar -alt-
+14000000;MARKDEF1140;Bundesbank eh Schwerin
+14040000;COBADEFF140;Commerzbank
+14051000;NOLADE21WIS;Sparkasse Mecklenburg-Nordwest
+14051362;NOLADE21PCH;Sparkasse Parchim-Lübz
+14051462;NOLADE21SNS;Sparkasse Schwerin -alt-
+14052000;NOLADE21LWL;Sparkasse Mecklenburg-Schwerin
+14061308;GENODEF1GUE;Volks- und Raiffeisenbank
+14061438;GENODEF1GDB;Raiffeisen-Volksbank -alt-
+14080000;DRESDEFF140;Commerzbank vormals Dresdner Bank
+14080011;DRESDEFFI27;Commerzbank vormals Dresdner Bank Zw W
+14091464;GENODEF1SN1;VR-Bank
+15000000;MARKDEF1150;Bundesbank
+15040068;COBADEFF151;Commerzbank
+15050100;NOLADE21WRN;Müritz-Sparkasse
+15050200;NOLADE21NBS;Sparkasse Neubrandenburg-Demmin
+15050400;NOLADE21PSW;Sparkasse Uecker-Randow
+15050500;NOLADE21GRW;Sparkasse Vorpommern
+15051732;NOLADE21MST;Sparkasse Mecklenburg-Strelitz
+15061618;GENODEF1WRN;Raiffeisenbank Mecklenburger Seenplatte
+15061638;GENODEF1ANK;Volksbank Raiffeisenbank
+15061658;GENODEF1STG;Raiffeisenbank Pasewalk-Strasburg -alt-
+15061698;GENODEF1MAL;Raiffeisenbank Malchin
+15080000;DRESDEFF150;Commerzbank vormals Dresdner Bank
+15091674;GENODEF1DM1;Volksbank Demmin
+15091704;GENODEF1PZ1;VR-Bank Uckermark-Randow
+16000000;MARKDEF1160;Bundesbank eh Potsdam
+16010111;ESSEDE5F160;SEB
+16010300;ILBXDE8XXXX;Investitionsbank des Landes Brandenburg
+16020086;HYVEDEMM470;UniCredit Bank - HypoVereinsbank
+16040000;COBADEFF160;Commerzbank
+16050000;WELADED1PMB;Mittelbrandenburgische Sparkasse in Potsdam
+16050101;WELADED1PRP;Sparkasse Prignitz
+16050202;WELADED1OPR;Sparkasse Ostprignitz-Ruppin
+16050500;LBSODEB1XXX;LBS Ostdeutsche Landesbausparkasse
+16060122;GENODEF1PER;Volks- und Raiffeisenbank Prignitz
+16061938;GENODEF1NPP;Raiffeisenbank Ostprignitz-Ruppin
+16062008;GENODEF1LUK;VR-Bank Fläming
+16062073;GENODEF1BRB;Brandenburger Bank
+16080000;DRESDEFF160;Commerzbank vormals Dresdner Bank
+16091994;GENODEF1RN1;Volksbank Rathenow
+17000000;MARKDEF1170;Bundesbank eh Frankfurt (Oder)
+17020086;HYVEDEMM471;UniCredit Bank - HypoVereinsbank
+17040000;COBADEFF170;Commerzbank
+17052000;WELADED1GZE;Sparkasse Barnim
+17052302;WELADED1UMX;Stadtsparkasse Schwedt
+17054040;WELADED1MOL;Sparkasse Märkisch-Oderland
+17055050;WELADED1LOS;Sparkasse Oder-Spree
+17056060;WELADED1UMP;Sparkasse Uckermark
+17062428;GENODEF1BKW;Raiffeisenbank-Volksbank Oder-Spree
+17080000;DRESDEFF170;Commerzbank vormals Dresdner Bank
+17092404;GENODEF1FW1;VR Bank Fürstenwalde Seelow Wriezen
+18000000;MARKDEF1180;Bundesbank eh Cottbus
+18020086;HYVEDEMM472;UniCredit Bank - HypoVereinsbank
+18040000;COBADEFF180;Commerzbank
+18050000;WELADED1CBN;Sparkasse Spree-Neiße
+18051000;WELADED1EES;Sparkasse Elbe-Elster
+18055000;WELADED1OSL;Sparkasse Niederlausitz
+18062678;GENODEF1FWA;VR Bank Lausitz
+18062758;GENODEF1FOR;VR Bank Forst
+18080000;DRESDEFF180;Commerzbank vormals Dresdner Bank
+18092684;GENODEF1LN1;Spreewaldbank
+18092744;GENODEF1SPM;Volksbank Spree-Neiße
+20000000;MARKDEF1200;Bundesbank
+20010020;PBNKDEFF200;Postbank (Giro)
+20010111;ESSEDE5F200;SEB
+20010424;AARBDE5W200;Aareal Bank
+20020200;ESSEDEFFHAM;SEB Merchant Bank Hamburg
+20020500;JYBADEHHXXX;Jyske Bank Fil Hamburg
+20020900;SIBSDEHHXXX;Signal Iduna Bauspar
+20030000;HYVEDEMM300;UniCredit Bank - HypoVereinsbank
+20030300;CHDBDEHHXXX;DONNER & REUSCHEL
+20030400;MCRDDEHHXXX;Marcard, Stein & Co Bankiers
+20030600;SYBKDE22HAM;Sydbank Fil Hamburg
+20030700;MEFIDEMM200;Merck Finck & Co
+20030900;WOELDEHHXXX;Bankhaus Wölbern & Co
+20040000;COBADEHHXXX;Commerzbank
+20040020;COBADEFFS02;Commerzbank, CC SP
+20040040;COBADEFFRME;Commerzbank GF RME
+20040048;COBADEFF920;Commerzbank GF-H48
+20040050;COBADEFF208;Commerzbank GF COC
+20040060;COBADEFF062;Commerzbank Gf 260
+20040061;COBADEFF063;Commerzbank Gf 261
+20040062;COBADEFF074;Commerzbank CC
+20040063;COBADEFF075;Commerzbank CC
+20041111;COBADEHDXXX;comdirect bank
+20041133;COBADEHD001;comdirect bank
+20041144;COBADEHD044;comdirect bank
+20041155;COBADEHD055;comdirect bank
+20050000;HSHNDEHH200;HSH Nordbank Hamburg
+20050550;HASPDEHHXXX;Hamburger Sparkasse
+20060000;GENODEFF200;DZ BANK
+20069111;GENODEF1NDR;Norderstedter Bank
+20069125;GENODEF1KLK;Kaltenkirchener Bank
+20069130;GENODEF1BBR;Raiffeisenbank
+20069144;GENODEF1SST;Raiffeisenbank
+20069177;GENODEF1GRS;Raiffeisenbank Südstormarn Mölln
+20069232;GENODEF1STV;Raiffeisenbank
+20069625;GENODEF1GNA;Volksbank
+20069641;GENODEF1OWS;Raiffeisenbank Owschlag
+20069659;GENODEF1VSO;Volksbank
+20069780;GENODEF1AST;Volksbank Ahlerstedt
+20069782;GENODEF1APE;Volksbank Geest
+20069786;GENODEF1DRO;Volksbank Kehdingen
+20069800;GENODEF1HAA;Spar- und Kreditbank
+20069812;GENODEF1FRB;Volksbank Fredenbeck-Oldendorf
+20069815;GENODEF1815;Volksbank
+20069861;GENODEF1RRZ;Raiffeisenbank
+20069882;GENODEF1RLT;Raiffeisenbank Travemünde -alt-
+20069965;GENODEF1WIM;Volksbank Winsener Marsch
+20069989;GENODEF1WUL;Volksbank Wulfsen
+20070000;DEUTDEHHXXX;Deutsche Bank
+20070024;DEUTDEDBHAM;Deutsche Bank Privat und Geschäftskunden
+20080000;DRESDEFF200;Commerzbank vormals Dresdner Bank
+20080055;DRESDEFF207;Commerzbank vormals Dresdner Bank Zw 55
+20080057;DRESDEFF208;Commerzbank vormals Dresdner Bank Gf ZW 57
+20080085;DRESDEFFI56;Commerzbank vormals Dresdner Bank Gf PCC DCC-ITGK 2
+20080086;DRESDEFFI63;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 3
+20080087;DRESDEFFI64;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 4
+20080088;DRESDEFFI74;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 5
+20080089;DRESDEFFI75;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 6
+20080091;DRESDEFFJ33;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 7
+20080092;DRESDEFFJ34;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 8
+20080093;DRESDEFFJ35;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 9
+20080094;DRESDEFFJ36;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 10
+20080095;DRESDEFFJ37;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 11
+20089200;DRESDEFFI06;Commerzbank vormals Dresdner Bank ITGK
+20090400;DGHYDEH1XXX;Deutsche Genossenschafts-Hypothekenbank
+20090500;GENODEF1S15;netbank
+20090602;DAAEDED1002;apoBank
+20090700;EDEKDEHHXXX;Edekabank
+20090745;EDECDEH1XXX;EBANK Gf Cash
+20090900;GENODEF1P08;PSD Bank Nord
+20110022;PBNKDEFF201;Postbank (Spar)
+20110401;EHYPDEF1DHH;Hypothekenbank Frankfurt -alt-
+20110700;BOTKDEH1XXX;Bank of Tokyo-Mitsubishi UFJ, The -
+20110800;BKCHDEFFHMB;Bank of China Fil Hamburg
+20120000;BEGODEHHXXX;Berenberg, Joh. - Gossler & Co
+20120100;WBWCDEHHXXX;Warburg, M.M.- Bank
+20120200;BHFBDEFF200;BHF-BANK
+20120400;DRBKDEH1XXX;Deutscher Ring Bausparkasse
+20120600;GOGODEH1XXX;Goyer & Göppel
+20120700;HSTBDEHHXXX;Hanseatic Bank
+20120701;HSTBDEH1OV1;Hanseatic Bank Zw Nord
+20120744;HSTBDEH1NKO;Hanseatic Bank Filiale Ost
+20120766;HSTBDEH1NKS;Hanseatic Bank Filiale Süd
+20130400;GREBDEH1XXX;GRENKE BANK
+20130412;GREBDEH1ABS;GRENKE BANK Asset Backed Securities
+20130600;BARCDEHAXXX;Barclaycard Barclays Bank
+20133300;SCFBDE33XXX;Santander Consumer Bank
+20190003;GENODEF1HH2;Hamburger Volksbank
+20190109;GENODEF1HH4;Volksbank Stormarn
+20190206;GENODEF1HH1;Volksbank Hamburg Ost-West -alt-
+20190301;GENODEF1HH3;Vierländer Volksbank
+20190800;GENODEF1MKB;MKB Mittelstandskreditbank
+20210200;;Bank Melli Iran
+20210300;;Bank Saderat Iran
+20220100;DNBADEHXXXX;DNB Bank ASA - Filiale Deutschland
+20220400;MMWHDEH1XXX;Warburg, M.M. - Hypothekenbank
+20230300;OSCBDEH1XXX;Schröder, Otto M. - Bank
+20230600;ISBKDEFXHAM;Isbank Fil Hamburg
+20230800;MHSBDEHBXXX;Max Heinr. Sutor
+20310300;;Europäisch-Iranische Handelsbank
+20310600;ABNADEFFHAM;The Royal Bank of Scotland Niederlassung Frankfurt
+20320500;DABADEHHXXX;Danske Bank
+20350000;WELADEHHXXX;Landesbank Hessen-Thüringen Girozentrale NL. Düsseldorf
+20690500;GENODEF1S11;Sparda-Bank Hamburg
+20730000;HYVEDEMM314;UniCredit Bank - HypoVereinsbank (ex VereinWest)
+20730001;HYVEDEMME01;UniCredit Bank - HVB Settlement EAC01
+20730002;HYVEDEMME02;UniCredit Bank - HVB Settlement EAC02
+20730003;HYVEDEMME03;UniCredit Bank - HVB Settlement EAC03
+20730004;HYVEDEMME04;UniCredit Bank - HVB Settlement EAC04
+20730005;HYVEDEMME05;UniCredit Bank - HVB Settlement EAC05
+20730006;HYVEDEMME06;UniCredit Bank - HVB Settlement EAC06
+20730007;HYVEDEMME07;UniCredit Bank - HVB Settlement EAC07
+20730008;HYVEDEMME08;UniCredit Bank - HVB Settlement EAC08
+20730009;HYVEDEMME09;UniCredit Bank - HVB Settlement EAC09
+20730010;HYVEDEMME10;UniCredit Bank - HVB Settlement EAC10
+20730011;HYVEDEMME11;UniCredit Bank - HVB Settlement EAC11
+20730012;HYVEDEMME12;UniCredit Bank - HVB Settlement EAC12
+20730013;HYVEDEMME13;UniCredit Bank - HVB Settlement EAC13
+20730014;HYVEDEMME14;UniCredit Bank - HVB Settlement EAC14
+20730015;HYVEDEMME15;UniCredit Bank - HVB Settlement EAC15
+20730016;HYVEDEMME16;UniCredit Bank - HVB Settlement EAC16
+20730017;HYVEDEMME17;UniCredit Bank - HVB Settlement EAC17
+20730018;HYVEDEMME18;UniCredit Bank - HVB Settlement EAC18
+20730019;HYVEDEMME19;UniCredit Bank - HVB Settlement EAC19
+20730020;HYVEDEMME20;UniCredit Bank - HVB Settlement EAC20
+20730021;HYVEDEMME21;UniCredit Bank - HVB Settlement EAC21
+20730022;HYVEDEMME22;UniCredit Bank - HVB Settlement EAC22
+20730023;HYVEDEMME23;UniCredit Bank - HVB Settlement EAC23
+20730024;HYVEDEMME24;UniCredit Bank - HVB Settlement EAC24
+20730025;HYVEDEMME25;UniCredit Bank - HVB Settlement EAC25
+20730026;HYVEDEMME26;UniCredit Bank - HVB Settlement EAC26
+20730027;HYVEDEMME27;UniCredit Bank - HVB Settlement EAC27
+20730028;HYVEDEMME28;UniCredit Bank - HVB Settlement EAC28
+20730029;HYVEDEMME29;UniCredit Bank - HVB Settlement EAC29
+20730030;HYVEDEMME30;UniCredit Bank - HVB Settlement EAC30
+20730031;HYVEDEMME31;UniCredit Bank - HVB Settlement EAC31
+20730032;HYVEDEMME32;UniCredit Bank - HVB Settlement EAC32
+20730033;HYVEDEMME33;UniCredit Bank - HVB Settlement EAC33
+20730034;HYVEDEMME34;UniCredit Bank - HVB Settlement EAC34
+20730035;HYVEDEMME35;UniCredit Bank - HVB Settlement EAC35
+20730036;HYVEDEMME36;UniCredit Bank - HVB Settlement EAC36
+20730037;HYVEDEMME37;UniCredit Bank - HVB Settlement EAC37
+20730038;HYVEDEMME38;UniCredit Bank - HVB Settlement EAC38
+20730039;HYVEDEMME39;UniCredit Bank - HVB Settlement EAC39
+20730040;HYVEDEMME40;UniCredit Bank - HVB Settlement EAC40
+20730051;HYVEDEMM316;UniCredit Bank - HypoVereinsbank (ex VereinWest)
+20730053;HYVEDEMM330;UniCredit Bank - HypoVereinsbank (ex VereinWest)
+20730054;HYVEDEMM324;UniCredit Bank - HypoVereinsbank (ex VereinWest)
+20750000;NOLADE21HAM;Sparkasse Harburg-Buxtehude
+21000000;MARKDEF1210;Bundesbank
+21010111;ESSEDE5F210;SEB
+21020600;SYBKDE22KIE;Sydbank Filiale Kiel
+21030000;HYVEDEMM372;UniCredit Bank - HypoVereinsbank (ex VereinWest)
+21030092;HYVEDEMM373;UniCredit Bank - HypoVereinsbank (ex VereinWest)
+21030093;HYVEDEMM379;UniCredit Bank - HypoVereinsbank (ex VereinWest)
+21030094;HYVEDEMM382;UniCredit Bank - HypoVereinsbank (ex VereinWest)
+21030095;HYVEDEMM375;UniCredit Bank - HypoVereinsbank (ex VereinWest)
+21040010;COBADEFF210;Commerzbank
+21042076;COBADEFF245;Commerzbank
+21050000;HSHNDEHHXXX;HSH Nordbank Hamburg, Kiel
+21050170;NOLADE21KIE;Förde Sparkasse
+21051275;NOLADE21BOR;Bordesholmer Sparkasse
+21051580;NOLADE21PLN;Sparkasse Kreis Plön -alt-
+21052090;NOLADE21ECK;Sparkasse Eckernförde -alt-
+21060237;GENODEF1EDG;Evangelische Darlehnsgenossenschaft
+21064045;GENODEF1LTJ;Raiffeisenbank im Kreis Plön -alt-
+21070020;DEUTDEHH210;Deutsche Bank
+21070024;DEUTDEDB210;Deutsche Bank Privat und Geschäftskunden
+21080050;DRESDEFF210;Commerzbank vormals Dresdner Bank
+21089201;DRESDEFFI07;Commerzbank vormals Dresdner Bank ITGK
+21090007;GENODEF1KIL;Kieler Volksbank
+21090619;DAAEDED1019;apoBank
+21090900;GENODEF1P11;PSD Bank Kiel
+21092023;GENODEF1EFO;Eckernförder Bank Volksbank-Raiffeisenbank
+21210111;ESSEDE5F212;SEB
+21230085;HYVEDEMM380;UniCredit Bank - HypoVereinsbank (ex VereinWest)
+21230086;HYVEDEMM384;UniCredit Bank - HypoVereinsbank (ex VereinWest)
+21240040;COBADEFF212;Commerzbank
+21241540;COBADEFF225;Commerzbank
+21261089;GENODEF1WAS;Raiffeisenbank -alt-
+21261227;GENODEF1BOO;Raiffbk Kl-Kummerfeld -alt-
+21270020;DEUTDEHH212;Deutsche Bank
+21270024;DEUTDEDB212;Deutsche Bank Privat und Geschäftskunden
+21280002;DRESDEFF212;Commerzbank vormals Dresdner Bank
+21290016;GENODEF1NMS;VR Bank Neumünster
+21340010;COBADEFF226;Commerzbank
+21352240;NOLADE21HOL;Sparkasse Holstein
+21390008;GENODEF1NSH;VR Bank Ostholstein Nord-Plön
+21392218;GENODEF1EUT;Volksbank Eutin Raiffeisenbank
+21430070;HYVEDEMM387;UniCredit Bank - HypoVereinsbank (ex VereinWest)
+21440045;COBADEFF214;Commerzbank
+21450000;NOLADE21RDB;Sparkasse Mittelholstein Rendsburg
+21451205;NOLADE21BDF;Sparkasse Büdelsdorf -alt-
+21452030;NOLADE21HWS;Sparkasse Hohenwestedt
+21461627;GENODEF1JST;Raiffeisenbank Jevenstedt -alt-
+21463603;GENODEF1NTO;Volksbank-Raiffeisenbank im Kreis Rendsburg
+21464671;GENODEF1TOB;Raiffeisenbank
+21480003;DRESDEFF214;Commerzbank vormals Dresdner Bank
+21500000;MARKDEF1215;Bundesbank eh Flensburg
+21510600;SYBKDE22XXX;Sydbank Filiale Flensburg
+21520100;UNBNDE21XXX;Union-Bank Flensburg
+21530080;HYVEDEMM334;UniCredit Bank - HypoVereinsbank (ex VereinWest)
+21540060;COBADEFF215;Commerzbank
+21550050;NOLADE21FLS;Nord-Ostsee Sparkasse
+21565316;GENODEF1HDW;Raiffeisenbank
+21566356;GENODEF1SBR;Volks- und Raiffeisenbank
+21567360;GENODEF1KJO;Raiffeisenbank Kleinjörl -alt-
+21570011;DEUTDEHH215;Deutsche Bank
+21570024;DEUTDEDB215;Deutsche Bank Privat und Geschäftskunden
+21580000;DRESDEFF215;Commerzbank vormals Dresdner Bank
+21630060;HYVEDEMM393;UniCredit Bank - HypoVereinsbank (ex VereinWest)
+21630061;HYVEDEMM394;UniCredit Bank - HypoVereinsbank (ex VereinWest)
+21630062;HYVEDEMM395;UniCredit Bank - HypoVereinsbank (ex VereinWest)
+21630063;HYVEDEMM397;UniCredit Bank - HypoVereinsbank (ex VereinWest)
+21650110;NOLADE21SLN;Sparkasse Schleswig-Flensburg -alt-
+21661719;GENODEF1RSL;VR Bank Flensburg-Schleswig
+21690020;GENODEF1SLW;Schleswiger Volksbank, Volksbank Raiffeisenbank
+21700000;MARKDEF1217;Bundesbank eh Husum
+21730040;HYVEDEMM348;UniCredit Bank - HypoVereinsbank (ex VereinWest)
+21730042;HYVEDEMM353;UniCredit Bank - HypoVereinsbank (ex VereinWest)
+21730043;HYVEDEMM355;UniCredit Bank - HypoVereinsbank (ex VereinWest)
+21730044;HYVEDEMM358;UniCredit Bank - HypoVereinsbank (ex VereinWest)
+21730045;HYVEDEMM359;UniCredit Bank - HypoVereinsbank (ex VereinWest)
+21730046;HYVEDEMM361;UniCredit Bank - HypoVereinsbank (ex VereinWest)
+21740043;COBADEFF217;Commerzbank
+21741674;COBADEFF211;Commerzbank
+21741825;COBADEFF220;Commerzbank
+21750000;NOLADE21NOS;Nord-Ostsee Sparkasse
+21751230;NOLADE21BRD;Spar- und Leihkasse zu Bredstedt
+21762550;GENODEF1HUM;Husumer Volksbank
+21763542;GENODEF1BDS;VR Bank
+21770011;DEUTDEHH217;Deutsche Bank
+21770024;DEUTDEDB217;Deutsche Bank Privat und Geschäftskunden
+21791805;GENODEF1SYL;Sylter Bank
+21791906;GENODEF1WYK;Föhr-Amrumer Bank
+21830030;HYVEDEMM340;UniCredit Bank - HypoVereinsbank (ex VereinWest)

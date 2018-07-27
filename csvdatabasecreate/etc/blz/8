@@ -1,0 +1,400 @@
+70080086;DRESDEFFJ23;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 4
+70080087;DRESDEFFJ24;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 5
+70080088;DRESDEFFJ25;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 6
+70089470;DRESDEFFI23;Commerzbank vormals Dresdner Bank ITGK
+70089472;DRESDEFFI45;Commerzbank vormals Dresdner Bank ITGK
+70090100;GENODEF1M04;Hausbank München
+70090124;GENODEF1MU4;Hausbank München
+70090500;GENODEF1S04;Sparda-Bank München
+70090606;DAAEDED1006;apoBank
+70091500;GENODEF1DCA;Volksbank Raiffeisenbank Dachau
+70091600;GENODEF1DSS;VR-Bank Landsberg-Ammersee
+70091900;GENODEF1EDV;VR-Bank Erding
+70093200;GENODEF1STH;VR-Bank Starnberg-Herrsching-Landsberg
+70093400;GENODEF1ISV;Volksbank Raiffeisenbank Ismaning
+70110088;PBNKDEFF701;Postbank (Spar)
+70110500;MHYPDEMMXXX;Münchener Hypothekenbank
+70110600;BEPODEMMXXX;UBI BANCA INTERNATIONAL - Ndl München
+70120100;SBOSDEMXXXX;State Street Bank
+70120200;ABNADEFFMUN;The Royal Bank of Scotland Niederlassung Frankfurt
+70120400;DABBDEMMXXX;DAB bank
+70120500;FMBKDEMMXXX;CACEIS Bank Deutschland
+70120600;RVSADEMXXXX;Salzburg München Bank
+70120700;OBKLDEMXXXX;Oberbank Ndl Deutschland
+70120900;HYVEDEM1107;UniCredit Bank - HypoVereinsbank Ndl BACA
+70130700;LENZDEM1XXX;Bankhaus August Lenz & Co
+70130800;GENODEF1M06;Merkur Bank
+70133300;SCFBDE33XXX;Santander Consumer Bank
+70150000;SSKMDEMMXXX;Stadtsparkasse München
+70160000;GENODEFF701;DZ BANK
+70160300;GENODEF1M02;Raiffeisenbank München -alt-
+70163370;GENODEF1FFB;Volksbank Raiffeisenbank Fürstenfeldbruck
+70166486;GENODEF1OHC;VR Bank München Land
+70169132;GENODEF1HFG;Raiffeisenbank Griesstätt-Halfing
+70169165;GENODEF1SBC;Raiffeisenbank Chiemgau-Nord - Obing
+70169168;GENODEF1RIW;VR-Bank Chiemgau-Süd -alt-
+70169186;GENODEF1ODZ;Raiffeisenbank Pfaffenhofen a d Glonn
+70169190;GENODEF1GKT;Raiffeisenbank Tattenh-Großkarolinenf
+70169191;GENODEF1TEI;Raiffeisenbank Rupertiwinkel
+70169195;GENODEF1TRU;Raiffeisenbank Trostberg-Traunreut
+70169310;GENODEF1ALX;Raiffeisenbank Alxing-Bruck
+70169322;GENODEF1AFK;Raiffeisenbank Aufkirchen -alt-
+70169331;GENODEF1SSB;Raiffeisenbank südöstl. Starnberger See
+70169333;GENODEF1EUR;Raiffeisenbank Beuerberg-Eurasburg
+70169351;GENODEF1ELB;Raiffeisenbank Nordkreis Landsberg
+70169356;GENODEF1EDR;Raiffeisenbank Erding
+70169382;GENODEF1GIL;Raiffeisenbank
+70169383;GENODEF1GMU;Raiffeisenbank Gmund am Tegernsee
+70169388;GENODEF1HMA;Raiffeisenbank Haag-Gars-Maitenbeth
+70169402;GENODEF1HHK;Raiffeisenbank Höhenkirchen und Umgebung
+70169410;GENODEF1HZO;Raiffeisenbank Holzkirchen-Otterfing
+70169413;GENODEF1HUA;Raiffeisenbank Singoldtal
+70169433;GENODEF1KOG;Raiffeisenbank Königsdorf-Gelting
+70169444;GENODEF1LGR;Raiffeisenbank im Isarwinkel -alt-
+70169450;GENODEF1ASG;Raiffeisen-Volksbank Ebersberg
+70169459;GENODEF1MTW;Raiffeisenbank
+70169460;GENODEF1MOO;Raiffeisenbank Westkreis Fürstenfeldbruck
+70169464;GENODEF1M07;Genossenschaftsbank München
+70169465;GENODEF1M08;Raiffeisenbank München-Nord
+70169466;GENODEF1M03;Raiffeisenbank München-Süd
+70169470;GENODEF1GAA;Raiffeisenbank München-Süd Gf GA
+70169472;GENODEF1NFA;Raiffeisenbank Hallbergmoos-Neufahrn
+70169474;GENODEF1NSV;Raiffbk Neumarkt-St. Veit - Niederbergkirchen
+70169476;GENODEF1NBK;Raiffeisenbank -alt-
+70169493;GENODEF1OBS;Raiffeisenbank Oberschleißheim -alt-
+70169495;GENODEF1SGO;Raiffeisenbank Buchbach-Schwindegg -alt-
+70169505;GENODEF1FOA;Raiffeisenbank Anzing-Forstern -alt-
+70169509;GENODEF1PEI;Raiffeisenbank Pfaffenwinkel
+70169521;GENODEF1RIG;Raiffeisenbank Raisting
+70169524;GENODEF1RME;Raiffeisenbank RSA
+70169530;GENODEF1RWZ;Raiffeisenbank Reischach-Wurmannsquick-Zeilarn
+70169538;GENODEF1SWO;Raiffeisenbank St. Wolfgang-Schwindkirchen
+70169541;GENODEF1THG;Raiffeisenbank Lech-Ammersee
+70169543;GENODEF1HHS;Raiffeisenbank Isar-Loisachtal
+70169558;GENODEF1SGA;Raiffeisenbank
+70169566;GENODEF1TAV;VR-Bank Taufkirchen-Dorfen
+70169568;GENODEF1TAE;Raiffeisenbank Taufkirchen-Oberneukirchen
+70169570;GENODEF1FTH;Raiffeisenbank Thalheim -alt-
+70169571;GENODEF1DTZ;Raiffeisenbank Tölzer Land
+70169575;GENODEF1TRH;Raiffeisenbank
+70169576;GENODEF1TUS;Raiffeisen-Volksbank Tüßling-Unterneukirchen
+70169585;GENODEF1UNS;Raiffeisenbank Unterschleißheim-Haimhn -alt-
+70169596;GENODEF1WWO;Raiffeisenbank Walpertskirchen-Wörth-Hörlkofen -alt-
+70169598;GENODEF1MIB;Raiffeisenbank im Oberland
+70169599;GENODEF1WEI;Raiffeisenbank Weil u Umgebung
+70169602;GENODEF1WM1;Raiffeisenbank Weilheim -alt-
+70169605;GENODEF1ISE;Raiffeisen-Volksbank Isen-Sempt
+70169614;GENODEF1FSR;Freisinger Bank Volksbank-Raiffeisenbank
+70169619;GENODEF1ZOR;Raiffeisenbank Zorneding
+70169653;GENODEF1AIG;Raiffeisenbank Aiglsbach
+70169693;GENODEF1RHT;Raiffeisenbank Hallertau
+70190000;GENODEF1M01;Münchner Bank
+70190200;GENODEF1M09;GLS Gemeinschaftsbank
+70220000;LFFBDEMMXXX;LfA Förderbank Bayern
+70220200;BHFBDEFF700;BHF-BANK
+70220300;BMWBDEMUXXX;BMW Bank
+70220400;HSTBDEH1MUE;Hanseatic Bank
+70220800;VVAGDEM1XXX;Vereinsbank Victoria Bauspar
+70220900;DRESDEFFBFC;Wüstenrot Bausparkasse
+70230600;ISBKDEFXMUN;Isbank Fil München
+70250150;BYLADEM1KMS;Kreissparkasse München Starnberg Ebersberg
+70300000;MARKDEF1703;Bundesbank eh Garmisch-Partenkirchen
+70320090;HYVEDEMM654;UniCredit Bank - HypoVereinsbank
+70320305;HYVEDEM1091;UniCredit Bank - HypoVereinsbank Ndl 635 Gar
+70321194;HYVEDEMM466;UniCredit Bank - HypoVereinsbank
+70322192;HYVEDEMM664;UniCredit Bank - HypoVereinsbank
+70350000;BYLADEM1GAP;Kreissparkasse Garmisch-Partenkirchen
+70351030;BYLADEM1WHM;Vereinigte Sparkassen im Landkreis Weilheim
+70362595;GENODEF1WAK;Raiffeisenbank Wallgau-Krün
+70380006;DRESDEFF703;Commerzbank vormals Dresdner Bank
+70390000;GENODEF1GAP;VR-Bank Werdenfels
+70391800;GENODEF1PZB;Volksbank-Raiffeisenbank Penzberg -alt-
+71000000;MARKDEF1710;Bundesbank eh Bad Reichenhall
+71020072;HYVEDEMM410;UniCredit Bank - HypoVereinsbank
+71021270;HYVEDEMM629;UniCredit Bank - HypoVereinsbank
+71022182;HYVEDEMM453;UniCredit Bank - HypoVereinsbank
+71023173;HYVEDEMM632;UniCredit Bank - HypoVereinsbank
+71050000;BYLADEM1BGL;Sparkasse Berchtesgadener Land
+71051010;BYLADEM1AOE;Kreissparkasse Altötting-Burghausen -alt-
+71052050;BYLADEM1TST;Kreissparkasse Traunstein-Trostberg
+71061009;GENODEF1AOE;VR meine Raiffeisenbank
+71062802;GENODEF1AGE;Raiffeisenbank
+71090000;GENODEF1BGL;Volksbank Raiffeisenbank Oberbayern Südost
+71100000;MARKDEF1711;Bundesbank eh Rosenheim
+71120077;HYVEDEMM448;UniCredit Bank - HypoVereinsbank
+71120078;HYVEDEMM644;UniCredit Bank - HypoVereinsbank
+71121176;HYVEDEMM438;UniCredit Bank - HypoVereinsbank
+71122183;HYVEDEMM457;UniCredit Bank - HypoVereinsbank
+71140041;COBADEFF711;Commerzbank Rosenheim
+71141041;COBADEFF704;Commerzbank
+71142041;COBADEFF712;Commerzbank
+71150000;BYLADEM1ROS;Sparkasse Rosenheim-Bad Aibling
+71151020;BYLADEM1MDF;Sparkasse Altötting-Mühldorf
+71151240;BYLADEM1BAB;Kreissparkasse Bad Aibling -alt-
+71152570;BYLADEM1MIB;Kreissparkasse Miesbach-Tegernsee
+71152680;BYLADEM1WSB;Kreis- und Stadtsparkasse Wasserburg
+71160000;GENODEF1VRR;Volksbank Raiffeisenbank Mangfalltal-Rosenheim
+71160161;GENODEF1ROR;VR Bank Rosenheim-Chiemsee
+71161964;GENODEF1PRV;Volksbank-Raiffeisenbank Chiemsee -alt-
+71162355;GENODEF1OBD;Raiffeisenbank Oberaudorf
+71162804;GENODEF1ASU;Raiffeisenbank Aschau-Samerberg
+71165150;GENODEF1AIB;Raiffeisenbank Mangfalltal -alt-
+71180005;DRESDEFF711;Commerzbank vormals Dresdner Bank
+71190000;GENODEF1ROV;Volksbank Rosenheim -alt-
+71191000;GENODEF1MUL;VR-Bank Burghausen-Mühldorf
+72000000;MARKDEF1720;Bundesbank
+72010111;ESSEDE5F720;SEB
+72012300;BTVADE61XXX;Bank für Tirol und Vorarlberg Deutschland
+72020070;HYVEDEMM408;UniCredit Bank - HypoVereinsbank
+72020240;HYVEDEM1102;UniCredit Bank - HypoVereinsbank Ndl 677 Agsb
+72020700;AUGBDE77XXX;Augsburger Aktienbank
+72021271;HYVEDEMM236;UniCredit Bank - HypoVereinsbank
+72021876;HYVEDEMM259;UniCredit Bank - HypoVereinsbank
+72030014;FUBKDE71XXX;Fürst Fugger Privatbank
+72030227;ANHODE77XXX;Bankhaus Anton Hafner
+72040046;COBADEFF720;Commerzbank
+72050000;AUGSDE77XXX;Stadtsparkasse Augsburg
+72050101;BYLADEM1AUG;Kreissparkasse Augsburg
+72051210;BYLADEM1AIC;Stadtsparkasse Aichach
+72051840;BYLADEM1GZK;Sparkasse Günzburg-Krumbach
+72060300;GENODEF1A03;Handels- und Gewerbebank Augsburg -alt-
+72062152;GENODEF1MTG;VR-Bank Handels- und Gewerbebank
+72069002;GENODEF1ADZ;Raiffeisenbank Adelzhausen-Sielenbach
+72069005;GENODEF1AIL;Raiffeisenbank
+72069034;GENODEF1BSI;Raiffeisenbank Bissingen
+72069036;GENODEF1BOI;Raiffeisenbank
+72069043;GENODEF1GZ2;Raiffeisenbank
+72069081;GENODEF1GHF;Raiffeisenbank Gersthofen -alt-
+72069090;GENODEF1KEZ;Raiffeisenbank Bibertal-Kötz
+72069105;GENODEF1HTF;Raiffeisenbank
+72069108;GENODEF1HDT;Raiffeisenbank Höchstädt u. U. -alt-
+72069113;GENODEF1HZH;Raiffeisenbank Aschberg
+72069114;GENODEF1HZR;Raiffeisenbank
+72069119;GENODEF1ICH;Raiffeisenbank Ichenhausen
+72069123;GENODEF1JET;Raiffeisenbank Jettingen-Scheppach
+72069126;GENODEF1BBT;Raiffeisenbank Bibertal-Kötz
+72069132;GENODEF1KRR;Raiffeisenbank Krumbach/Schwaben
+72069135;GENODEF1LST;Raiffeisenbank Stauden
+72069139;GENODEF1LWA;Raiffeisenbank Langweid-Achsheim -alt-
+72069141;GENODEF1ECK;Raiffeisenbank -alt-
+72069155;GENODEF1MRI;Raiffeisenbank Kissing-Mering
+72069179;GENODEF1BWI;Raiffeisenbank Unteres Zusamtal
+72069181;GENODEF1OFF;Raiffeisenbank
+72069193;GENODEF1RLI;Raiffeisenbank
+72069209;GENODEF1RGB;Raiffeisenbank
+72069220;GENODEF1SMU;Raiffeisenbank
+72069235;GENODEF1THS;Raiffeisenbank
+72069263;GENODEF1WTS;Raiffeisenbank Wittislingen
+72069274;GENODEF1ZUS;Raiffeisenbank Augsburger Land West
+72069308;GENODEF1WDN;Raiffeisen-Volksbank Wemding
+72069329;GENODEF1NOE;Raiffeisen-Volksbank Ries
+72069736;GENODEF1BLT;Raiffeisenbank Iller-Roth-Günz
+72069789;GENODEF1PFA;Raiffeisenbank Pfaffenhausen
+72070001;DEUTDEMM720;Deutsche Bank
+72070024;DEUTDEDB720;Deutsche Bank Privat und Geschäftskunden
+72080001;DRESDEFF720;Commerzbank vormals Dresdner Bank
+72090000;GENODEF1AUB;Augusta-Bank Raiffeisen-Volksbank
+72090500;GENODEF1S03;Sparda-Bank Augsburg
+72090900;GENODEF1P14;PSD Bank München
+72091800;GENODEF1GZ1;Volksbank Günzburg
+72100000;MARKDEF1721;Bundesbank eh Ingolstadt
+72120078;HYVEDEMM426;UniCredit Bank - HypoVereinsbank
+72120079;;UniCredit Bank - HypoVereinsbank
+72120207;HYVEDEM1093;UniCredit Bank - HypoVereinsbank Ndl 648 Ing
+72122181;HYVEDEMM665;UniCredit Bank - HypoVereinsbank
+72140052;COBADEFF721;Commerzbank
+72150000;BYLADEM1ING;Sparkasse Ingolstadt
+72151340;BYLADEM1EIS;Sparkasse Eichstätt
+72151650;BYLADEM1PAF;Sparkasse Pfaffenhofen
+72151880;BYLADEM1SSH;Stadtsparkasse Schrobenhausen
+72152070;BYLADEM1NEB;Sparkasse Neuburg-Rain
+72160818;GENODEF1INP;Volksbank Raiffeisenbank Bayern Mitte
+72169013;GENODEF1ARH;Raiffeisenbank Aresing-Hörzhausen-Schiltberg -alt-
+72169080;GENODEF1GSB;Raiffeisenbank Aresing-Gerolsbach
+72169111;GENODEF1HHW;Raiffeisenbank Hohenwart -alt-
+72169218;GENODEF1SBN;Schrobenhausener Bank
+72169246;GENODEF1WFN;Raiffeisenbank Schrobenhausener Land
+72169380;GENODEF1BLN;Raiffeisenbank Beilngries
+72169733;GENODEF1LBE;Raiffeisenbank Berg im Gau-Langenmosen -alt-
+72169745;GENODEF1WDF;Raiffeisenbank Ehekirchen-Oberhausen
+72169753;GENODEF1OUS;Raiffeisenbank Ober-Unterhausen-Sinning -alt-
+72169756;GENODEF1ND2;Raiffeisen-Volksbank Neuburg/Donau
+72169764;GENODEF1WRI;Raiffeisenbank Donaumooser Land
+72169812;GENODEF1GAH;Raiffeisenbank Gaimersheim-Buxheim
+72169831;GENODEF1RBL;Raiffeisenbank Riedenburg-Lobsing
+72170007;DEUTDEMM721;Deutsche Bank
+72170024;DEUTDEDB721;Deutsche Bank Privat und Geschäftskunden
+72180002;DRESDEFF721;Commerzbank vormals Dresdner Bank
+72191300;GENODEF1EIH;Volksbank Raiffeisenbank Eichstätt
+72191600;GENODEF1PFI;Hallertauer Volksbank
+72191800;GENODEF1SHV;Volksbank Schrobenhausen -alt-
+72220074;HYVEDEMM255;UniCredit Bank - HypoVereinsbank
+72223182;HYVEDEMM263;UniCredit Bank - HypoVereinsbank
+72250000;BYLADEM1NLG;Sparkasse Nördlingen
+72250160;BYLADEM1DON;Sparkasse Donauwörth
+72251520;BYLADEM1DLG;Kreis- und Stadtsparkasse Dillingen
+72261754;GENODEF1RLH;Raiffeisenbank Rain am Lech
+72262401;GENODEF1DLG;Raiffeisen-Volksbank Dillingen
+72262901;GENODEF1WTG;Genossenschaftsbank Wertingen -alt-
+72290100;GENODEF1DON;Raiffeisen-Volksbank Donauwörth
+73050000;BYLADEM1NUL;Sparkasse Neu-Ulm-Illertissen
+73061191;GENODEF1NU1;VR-Bank Neu-Ulm/Weißenhorn
+73090000;GENODEF1NUV;Volksbank Neu-Ulm
+73100000;MARKDEF1731;Bundesbank eh Memmingen
+73120075;HYVEDEMM436;UniCredit Bank - HypoVereinsbank
+73140046;COBADEFF731;Commerzbank Memmingen
+73150000;BYLADEM1MLM;Sparkasse Memmingen-Lindau-Mindelheim
+73160000;GENODEF1MIR;Genossenschaftsbank Unterallgäu
+73161455;GENODEF1GNB;Raiffeisenbank Bad Grönenbach
+73180011;DRESDEFF731;Commerzbank vormals Dresdner Bank
+73190000;GENODEF1MM1;VR-Bank Memmingen
+73191500;ULMVDE66002;Volksbank Ulm-Biberach -alt-
+73300000;MARKDEF1733;Bundesbank eh Kempten
+73311600;HYPVDE71XXX;Vorarlberger Landes- und Hypothekenbank
+73320073;HYVEDEMM428;UniCredit Bank - HypoVereinsbank
+73320442;HYVEDEM1097;UniCredit Bank - HypoVereinsbank Ndl 669 Kpt
+73321177;HYVEDEMM567;UniCredit Bank - HypoVereinsbank
+73322380;HYVEDEMM570;UniCredit Bank - HypoVereinsbank
+73331700;GABLDE71XXX;Gabler Saliter Bankgeschäft
+73340046;COBADEFF733;Commerzbank Kempten Allgäu
+73350000;BYLADEM1ALG;Sparkasse Allgäu
+73351635;BYLADEM1ALR;Sparkasse Riezlern, Kleinwalsertal
+73351840;;Dornbirner Sparkasse
+73361592;;Walser Privatbank
+73362421;RBRTDE71XXX;Bankhaus Jungholz Zndl der Raiffeisenbank Reutte
+73362500;RZTIDE71XXX;Raiffeisen-Landesbank Tirol
+73369264;GENODEF1DTA;Raiffeisenbank im Allgäuer Land
+73369821;GENODEF1LBB;Raiffeisen-Bodenseebank
+73369823;GENODEF1WWA;Raiffeisenbank Westallgäu
+73369824;GENODEF1HKE;Raiffeisenbank Heimenkirch-Ellhofen -alt-
+73369826;GENODEF1LIA;Volksbank
+73369851;GENODEF1AIT;Raiffeisenbank Aitrang-Ruderatshofen
+73369854;GENODEF1FCH;Raiffeisenbank Fuchstal-Denklingen
+73369859;GENODEF1BIN;Raiffeisenbank
+73369871;GENODEF1EGB;Raiffeisenbank Baisweil-Eggenthal-Friesenried
+73369878;GENODEF1FPN;Raiffeisenbank Füssen-Pfronten-Nesselwang
+73369881;GENODEF1HWG;Raiffeisenbank Haldenwang
+73369888;GENODEF1PIR;Raiffeisenbank Irsee-Pforzen-Rieden -alt-
+73369902;GENODEF1KM1;Raiffeisenbank
+73369915;GENODEF1GMG;Raiffeisenbank Obergermaringen -alt-
+73369918;GENODEF1OKI;Raiffeisenbank Kirchweihtal
+73369920;GENODEF1SFO;Raiffeisenbank Oberallgäu-Süd
+73369933;GENODEF1RHP;Raiffeisenbank Südliches Ostallgäu
+73369936;GENODEF1SER;Raiffeisenbank Seeg -alt-
+73369954;GENODEF1WGO;Raiffeisenbank Wald-Görisried
+73370008;DEUTDEMM733;Deutsche Bank
+73370024;DEUTDEDB733;Deutsche Bank Privat und Geschäftskunden
+73380004;DRESDEFF733;Commerzbank vormals Dresdner Bank
+73390000;GENODEF1KEV;Allgäuer Volksbank Kempten-Sonthofen
+73391600;VOVBDE71XXX;Volksbank im Kleinwalsertal
+73392000;GENODEF1IMV;Volksbank Immenstadt
+73392400;VBOEDE71XXX;Volksbank Tirol Jungholz
+73420071;HYVEDEMM427;UniCredit Bank - HypoVereinsbank
+73420546;HYVEDEM1104;UniCredit Bank - HypoVereinsbank Ndl 693 Kaufb
+73421478;HYVEDEMM666;UniCredit Bank - HypoVereinsbank
+73440048;COBADEFF971;Commerzbank
+73450000;BYLADEM1KFB;Kreis- und Stadtsparkasse Kaufbeuren
+73451450;BYLADEM1SOG;Kreissparkasse Schongau
+73460046;GENODEF1KFB;VR Bank Kaufbeuren-Ostallgäu
+73480013;DRESDEFF734;Commerzbank vormals Dresdner Bank
+73491300;GENODEF1OAL;Volksbank Ostallgäu -alt-
+74000000;MARKDEF1740;Bundesbank eh Passau
+74020074;HYVEDEMM445;UniCredit Bank - HypoVereinsbank
+74020100;RZOODE77XXX;Raiffeisenlandesbank OÖ Zndl Süddeutschland
+74020414;HYVEDEM1100;UniCredit Bank - HypoVereinsbank Ndl 672 Pass
+74040082;COBADEFF740;Commerzbank Passau
+74050000;BYLADEM1PAS;Sparkasse Passau
+74051230;BYLADEM1FRG;Sparkasse Freyung-Grafenau
+74061101;GENODEF1RGS;Raiffeisenbank Am Goldenen Steig
+74061564;GENODEF1NUI;Raiffeisenbank Unteres Inntal
+74061670;GENODEF1ORT;Raiffeisenbank Ortenburg-Kirchberg
+74061813;GENODEF1PFK;VR-Bank Rottal-Inn
+74062490;GENODEF1VIR;Raiffeisenbank Vilshofener Land
+74062786;GENODEF1TIE;Raiffeisenbank i Lkr Passau-Nord
+74064593;GENODEF1WSD;Raiffeisenbank
+74064742;GENODEF1FZE;Raiffeisenbank Fürstenzell -alt-
+74065782;GENODEF1SZT;Raiffeisenbank Salzweg-Thyrnau
+74066749;GENODEF1HZN;Raiffeisenbank im Südl Bayerischen Wald
+74067000;GENODEF1POC;Rottaler Raiffeisenbank
+74069186;GENODEF1VIZ;Raiffeisenbank Viechtach-Zwiesel
+74069744;GENODEF1GRT;Raiffeisenbank
+74069752;GENODEF1HHU;Raiffeisenbank
+74069758;GENODEF1TKI;Raiffeisenbank Kirchberg v. Wald
+74069763;GENODEF1MTH;Raiffeisenbank Mauth
+74069768;GENODEF1NHD;Raiffeisenbank am Dreisessel
+74090000;GENODEF1PA1;VR-Bank Passau
+74092400;GENODEF1VIV;Volksbank Vilshofen
+74100000;MARKDEF1741;Bundesbank eh Deggendorf
+74120071;HYVEDEMM415;UniCredit Bank - HypoVereinsbank
+74120514;HYVEDEM1101;UniCredit Bank - HypoVereinsbank 674 Dgdf
+74131000;TEKRDE71XXX;TEBA Kreditbank
+74140048;COBADEFF977;Commerzbank
+74150000;BYLADEM1DEG;Sparkasse Deggendorf
+74151450;BYLADEM1REG;Sparkasse Regen-Viechtach
+74160025;GENODEF1DEG;Raiffeisenbank Deggendorf-Plattling
+74161608;GENODEF1HBW;Raiffeisenbank Hengersberg-Schöllnach
+74164149;GENODEF1RGE;VR-Bank
+74165013;GENODEF1AUS;Raiffeisenbank Sonnenwald
+74167099;GENODEF1MTT;Raiffeisenbank Metten
+74180009;DRESDEFF741;Commerzbank vormals Dresdner Bank
+74190000;GENODEF1DGV;GenoBank DonauWald
+74191000;GENODEF1LND;VR-Bank Landau
+74220075;HYVEDEMM452;UniCredit Bank - HypoVereinsbank
+74221170;HYVEDEMM675;UniCredit Bank - HypoVereinsbank
+74240062;COBADEFF742;Commerzbank Straubing
+74250000;BYLADEM1SRG;Sparkasse Niederbayern-Mitte
+74251020;BYLADEM1CHM;Sparkasse im Landkreis Cham
+74260110;GENODEF1SR2;Raiffeisenbank
+74261024;GENODEF1CHA;Raiffeisenbank Cham-Roding-Furth im Wald
+74290000;GENODEF1SR1;Volksbank Straubing
+74290100;CBSRDE71XXX;CB Bank
+74300000;MARKDEF1743;Bundesbank eh Landshut
+74320073;HYVEDEMM433;UniCredit Bank - HypoVereinsbank
+74320307;HYVEDEM1090;UniCredit Bank - HypoVereinsbank Ndl 601 Ldsht
+74340077;COBADEFF743;Commerzbank
+74350000;BYLADEM1LAH;Sparkasse Landshut
+74351310;BYLADEM1DGF;Sparkasse Dingolfing-Landau -alt-
+74351430;BYLADEM1EGF;Sparkasse Rottal-Inn
+74351740;BYLADEM1MSB;Stadt- und Kreissparkasse Moosburg
+74361211;GENODEF1ARF;Raiffeisenbank Arnstorf
+74362663;GENODEF1ERG;Raiffeisenbank Altdorf-Ergolding
+74364689;GENODEF1PFF;Raiffeisenbank Pfeffenhausen-Rottenburg
+74366666;GENODEF1GSH;Raiffeisenbank Geisenhausen
+74369068;GENODEF1LWE;Raiffeisenbank Hofkirchen-Bayerbach
+74369088;GENODEF1GPF;Raiffeisenbank Geiselhöring-Pfaffenberg
+74369130;GENODEF1PST;Raiffeisenbank Parkstetten
+74369146;GENODEF1RZK;Raiffeisenbank Rattiszell-Konzell
+74369656;GENODEF1ENA;Raiffeisenbank Essenbach
+74369662;GENODEF1EBV;Raiffeisenbank Buch-Eching
+74369704;GENODEF1MKO;Raiffeisenbank Mengkofen-Loiching
+74369709;GENODEF1WIG;Raiffeisenbank
+74380007;DRESDEFF743;Commerzbank vormals Dresdner Bank
+74390000;GENODEF1LH1;VR-Bank Landshut
+74391300;GENODEF1DGF;Volksbank-Raiffeisenbank Dingolfing
+74391400;GENODEF1EGR;Rottaler Volksbank-Raiffeisenbank Eggenfelden
+74392300;GENODEF1VBV;VR-Bank Vilsbiburg
+75000000;MARKDEF1750;Bundesbank
+75010111;ESSEDE5F750;SEB
+75020073;HYVEDEMM447;UniCredit Bank - HypoVereinsbank
+75020314;HYVEDEM1099;UniCredit Bank - HypoVereinsbank Ndl 670 Rgsb
+75021174;HYVEDEMM804;UniCredit Bank - HypoVereinsbank
+75040062;COBADEFF750;Commerzbank Regensburg
+75050000;BYLADEM1RBG;Sparkasse Regensburg
+75051040;BYLADEM1SAD;Sparkasse im Landkreis Schwandorf
+75051565;BYLADEM1KEH;Kreissparkasse Kelheim
+75060150;GENODEF1R02;Raiffeisenbank Regensburg-Wenzenbach
+75061168;GENODEF1SWN;Raiffeisenbank Schwandorf-Nittenau
+75061851;GENODEF1REF;Raiffeisenbank
+75062026;GENODEF1DST;Raiffeisenbank Oberpfalz Süd
+75069014;GENODEF1ABS;Raiffeisenbank Bad Abbach-Saal
+75069015;GENODEF1NGG;Raiffeisenbank Bad Gögging
+75069020;GENODEF1BUK;Raiffeisenbank Bruck
+75069038;GENODEF1FKS;Raiffeisenbank Falkenstein-Wörth
+75069043;GENODEF1FUW;Raiffeisen-Bank -alt-
+75069050;GENODEF1GRW;Raiffeisenbank Grafenwöhr-Kirchenthumbach
+75069055;GENODEF1HGA;Raiffeisenbank Alteglofsheim-Hagelstadt
+75069061;GENODEF1HEM;Raiffeisenbank Hemau-Kallmünz
+75069062;GENODEF1HTD;Raiffeisenbank Herrnwahlthann-Teugn-Dünzling -alt-
+75069074;GENODEF1EGI;Raiffeisenbank Inkofen-Eggmühl -alt-
+75069076;GENODEF1KLM;Raiffeisenbank Kallmünz -alt-
+75069078;GENODEF1SZV;Raiffeisenbank

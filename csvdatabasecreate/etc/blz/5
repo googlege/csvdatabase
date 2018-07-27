@@ -1,0 +1,400 @@
+51040038;COBADEFF510;Commerzbank
+51050015;NASSDE55XXX;Nassauische Sparkasse
+51051000;PULSDE5WXXX;S Broker Wiesbaden
+51070021;DEUTDEFF510;Deutsche Bank
+51070024;DEUTDEDB510;Deutsche Bank Privat und Geschäftskunden
+51080060;DRESDEFF510;Commerzbank vormals Dresdner Bank
+51080085;DRESDEFFJ16;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 1
+51080086;DRESDEFFJ17;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK2
+51089410;DRESDEFFI20;Commerzbank vormals Dresdner Bank ITGK
+51090000;WIBADE5WXXX;Wiesbadener Volksbank
+51090636;DAAEDED1036;apoBank
+51091400;GENODE51ELV;Volksbank Eltville -alt-
+51091500;GENODE51RGG;Rheingauer Volksbank
+51091700;VRBUDE51XXX;vr bank Untertaunus
+51091711;BFOMDE51XXX;Bank f Orden u Mission Zndl vr bk Untertaunus
+51140029;COBADEFF511;Commerzbank
+51150018;HELADEF1LIM;Kreissparkasse Limburg
+51151919;HELADEF1WEI;Kreissparkasse Weilburg
+51161606;GENODE51LDD;Volksbank Langendernbach
+51170010;DEUTDEFF511;Deutsche Bank
+51170024;DEUTDEDB511;Deutsche Bank Privat und Geschäftskunden
+51180041;DRESDEFF511;Commerzbank vormals Dresdner Bank
+51190000;GENODE51LIM;Vereinigte Volksbank Limburg
+51191200;GENODE51CAM;Volksbank Goldner Grund
+51191800;GENODE51SBH;Volksbank Schupbach
+51192200;GENODE51WEM;Volks- und Raiffeisenbank Weilmünster -alt-
+51210600;BNPADEFFXXX;BNP PARIBAS Ndl Frankfurt, Main
+51210700;NZFMDEF1XXX;NIBC Bank Zndl Frankfurt am Main
+51210800;SOGEDEFFXXX;Societe Generale
+51220200;ESSEDEFFXXX;SEB Merchant Banking
+51220211;ESSEDE5F512;SEB Frankfurt SAP
+51220400;;Bank Saderat Iran
+51220700;TCZBDEFFXXX;ZIRAAT BANK International
+51220800;BRASDEFFXXX;Banco do Brasil
+51220900;MSFFDEFPXXX;Morgan Stanley Bank
+51220910;MSFFDEFXCND;Morgan Stanley Bank
+51230100;EHYPDEF1DHF;Hypothekenbank Frankfurt -alt-
+51230400;ABNADE55FRA;RBS ( Deutschland ) Frankfurt am Main
+51230500;SCBLDEFXXXX;Standard Chartered Bank Germany Branch, Frankfurt
+51230502;SCBLDEF1ETC;ETC Standard Chartered Bank Germany Branch
+51230600;ARABDEFFXXX;Europe ARAB Bank
+51230800;WIREDEMMXXX;Wirecard Bank
+51230801;;Wirecard Bank
+51230802;;Wirecard Bank
+51230805;;Wirecard Bank
+51250000;HELADEF1TSK;Taunus-Sparkasse
+51300000;MARKDEF1513;Bundesbank
+51310111;ESSEDE5F513;SEB
+51340013;COBADEFF513;Commerzbank
+51343224;COBADEFF514;Commerzbank
+51350025;SKGIDE5FXXX;Sparkasse Gießen
+51351526;HELADEF1GRU;Sparkasse Grünberg
+51352227;HELADEF1LAU;Sparkasse Laubach-Hungen
+51361021;GENODE51HHE;Volksbank Heuchelheim
+51361704;GENODE51PLH;Volksbank Holzheim -alt-
+51362514;GENODE51MNO;VR Bank Mücke -alt-
+51363407;GENODE51PMG;Volksbank Garbenteich -alt-
+51370008;DEUTDEFF513;Deutsche Bank
+51370024;DEUTDEDB513;Deutsche Bank Privat und Geschäftskunden
+51380040;DRESDEFF513;Commerzbank vormals Dresdner Bank
+51380085;DRESDEFFJ18;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 1
+51390000;VBMHDE5FXXX;Volksbank Mittelhessen
+51410111;ESSEDE5F514;SEB
+51410600;MELBDEF1XXX;Merrill Lynch International Bank Limited Zndl Frankfurt
+51410700;BKCHDEFFXXX;Bank of China
+51410800;BOURDEFFXXX;OnVista Bank
+51420200;MIBEDEFFXXX;Misr Bank-Europe
+51420300;BAERDEF1XXX;Bank Julius Bär Europe
+51420600;HANDDEFFXXX;Svenska Handelsbanken Deutschland
+51430300;NDEADEFFXXX;Nordea Bank Finland
+51430321;NDEADEFF321;Nordea Bank Finland
+51430400;GOLDDEFFXXX;Goldman, Sachs & Co
+51540037;COBADEFF515;Commerzbank
+51550035;HELADEF1WET;Sparkasse Wetzlar
+51560231;GENODE51WZ1;Volksbank Wetzlar-Weilburg -alt-
+51570008;DEUTDEFF515;Deutsche Bank
+51570024;DEUTDEDB515;Deutsche Bank Privat und Geschäftskunden
+51580044;DRESDEFF515;Commerzbank vormals Dresdner Bank
+51591300;GENODE51WBO;Volksbank Brandoberndorf
+51640043;COBADEFF516;Commerzbank
+51650045;HELADEF1DIL;Sparkasse Dillenburg
+51690000;GENODE51DIL;Volksbank Dill VB und Raiffbk
+51691500;GENODE51HER;Volksbank Herborn-Eschenburg
+51752267;HELADEF1BAT;Sparkasse Battenberg
+51762434;GENODE51BIK;VR Bank Biedenkopf-Gladenbach
+51850079;HELADEF1FRI;Sparkasse Oberhessen
+51861325;;BVB Volksbank Ndl d Frankfurter Volksbank
+51861403;GENODE51BUT;Volksbank Butzbach
+51861616;GENODE51REW;Landbank Horlofftal
+51861806;GENODE51OBM;Volksbank Ober-Mörlen
+51862677;GENODE51BNW;Weiseler Volksbank -alt-
+51961023;GENODE51ULR;Volksbank
+51961515;GENODE51HSH;Spar- und Darlehnskasse Stockhausen
+51961801;GENODE51FEL;Volksbank Feldatal
+51990000;GENODE51LB1;Volksbank Lauterbach-Schlitz
+52000000;MARKDEF1520;Bundesbank eh Kassel
+52010111;ESSEDE5F520;SEB
+52040021;COBADEFF520;Commerzbank
+52050000;HELADEFF520;Landeskreditkasse Kassel
+52050353;HELADEF1KAS;Kasseler Sparkasse
+52051373;HELADEF1BOR;Stadtsparkasse Borken (Hessen)
+52051555;HELADEF1FEL;Stadtsparkasse Felsberg
+52051877;HELADEF1GRE;Stadtsparkasse Grebenstein
+52052154;HELADEF1MEG;Kreissparkasse Schwalm-Eder
+52053458;HELADEF1SWA;Stadtsparkasse Schwalmstadt
+52060000;GENODEFF520;DZ BANK
+52060208;GENODEF1KS2;Kurhessische Landbank
+52060400;EKKBDE52XXX;Evangelische Kreditgenossenschaft Gf
+52060410;GENODEF1EK1;Evangelische Kreditgenossenschaft
+52061210;GENODEF1WGN;Genossenschaftsbank Bad Wildungen -alt-
+52061303;GENODEF1BOR;Raiffeisenbank Borken
+52062200;GENODEF1GUB;VR-Bank Chattengau
+52062601;GENODEF1HRV;VR-Bank Schwalm-Eder
+52063369;GENODEF1SPB;VR-Bank Spangenberg-Morschen
+52063550;GENODEF1WOH;Raiffeisenbank
+52064156;GENODEF1BTA;Raiffeisenbank
+52065220;GENODEF1CAL;Raiffeisenbank
+52069013;GENODEF1BHN;Raiffeisenbank Burghaun
+52069029;GENODEF1GMD;Spar-u. Kredit-Bank
+52069065;GENODEF1BUR;Raiffeisenbank Langenschwarz
+52069103;GENODEF1TBG;Raiffeisenbank Trendelburg
+52069129;GENODEF1WAF;Raiffeisenbank Freienhagen-Höringhausen -alt-
+52069149;GENODEF1VLM;Raiffeisenbank Volkmarsen
+52069503;GENODEF1STU;Raiffeisenbank Ulmbach -alt-
+52069519;GENODEF1FBK;Frankenberger Bank Raiffeisenbank
+52070012;DEUTDEFF520;Deutsche Bank
+52070024;DEUTDEDB520;Deutsche Bank Privat und Geschäftskunden
+52071212;DEUTDEFF521;Deutsche Bank
+52071224;DEUTDEDB521;Deutsche Bank Privat und Geschäftskunden
+52080080;DRESDEFF520;Commerzbank vormals Dresdner Bank
+52080085;DRESDEFFJ19;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK1
+52090000;GENODE51KS1;Kasseler Bank
+52090611;DAAEDED1011;apoBank
+52240006;COBADEFF522;Commerzbank
+52250030;HELADEF1ESW;Sparkasse Werra-Meißner
+52260385;GENODEF1ESW;VR-Bank Werra-Meißner
+52270012;DEUTDEFF522;Deutsche Bank
+52270024;DEUTDEDB522;Deutsche Bank Privat und Geschäftskunden
+52350005;HELADEF1KOR;Sparkasse Waldeck-Frankenberg
+52360059;GENODEF1KBW;Waldecker Bank
+52410300;RBAGDEF1XXX;Reisebank
+52410310;RBAGDEF1CMI;ReiseBank Gf2
+52410400;KOEXDEFAXXX;Korea Exchange Bank (Deutschland)
+52410600;NEWGDEF1XXX;NEWEDGE GROUP (Frankfurt Branch) Zndl d NewedgeGroup
+52410700;FTSBDEFFXXX;ABN AMRO Clearing Bank, Frankfurt Branch
+52410900;MPBKDEFFXXX;Maple Bank
+52411000;CAGBDEF1XXX;Cash Express Gesellschaft f Finanz-u Reisedienstleistungen
+52411010;CAGBDEF1CMI;Cash Express Gesellschaft f.Finanz-u.Reisedienstleistungen
+52420000;BSUIDEFFXXX;Credit Agricole CIB Deutschland
+52420300;SHBKDEFFXXX;SHINHAN BANK EUROPE
+52420600;ABGRDEFFXXX;Piraeus Bank Frankfurt Branch
+52420700;SECGDEFFXXX;SECB Swiss Euro Clearing Bank
+52430000;CMCIDEF1XXX;Credit Mutuel - BECM - Ndl Deutschland
+52430100;CMCIDEFFXXX;Banque Federative Credit Mutuel Ndl Deutschl
+53000000;MARKDEF1530;Bundesbank eh Fulda
+53040012;COBADEFF530;Commerzbank
+53050180;HELADEF1FDS;Sparkasse Fulda
+53051396;HELADEF1SLU;Kreissparkasse Schlüchtern
+53060180;GENODE51FUL;VR Genossenschaftsbank Fulda
+53061230;GENODEF1HUE;VR-Bank NordRhön
+53061313;GENODE51SLU;Volksbank Raiffeisenbank Schlüchtern
+53062035;GENODEF1GLU;Raiffeisenbank
+53062350;GENODEF1PBG;Raiffeisenbank Biebergrund-Petersberg
+53064023;GENODEF1FLN;Raiffeisenbank
+53070007;DEUTDEFF530;Deutsche Bank
+53070024;DEUTDEDB530;Deutsche Bank Privat und Geschäftskunden
+53080030;DRESDEFF530;Commerzbank vormals Dresdner Bank
+53093200;GENODE51ALS;VR Bank HessenLand
+53093255;GENODE51AGR;AgrarBank
+53200000;MARKDEF1532;Bundesbank eh Bad Hersfeld
+53240048;COBADEFF532;Commerzbank
+53250000;HELADEF1HER;Sparkasse Bad Hersfeld-Rotenburg
+53260145;GENODEF1HFA;Raiffeisenbank Asbach-Sorga
+53261202;GENODEF1BEB;Bankverein Bebra
+53261342;GENODEF1RAW;Raiffeisenbank Werratal-Landeck
+53261700;GENODEF1OAU;Raiffeisenbank Aulatal -alt-
+53262073;GENODEF1HNT;Raiffeisenbank Haunetal
+53262455;GENODEF1ROH;Raiffeisenbank Ronshausen-Marksuhl
+53270012;DEUTDEFF532;Deutsche Bank
+53270024;DEUTDEDB518;Deutsche Bank Privat und Geschäftskunden
+53280081;DRESDEFF532;Commerzbank vormals Dresdner Bank
+53290000;GENODE51BHE;VR-Bank Bad Hersfeld-Rotenburg
+53340024;COBADEFF533;Commerzbank
+53350000;HELADEF1MAR;Sparkasse Marburg-Biedenkopf
+53361724;GENODEF1EBG;Raiffeisenbank
+53370008;DEUTDEFF533;Deutsche Bank
+53370024;DEUTDEDB533;Deutsche Bank Privat und Geschäftskunden
+53380042;DRESDEFF533;Commerzbank vormals Dresdner Bank
+53381843;DRESDEFF568;Commerzbank vormals Dresdner Bank
+53390635;DAAEDED1035;apoBank
+54000000;MARKDEF1540;Bundesbank eh Kaiserslautern
+54020090;HYVEDEMM482;UniCredit Bank - HypoVereinsbank
+54020474;HYVEDEM1105;UniCredit Bank - HypoVereinsbank Ndl 697 Kais
+54030011;SCRUDE51XXX;Service Credit Union Overseas Headquarters
+54040042;COBADEFF540;Commerzbank
+54050110;MALADE51KLS;Stadtsparkasse Kaiserslautern
+54050220;MALADE51KLK;Kreissparkasse Kaiserslautern
+54051550;MALADE51KUS;Kreissparkasse Kusel
+54051660;MALADE51LAS;Stadtsparkasse Landstuhl -alt-
+54051990;MALADE51ROK;Sparkasse Donnersberg
+54061650;GENODE61LAN;VR-Bank Westpfalz
+54062027;GENODE61ALB;Raiffeisenbank Donnersberg -alt-
+54070024;DEUTDEDB540;Deutsche Bank Privat und Geschäftskunden
+54070092;DEUTDESM540;Deutsche Bank
+54080021;DRESDEFF540;Commerzbank vormals Dresdner Bank
+54090000;GENODE61KL1;Volksbank Kaiserslautern-Nordwestpfalz
+54091700;GENODE61LEK;Volksbank Lauterecken
+54091800;GENODE61OB1;VR Bank Nordwestpfalz -alt-
+54092400;GENODE61GLM;Volksbank Glan-Münchweiler
+54210111;ESSEDE5F542;SEB
+54220091;HYVEDEMM485;UniCredit Bank - HypoVereinsbank
+54220576;HYVEDEM1081;UniCredit Bank - HypoVereinsbank Ndl 358 Pirm
+54240032;COBADEFF542;Commerzbank
+54250010;MALADE51SWP;Sparkasse Südwestpfalz
+54261700;GENODE61ROA;VR-Bank Südwestpfalz
+54262330;GENODE61VIN;Raiffeisenbank Vinningen -alt-
+54270024;DEUTDEDB542;Deutsche Bank Privat und Geschäftskunden
+54270096;DEUTDESM542;Deutsche Bank
+54280023;DRESDEFF542;Commerzbank vormals Dresdner Bank
+54290000;GENODE61PS1;VR-Bank Pirmasens
+54291200;GENODE61DAH;Raiffeisen- u Volksbank Dahn
+54500000;MARKDEF1545;Bundesbank
+54510067;PBNKDEFF545;Postbank
+54520071;HYVEDEM1094;UniCredit Bank - HypoVereinsbank Ndl 650 Lu
+54520194;HYVEDEMM483;UniCredit Bank - HypoVereinsbank
+54540033;COBADEFF545;Commerzbank
+54550010;LUHSDE6AXXX;Sparkasse Vorderpfalz
+54550120;MALADE51LUH;Kreissparkasse Rhein-Pfalz
+54561310;GENODE61LBS;RV Bank Rhein-Haardt
+54570024;DEUTDEDB545;Deutsche Bank Privat und Geschäftskunden
+54570094;DEUTDESM545;Deutsche Bank
+54580020;DRESDEFF545;Commerzbank vormals Dresdner Bank
+54620093;HYVEDEMM620;UniCredit Bank - HypoVereinsbank
+54620574;HYVEDEM1096;UniCredit Bank - HypoVereinsbank Ndl 660 Ne/W
+54640035;COBADEFF546;Commerzbank
+54651240;MALADE51DKH;Sparkasse Rhein-Haardt
+54661800;GENODE61FSH;Raiffeisenbank Freinsheim
+54663270;GENODE61FHR;Raiffeisenbank Friedelsheim-Rödersheim
+54670024;DEUTDEDB546;Deutsche Bank Privat und Geschäftskunden
+54670095;DEUTDESM546;Deutsche Bank
+54680022;DRESDEFF546;Commerzbank vormals Dresdner Bank
+54690623;DAAEDED1023;apoBank
+54691200;GENODE61DUW;VR Bank Mittelhaardt
+54750010;MALADE51SPY;Kreis- und Stadtsparkasse Speyer
+54760900;GENODEF1EK6;Evangelische Kreditgenossenschaft - Filiale Speyer-
+54761411;GENODE61SFS;Raiffeisenbank Schifferstadt -alt-
+54790000;GENODE61SPE;Volksbank Kur- und Rheinpfalz
+54820674;HYVEDEM1095;UniCredit Bank - HypoVereinsbank Ndl 659 LanP
+54850010;SOLADES1SUW;Sparkasse Südliche Weinstraße in Landau
+54851440;MALADE51KAD;Sparkasse Germersheim-Kandel
+54861190;GENODE61EDH;Raiffeisenbank Oberhaardt-Gäu -alt-
+54862390;GENODE61HXH;Raiffeisenbank
+54862500;GENODE61SUW;VR Bank Südpfalz
+54891300;GENODE61BZA;VR Bank Südliche Weinstraße
+55000000;MARKDEF1550;Bundesbank
+55010111;ESSEDE5F550;SEB
+55010400;AARBDE5WDOM;Aareal Bank GF - BK01 -
+55010424;AARBDE5W550;Aareal Bank
+55010625;;Aareal Bank Clearing Wiesbaden
+55010800;ISBRDE55XXX;Investitions- und Strukturbank RP
+55020000;BHFBDEFF550;BHF-BANK
+55020100;BKMZDE51XXX;Bausparkasse Mainz
+55020486;HYVEDEMM486;UniCredit Bank - HypoVereinsbank
+55020500;BFSWDE33MNZ;Bank für Sozialwirtschaft
+55020600;IMMODE5MXXX;Westdeutsche Immobilien Bank
+55020700;SUFGDE51XXX;Süd-West-Kreditbank Finanzierung
+55030500;CPLADE55XXX;GE Capital Bank
+55030533;CPDIDE51XXX;GE Capital Direkt
+55033300;SCFBDE33XXX;Santander Consumer Bank
+55040022;COBADEFF550;Commerzbank
+55040060;COBADEFF092;Commerzbank CC
+55040061;COBADEFF093;Commerzbank CC
+55050000;SOLADEST550;ZV Landesbank Baden-Württemberg
+55050120;MALADE51MNZ;Sparkasse Mainz
+55060321;GENODE51MZ4;VR-Bank Mainz
+55060417;GENODE51MZ2;VR-Bank Mainz
+55060611;GENODE51MZ6;Genobank Mainz
+55060831;DAAEDED1031;apoBank
+55061303;GENODE51BUD;Budenheimer Volksbank
+55061507;GENODE51HDS;VR-Bank Mainz
+55061907;GENODE51NIS;Volksbank Rhein-Selz -alt-
+55070024;DEUTDEDBMAI;Deutsche Bank Privat und Geschäftskunden
+55070040;DEUTDE5MXXX;Deutsche Bank
+55080044;COBADEFF555;Commerzbank, TF MZ 1
+55080065;DRESDEFF550;Commerzbank vormals Dresdner Bank
+55080085;DRESDEFFJ20;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 1
+55080086;DRESDEFFJ21;Commerzbank vormals Dresdner Bank, PCC DCC-ITGK 2
+55080088;DRESDEFF555;Commerzbank, TF MZ 2
+55090500;GENODEF1S01;Sparda-Bank Südwest
+55091200;GENODE61AZY;Volksbank Alzey-Worms
+55150098;MALADE51EMZ;Clearingkonto LRP-SI
+55160195;GENODED1PA4;Pax-Bank
+55190000;MVBMDE55XXX;Mainzer Volksbank
+55190028;MVBMDE51028;Mainzer Volksbank -alt-
+55190050;MVBMDE51050;Mainzer Volksbank -alt-
+55190064;MVBMDE51064;Mainzer Volksbank -alt-
+55190065;MVBMDE51065;Mainzer Volksbank -alt-
+55190068;MVBMDE51068;Mainzer Volksbank -alt-
+55190088;MVBMDE51088;Mainzer Volksbank -alt-
+55190094;MVBMDE51094;Mainzer Volksbank -alt-
+55340041;COBADEFF553;Commerzbank
+55350010;MALADE51WOR;Sparkasse Worms-Alzey-Ried
+55361202;GENODE51AHM;Raiffeisenbank Alsheim-Gimbsheim
+55362071;GENODE51BEC;Volksbank Bechtheim
+55390000;GENODE61WO1;Volksbank Worms-Wonnegau -alt-
+56000000;MARKDEF1560;Bundesbank eh Bad Kreuznach
+56020086;HYVEDEMM515;UniCredit Bank - HypoVereinsbank
+56050180;MALADE51KRE;Sparkasse Rhein-Nahe
+56051790;MALADE51SIM;Kreissparkasse Rhein-Hunsrück
+56061151;GENODED1KSL;Raiffeisenbank Kastellaun
+56061472;GENODED1KHK;Volksbank Hunsrück-Nahe
+56062227;GENODED1RBO;Volksbank
+56062577;GENODED1VRK;Vereinigte Raiffeisenkassen -alt-
+56070024;DEUTDEDB560;Deutsche Bank Privat und Geschäftskunden
+56070040;DEUTDE5M560;Deutsche Bank
+56090000;GENODE51KRE;Volksbank Rhein-Nahe-Hunsrück
+56240050;COBADEFF562;Commerzbank
+56250030;BILADE55XXX;Kreissparkasse Birkenfeld
+56261735;GENODED1FIN;Raiffeisenbank Nahe
+56270024;DEUTDEDB562;Deutsche Bank Privat und Geschäftskunden
+56270044;DEUTDE5M562;Deutsche Bank
+56290000;GENODE51IDO;Volksbank-Raiffeisenbank Naheland -alt-
+57000000;MARKDEF1570;Bundesbank
+57010111;ESSEDE5F570;SEB
+57020086;HYVEDEMM401;UniCredit Bank - HypoVereinsbank
+57020301;MKBKDE51XXX;MKB Mittelrheinische Bank
+57020500;OYAKDE5KXXX;Oyak Anker Bank
+57020600;DEBKDE51XXX;Debeka Bausparkasse
+57040044;COBADEFF570;Commerzbank
+57050120;MALADE51KOB;Sparkasse Koblenz
+57051001;MALADE51BMB;Kreissparkasse Westerwald
+57051870;MALADE51COC;Kreissparkasse Cochem-Zell -alt-
+57060000;GENODEDD570;WGZ Bank
+57060612;DAAEDED1012;apoBank
+57062675;GENODE51NWA;Raiffeisenbank
+57063478;GENODED1VAN;Volksbank Vallendar-Niederwerth
+57064221;GENODED1MKA;Volksbank Mülheim-Kärlich
+57069067;GENODED1LUH;Raiffeisenbank Lutzerather Höhe
+57069081;GENODED1MOK;Raiffeisenbank Moselkrampen
+57069144;GENODED1KAI;Raiffeisenbank Kaisersesch
+57069238;GENODED1ASN;Raiffeisenbank Neustadt
+57069257;GENODED1UMO;Raiffeisenbank Untermosel
+57069315;GENODED1SRH;Raiffeisenbank Straßenhaus -alt-
+57069361;GENODED1WLG;Raiffeisenbank Welling
+57069526;GENODED1IDW;Raiffeisenbank Idarwald -alt-
+57069727;GENODED1IRR;Raiffeisenbank Irrel
+57069806;GENODED1MBA;VR-Bank Hunsrück-Mosel
+57070024;DEUTDEDB570;Deutsche Bank Privat und Geschäftskunden
+57070045;DEUTDE5M570;Deutsche Bank
+57080070;DRESDEFF570;Commerzbank vormals Dresdner Bank
+57090000;GENODE51KOB;Volksbank Koblenz Mittelrhein
+57090900;GENODEF1P12;PSD Bank Koblenz
+57091000;GENODE51MON;Volksbank Montabaur-Höhr-Grenzhausen
+57091100;GENODE51HGR;Volksbank Höhr-Grenzhausen -alt-
+57091500;GENODED1BOP;Volksbank Boppard -alt-
+57092800;GENODE51DIE;Volksbank Rhein-Lahn
+57263015;GENODE51ARZ;Raiffeisenbank Unterwesterwald
+57351030;MALADE51AKI;Kreissparkasse Altenkirchen
+57361476;GENODED1GBS;Volksbank Gebhardshain
+57363243;GENODED1NFB;Raiffeisenbank Niederfischbach -alt-
+57391200;GENODE51DAA;Volksbank Daaden
+57391500;GENODE51HAM;Volksbank Hamm, Sieg
+57391800;GENODE51WW1;Westerwald Bank
+57400000;MARKDEF1574;Bundesbank eh Neuwied
+57450120;MALADE51NWD;Sparkasse Neuwied
+57460117;GENODED1NWD;Volks- und Raiffeisenbank Neuwied-Linz
+57461759;GENODED1MRW;Raiffeisenbank Mittelrhein
+57470024;DEUTDEDB574;Deutsche Bank Privat und Geschäftskunden
+57470047;DEUTDE5M574;Deutsche Bank
+57650010;MALADE51MYN;Kreissparkasse Mayen
+57661253;GENODED1KEH;Raiffeisenbank
+57662263;GENODED1MPO;VR Bank Rhein-Mosel
+57751310;MALADE51AHR;Kreissparkasse Ahrweiler
+57761591;GENODED1BNA;Volksbank RheinAhrEifel
+57762265;GENODED1GRO;Raiffeisenbank Grafschaft-Wachtberg
+58500000;MARKDEF1585;Bundesbank eh Trier
+58510111;ESSEDE5F585;SEB
+58520086;HYVEDEMM437;UniCredit Bank - HypoVereinsbank
+58540035;COBADEFF585;Commerzbank
+58550130;TRISDE55XXX;Sparkasse Trier
+58560103;GENODED1TVB;Volksbank Trier
+58560294;GENODED1PA3;Pax-Bank
+58561250;GENODED1HER;Volksbank Hermeskeil -alt-
+58561626;GENODED1SRB;Volksbank Saarburg -alt-
+58561771;GENODED1MLW;Raiffeisenbank Mehring-Leiwen
+58564788;GENODED1HWM;Volksbank Hochwald-Saarburg
+58570024;DEUTDEDB585;Deutsche Bank Privat und Geschäftskunden
+58570048;DEUTDE5M585;Deutsche Bank
+58580074;DRESDEFF585;Commerzbank vormals Dresdner Bank
+58590900;GENODEF1P21;PSD Bank Trier Ndl der PSD Bank Köln
+58650030;MALADE51BIT;Kreissparkasse Bitburg-Prüm
+58651240;MALADE51DAU;Kreissparkasse Vulkaneifel
+58660101;GENODED1BIT;Volksbank Bitburg
+58661901;GENODED1WSC;Raiffeisenbank Westeifel
+58662653;GENODED1OSE;Raiffeisenbank östl Südeifel
+58668818;GENODED1NBL;Raiffeisenbank Neuerburg-Land -alt-
+58691500;GENODED1PRU;Volksbank Eifel Mitte
+58751230;MALADE51BKS;Sparkasse Mittelmosel-Eifel Mosel Hunsrück
+58760954;GENODED1WTL;Vereinigte Volksbank Raiffeisenbank
+58761343;GENODED1BPU;Raiffeisenbank Zeller Land
