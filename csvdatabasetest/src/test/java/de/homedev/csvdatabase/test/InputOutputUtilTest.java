@@ -111,6 +111,31 @@ public class InputOutputUtilTest {
 
 	}
 
+	@Test
+	public void testCheckDigitUtils() throws IOException {
+		String kontonummer = "2712563";
+		String blz = "70020270";
+		final String landerkennung = "131400";// 1314 (D = 13, E = 14) + 00
+		String normkontonummer = CheckDigitUtils.toNormNummer(kontonummer, 10, '0');
+		String ibanPruefziffer = CheckDigitUtils.calculatePruefziffer(normkontonummer, BLZ, landerkennung);
+		final StringBuffer iban = new StringBuffer(22);
+		iban.append("DE").append(ibanPruefziffer).append(BLZ).append(normkontonummer);
+		log.info("Input");
+		log.info("BLZ:" + BLZ + " KONTONUMMER:" + kontonummer);
+		log.info("Output");
+		log.info("IBAN:" + iban.toString());
+		Assert.assertEquals("DE91700202700002712563", iban.toString());
+		BlzDto blzDto = InputOutputUtilsExt.findInJarFile(InputOutputUtils.class, blz, "blz", TestConstants.INDEX_FILENAME, TestConstants.RECORDS_PER_FILE,
+				TestConstants.CHARSET, true);
+		if (blzDto != null) {
+			log.info("BIC:" + blzDto.getBic());
+			log.info("Bankname:" + blzDto.getBankname());
+			Assert.assertEquals("HYVEDEMMXXX", blzDto.getBic());
+			Assert.assertEquals("UniCredit Bank - HypoVereinsbank", blzDto.getBankname());
+		}
+
+	}
+
 	private static void initLog4j() {
 		InputStream inputStream = null;
 		try {
