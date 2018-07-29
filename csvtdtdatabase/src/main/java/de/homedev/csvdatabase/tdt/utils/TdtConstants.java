@@ -14,5 +14,5 @@ public interface TdtConstants {
 	public static final String INDEX_FILENAME = "i.i";
 	public static final String MANUFACTURER_FILENAME = "h.dat";
 	public static final long RECORDS_PER_FILE = 200;
-
+	public static final String DATABASE_DIR = "tdt";
 }

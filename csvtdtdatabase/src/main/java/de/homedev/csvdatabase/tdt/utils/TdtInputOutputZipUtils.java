@@ -32,6 +32,16 @@ public final class TdtInputOutputZipUtils implements CommonConstants {
 	private TdtInputOutputZipUtils() {
 	}
 
+	public static final File getDBDir() {
+		File runDir = new File(System.getProperty("user.dir"));
+		File etcDir = new File(runDir, "etc");
+		return new File(etcDir, "database");
+	}
+
+	public static final File getTdtDir() {
+		return new File(getDBDir(), TdtConstants.DATABASE_DIR);
+	}
+
 	public static final String findInZipFile(String herstellerSchl, String typeSchl, String vvsSchl, File dbDir) throws IOException {
 		String dirInJar = TdtCommonUtils.checkDirName(herstellerSchl) + "/" + TdtCommonUtils.checkDirName(typeSchl);
 		File zipFile = new File(dbDir, herstellerSchl + ".zip");

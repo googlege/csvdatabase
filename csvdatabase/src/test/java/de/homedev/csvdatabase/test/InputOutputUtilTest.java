@@ -61,7 +61,7 @@ public class InputOutputUtilTest {
 
 	@Test
 	public void testJarFile() throws IOException {
-		String result = InputOutputUtils.findInJarFile(InputOutputUtils.class, BLZ, "blz", TestConstants.INDEX_FILENAME, TestConstants.RECORDS_PER_FILE,
+		String result = InputOutputUtils.findInJarFile(InputOutputUtils.class, BLZ, "/blz/", TestConstants.INDEX_FILENAME, TestConstants.RECORDS_PER_FILE,
 				TestConstants.CHARSET);
 		log.info("testJarFile result:" + result);
 		Assert.assertNotNull(result);

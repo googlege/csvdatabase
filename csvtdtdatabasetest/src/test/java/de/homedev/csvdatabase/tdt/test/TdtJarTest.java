@@ -1,8 +1,7 @@
 package de.homedev.csvdatabase.tdt.test;
 
-import java.io.File;
-import java.io.FileNotFoundException;
 import java.io.IOException;
+import java.io.InputStream;
 import java.util.Collections;
 import java.util.List;
 
@@ -15,7 +14,7 @@ import de.homedev.csvdatabase.tdt.dto.TechnikBasisDto;
 import de.homedev.csvdatabase.tdt.dto.TypeDto;
 import de.homedev.csvdatabase.tdt.utils.TdtCommonUtils;
 import de.homedev.csvdatabase.tdt.utils.TdtConstants;
-import de.homedev.csvdatabase.tdt.utils.TdtInputOutputZipUtils;
+import de.homedev.csvdatabase.tdt.utils.TdtInputOutputJarUtils;
 
 /**
  * 
@@ -24,27 +23,24 @@ import de.homedev.csvdatabase.tdt.utils.TdtInputOutputZipUtils;
  * 
  *
  */
-public class TdtZipTest {
-	private static Logger log = Logger.getLogger(TdtZipTest.class);
+public class TdtJarTest {
+	private static Logger log = Logger.getLogger(TdtJarTest.class);
 
 	@Test
 	public void testIfDatabaseExist() throws IOException {
-		File databaseDir = TdtInputOutputZipUtils.getTdtDir();
-		if (!databaseDir.exists()) {
-			throw new FileNotFoundException("Can not find TDT database: " + databaseDir.getAbsolutePath());
-		}
-		if (!databaseDir.isDirectory()) {
-			throw new IOException("File " + databaseDir + " is not a directory");
-		}
-		if (!databaseDir.canRead()) {
-			throw new IOException("Do not have right reading from " + databaseDir.getAbsolutePath());
-		}
-		File manufacturerFile = new File(databaseDir, TdtConstants.MANUFACTURER_FILENAME);
-		if (!databaseDir.exists()) {
-			throw new FileNotFoundException("Can not find manufacturer file: " + manufacturerFile.getAbsolutePath());
-		}
-		if (!manufacturerFile.canRead()) {
-			throw new IOException("Do not have right reading from " + manufacturerFile.getAbsolutePath());
+		String prefix = '/' + TdtConstants.DATABASE_DIR + '/';
+		InputStream is = null;
+		try {
+			is = TdtInputOutputJarUtils.class.getResourceAsStream(prefix + TdtConstants.MANUFACTURER_FILENAME);
+			Assert.assertNotNull(is);
+		} finally {
+			if (is != null) {
+				try {
+					is.close();
+				} catch (IOException ee) {
+					log.error(ee.getMessage(), ee);
+				}
+			}
 		}
 	}
 
@@ -53,9 +49,8 @@ public class TdtZipTest {
 		String herstellerSchl = "1313";
 		String typeSchl = "BEF";
 		String vvsSchl = "00378";
-		File dbDir = TdtInputOutputZipUtils.getTdtDir();
 		long time1 = System.currentTimeMillis();
-		String result = TdtInputOutputZipUtils.findInZipFile(herstellerSchl, typeSchl, vvsSchl, dbDir);
+		String result = TdtInputOutputJarUtils.findInJarFile(herstellerSchl, typeSchl, vvsSchl);
 		long time2 = System.currentTimeMillis();
 		log.info("herstellerSchl:" + herstellerSchl + " typeSchl:" + typeSchl + " vvsSchl:" + vvsSchl);
 		log.info("result:" + result);
@@ -73,9 +68,8 @@ public class TdtZipTest {
 		String herstellerSchl = "0603";
 		String typeSchl = "BDS";
 		String vvsSchl = "01208";
-		File dbDir = TdtInputOutputZipUtils.getTdtDir();
 		long time1 = System.currentTimeMillis();
-		String result = TdtInputOutputZipUtils.findInZipFile(herstellerSchl, typeSchl, vvsSchl, dbDir);
+		String result = TdtInputOutputJarUtils.findInJarFile(herstellerSchl, typeSchl, vvsSchl);
 		long time2 = System.currentTimeMillis();
 		log.info("herstellerSchl:" + herstellerSchl + " typeSchl:" + typeSchl + " vvsSchl:" + vvsSchl);
 		log.info("result:" + result);
@@ -91,9 +85,7 @@ public class TdtZipTest {
 	@Test
 	public void readAllAllManufacturer() throws IOException {
 		String herstellerSchl = "0603";
-		File dbDir = TdtInputOutputZipUtils.getTdtDir();
-		File manufacturerFile = new File(dbDir, TdtConstants.MANUFACTURER_FILENAME);
-		List<HerstellerDto> list = TdtInputOutputZipUtils.getAllManufacturerInZip(manufacturerFile, TdtConstants.CHARSET);
+		List<HerstellerDto> list = TdtInputOutputJarUtils.getAllManufacturerInJar(TdtConstants.MANUFACTURER_FILENAME, TdtConstants.CHARSET);
 		Assert.assertNotNull(list);
 		Assert.assertTrue(!list.isEmpty());
 		Collections.sort(list);
@@ -108,8 +100,7 @@ public class TdtZipTest {
 		String herstellerSchl = "1313";
 		String typeSchl = "BEF";
 		// String vvsSchl = "00378";
-		File dbDir = TdtInputOutputZipUtils.getTdtDir();
-		List<TypeDto> list = TdtInputOutputZipUtils.getAllTypesInZip(herstellerSchl, dbDir, TdtConstants.CHARSET);
+		List<TypeDto> list = TdtInputOutputJarUtils.getAllTypesInJar(herstellerSchl, TdtConstants.CHARSET);
 		Assert.assertNotNull(list);
 		Assert.assertTrue(!list.isEmpty());
 		Collections.sort(list);
@@ -124,8 +115,7 @@ public class TdtZipTest {
 		String herstellerSchl = "1313";
 		String typeSchl = "BEF";
 		String vvsSchl = "00378";
-		File dbDir = TdtInputOutputZipUtils.getTdtDir();
-		List<String> list = TdtInputOutputZipUtils.getAllVvsSchlInZip(herstellerSchl, typeSchl, dbDir, TdtConstants.CHARSET);
+		List<String> list = TdtInputOutputJarUtils.getAllVvsSchlInJar(herstellerSchl, typeSchl, TdtConstants.CHARSET);
 		Assert.assertTrue(!list.isEmpty());
 		Collections.sort(list);
 		int index = Collections.binarySearch(list, vvsSchl, String.CASE_INSENSITIVE_ORDER);
@@ -133,5 +123,4 @@ public class TdtZipTest {
 		String value = list.get(index);
 		Assert.assertEquals(vvsSchl, value);
 	}
-
 }

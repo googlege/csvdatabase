@@ -39,7 +39,7 @@ public final class InputOutputUtilsExt {
 				return list.get(index);
 			}
 		}
-		String line = InputOutputUtils.findInJarFile(clazz, value, dirInJar, idxFileName, recordsPerFile, charset);
+		String line = InputOutputUtils.findInJarFile(clazz, value, '/' + dirInJar + '/', idxFileName, recordsPerFile, charset);
 		if (line != null) {
 			result = new BlzDto(line);
 		}

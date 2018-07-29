@@ -113,11 +113,9 @@ public final class InputOutputUtils {
 		}
 	}
 
-	public static String findInJarFile(Class clazz, String value, String dirInJar, String idxFileName, long recordsPerFile, Charset charset)
-			throws IOException {
+	public static String findInJarFile(Class clazz, String value, String prefix, String idxFileName, long recordsPerFile, Charset charset) throws IOException {
 		InputStream isData = null;
 		InputStream isIndex = null;
-		String prefix = '/' + dirInJar + '/';
 		try {
 			isIndex = clazz.getResourceAsStream(prefix + idxFileName);
 			Long idxPos = findInIdxFile(isIndex, value, charset);

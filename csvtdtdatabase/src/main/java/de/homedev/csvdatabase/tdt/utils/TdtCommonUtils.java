@@ -1,7 +1,5 @@
 package de.homedev.csvdatabase.tdt.utils;
 
-import java.io.File;
-
 import org.apache.log4j.Logger;
 
 import de.homedev.csvdatabase.tdt.dto.TechnikBasisDto;
@@ -19,16 +17,6 @@ public final class TdtCommonUtils implements CommonConstants {
 	private static Logger log = Logger.getLogger(TdtCommonUtils.class);
 
 	private TdtCommonUtils() {
-	}
-
-	public static final File getDBDir() {
-		File runDir = new File(System.getProperty("user.dir"));
-		File etcDir = new File(runDir, "etc");
-		return new File(etcDir, "database");
-	}
-
-	public static final File getTdtDir() {
-		return new File(getDBDir(), "tdt");
 	}
 
 	public static String checkDirName(final String original) {
