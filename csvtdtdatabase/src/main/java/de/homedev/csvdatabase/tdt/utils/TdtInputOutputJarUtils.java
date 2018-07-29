@@ -1,11 +1,7 @@
 package de.homedev.csvdatabase.tdt.utils;
 
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStream;
-import java.io.InputStreamReader;
 import java.nio.charset.Charset;
-import java.util.ArrayList;
 import java.util.List;
 
 import org.apache.log4j.Logger;
@@ -50,29 +46,9 @@ public final class TdtInputOutputJarUtils implements CommonConstants {
 	}
 
 	public static final List<String> getAllVvsSchlInJar(String herstellerSchl, String typeSchl, Charset charset) throws IOException {
-		BufferedReader reader = null;
-		List<String> result = new ArrayList<>(400);
-		try {
-			String prefix = '/' + TdtConstants.DATABASE_DIR + '/' + herstellerSchl + '/' + typeSchl + '/';
-			InputStream is = TdtInputOutputJarUtils.class.getResourceAsStream(prefix + TdtConstants.INDEX_FILENAME);
-			reader = new BufferedReader(new InputStreamReader(is, charset));
-			String line = null;
-			while ((line = reader.readLine()) != null) {
-				if (line.isEmpty()) {
-					continue;
-				}
-				result.add(line);
-			}
-			return result;
-		} finally {
-			if (reader != null) {
-				try {
-					reader.close();
-				} catch (IOException ee) {
-					log.error(ee.getMessage(), ee);
-				}
-			}
-		}
+		String url = '/' + TdtConstants.DATABASE_DIR + '/' + herstellerSchl + '/' + typeSchl + '/' + TdtConstants.INDEX_FILENAME;
+		int resultInitSize = 400;
+		return InputOutputUtils.getAllDataInJar(TdtInputOutputJarUtils.class, url, charset, resultInitSize);
 	}
 
 }

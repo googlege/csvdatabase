@@ -2,6 +2,7 @@ package de.homedev.csvdatabase.utils;
 
 import java.io.BufferedReader;
 import java.io.File;
+import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
@@ -160,6 +161,58 @@ public final class InputOutputUtils {
 					continue;
 				}
 				result.add(obj.lineToDto(line));
+			}
+			return result;
+		} finally {
+			if (reader != null) {
+				try {
+					reader.close();
+				} catch (IOException ee) {
+					log.error(ee.getMessage(), ee);
+				}
+			}
+
+		}
+	}
+
+	public static final <T extends CsvLineToDto<T>> List<T> getAllDataInFile(T obj, File file, Charset charset, int resultInitSize) throws IOException {
+		BufferedReader reader = null;
+		List<T> result = new ArrayList<>(resultInitSize);
+		try {
+			InputStream is = new FileInputStream(file);
+			reader = new BufferedReader(new InputStreamReader(is, charset));
+			String line = null;
+			while ((line = reader.readLine()) != null) {
+				if (line.isEmpty()) {
+					continue;
+				}
+				result.add(obj.lineToDto(line));
+			}
+			return result;
+		} finally {
+			if (reader != null) {
+				try {
+					reader.close();
+				} catch (IOException ee) {
+					log.error(ee.getMessage(), ee);
+				}
+			}
+
+		}
+	}
+
+	public static final List<String> getAllDataInJar(Class clazz, String url, Charset charset, int resultInitSize) throws IOException {
+		BufferedReader reader = null;
+		List<String> result = new ArrayList<>(resultInitSize);
+		try {
+			InputStream is = clazz.getResourceAsStream(url);
+			reader = new BufferedReader(new InputStreamReader(is, charset));
+			String line = null;
+			while ((line = reader.readLine()) != null) {
+				if (line.isEmpty()) {
+					continue;
+				}
+				result.add(line);
 			}
 			return result;
 		} finally {

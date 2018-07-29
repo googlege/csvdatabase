@@ -2,7 +2,6 @@ package de.homedev.csvdatabase.tdt.utils;
 
 import java.io.BufferedReader;
 import java.io.File;
-import java.io.FileInputStream;
 import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.InputStream;
@@ -49,31 +48,10 @@ public final class TdtInputOutputZipUtils implements CommonConstants {
 	}
 
 	public static final List<HerstellerDto> getAllManufacturerInZip(File manufacturerFile, Charset charset) throws IOException {
-		BufferedReader reader = null;
-		List<HerstellerDto> result = new ArrayList<>(411);
-		try {
-			if (!manufacturerFile.exists()) {
-				throw new FileNotFoundException("Can not find file " + manufacturerFile.getAbsolutePath());
-			}
-			reader = new BufferedReader(new InputStreamReader(new FileInputStream(manufacturerFile), charset));
-			String line = null;
-			while ((line = reader.readLine()) != null) {
-				if (line.isEmpty()) {
-					continue;
-				}
-				result.add(new HerstellerDto(line));
-			}
-			return result;
-		} finally {
-			if (reader != null) {
-				try {
-					reader.close();
-				} catch (IOException ee) {
-					log.error(ee.getMessage(), ee);
-				}
-			}
+		HerstellerDto obj = new HerstellerDto();
+		int resultInitSize = 411;
+		return InputOutputUtils.getAllDataInFile(obj, manufacturerFile, charset, resultInitSize);
 
-		}
 	}
 
 	public static final List<TypeDto> getAllTypesInZip(String herstellerSchl, File dbDir, Charset charset) throws IOException {
