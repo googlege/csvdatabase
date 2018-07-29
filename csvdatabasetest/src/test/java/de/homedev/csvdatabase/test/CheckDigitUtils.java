@@ -1,6 +1,7 @@
 package de.homedev.csvdatabase.test;
 
-import org.apache.log4j.Logger;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 /**
  * 
@@ -10,7 +11,7 @@ import org.apache.log4j.Logger;
  *
  */
 public final class CheckDigitUtils {
-	private static Logger log = Logger.getLogger(CheckDigitUtils.class);
+	private static Logger log = LoggerFactory.getLogger(CheckDigitUtils.class);
 
 	private CheckDigitUtils() {
 	}
@@ -63,8 +64,7 @@ public final class CheckDigitUtils {
 		final int modulusResult = calculateModulus(sb.toString());
 		final int charValue = (98 - modulusResult);
 		final String checkDigit = Integer.toString(charValue);
-		// System.out.println("sb=" + sb.toString() + " mod 97=" + modulusResult
-		// + " 98-" + modulusResult + "=" + charValue);
+		log.debug("sb=" + sb.toString() + " mod 97=" + modulusResult + " 98-" + modulusResult + "=" + charValue);
 		return (charValue > 9 ? checkDigit : "0" + checkDigit);
 	}
 }

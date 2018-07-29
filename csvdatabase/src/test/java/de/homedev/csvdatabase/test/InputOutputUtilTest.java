@@ -1,11 +1,8 @@
 package de.homedev.csvdatabase.test;
 
 import java.io.File;
-import java.io.FileInputStream;
 import java.io.IOException;
-import java.io.InputStream;
 import java.nio.charset.Charset;
-import java.util.Properties;
 
 import org.apache.log4j.Logger;
 import org.junit.Assert;
@@ -25,7 +22,6 @@ public class InputOutputUtilTest {
 	private static Logger log = Logger.getLogger(InputOutputUtilTest.class);
 
 	public static final Charset CHARSET_UTF8 = Charset.forName("UTF-8");
-	private static final String LOG4J_PROPERTIES_FILE_NAME = "log4j.properties";
 	private static final String BLZ = "70020270";
 
 	/**
@@ -33,7 +29,7 @@ public class InputOutputUtilTest {
 	 */
 	@Before
 	public void init() {
-		initLog4j();
+
 	}
 
 	public File getDBDir() {
@@ -111,29 +107,4 @@ public class InputOutputUtilTest {
 
 	}
 
-	private static void initLog4j() {
-		InputStream inputStream = null;
-		try {
-
-			final File dirEtc = new File(System.getProperty("user.dir"), "etc");
-			File propertiesFile = new File(dirEtc, LOG4J_PROPERTIES_FILE_NAME);
-			if (!propertiesFile.exists())
-				throw new RuntimeException("Datei '" + propertiesFile.getAbsolutePath() + "' wurde nicht gefunden");
-
-			inputStream = new FileInputStream(propertiesFile);
-			final Properties log4jProperties = new Properties();
-			log4jProperties.load(inputStream);
-			org.apache.log4j.PropertyConfigurator.configure(log4jProperties);
-			// System.out.println("Log4j has been successfully initialised.");
-
-		} catch (Exception e) {
-			e.printStackTrace();
-		} finally {
-			if (inputStream != null)
-				try {
-					inputStream.close();
-				} catch (Exception e) {
-				}
-		}
-	}
 }
