@@ -36,56 +36,17 @@ public final class TdtInputOutputJarUtils implements CommonConstants {
 	}
 
 	public static final List<HerstellerDto> getAllManufacturerInJar(String manufacturerFileName, Charset charset) throws IOException {
-		BufferedReader reader = null;
-		List<HerstellerDto> result = new ArrayList<>(411);
-		String prefix = '/' + TdtConstants.DATABASE_DIR + '/';
-		try {
-			InputStream is = TdtInputOutputJarUtils.class.getResourceAsStream(prefix + manufacturerFileName);
-			reader = new BufferedReader(new InputStreamReader(is, charset));
-			String line = null;
-			while ((line = reader.readLine()) != null) {
-				if (line.isEmpty()) {
-					continue;
-				}
-				result.add(new HerstellerDto(line));
-			}
-			return result;
-		} finally {
-			if (reader != null) {
-				try {
-					reader.close();
-				} catch (IOException ee) {
-					log.error(ee.getMessage(), ee);
-				}
-			}
-
-		}
+		String url = '/' + TdtConstants.DATABASE_DIR + '/' + manufacturerFileName;
+		HerstellerDto obj = new HerstellerDto();
+		int resultInitSize = 411;
+		return InputOutputUtils.getAllDataInJar(obj, TdtInputOutputJarUtils.class, url, charset, resultInitSize);
 	}
 
 	public static final List<TypeDto> getAllTypesInJar(String herstellerSchl, Charset charset) throws IOException {
-		BufferedReader reader = null;
-		List<TypeDto> result = new ArrayList<>(400);
-		try {
-			String prefix = '/' + TdtConstants.DATABASE_DIR + '/' + herstellerSchl + '/';
-			InputStream is = TdtInputOutputJarUtils.class.getResourceAsStream(prefix + TdtConstants.INDEX_FILENAME);
-			reader = new BufferedReader(new InputStreamReader(is, charset));
-			String line = null;
-			while ((line = reader.readLine()) != null) {
-				if (line.isEmpty()) {
-					continue;
-				}
-				result.add(new TypeDto(line));
-			}
-			return result;
-		} finally {
-			if (reader != null) {
-				try {
-					reader.close();
-				} catch (IOException ee) {
-					log.error(ee.getMessage(), ee);
-				}
-			}
-		}
+		String url = '/' + TdtConstants.DATABASE_DIR + '/' + herstellerSchl + '/' + TdtConstants.INDEX_FILENAME;
+		TypeDto obj = new TypeDto();
+		int resultInitSize = 400;
+		return InputOutputUtils.getAllDataInJar(obj, TdtInputOutputJarUtils.class, url, charset, resultInitSize);
 	}
 
 	public static final List<String> getAllVvsSchlInJar(String herstellerSchl, String typeSchl, Charset charset) throws IOException {

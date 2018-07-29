@@ -2,6 +2,7 @@ package de.homedev.csvdatabase.tdt.dto;
 
 import de.homedev.csvdatabase.utils.CommonConstants;
 import de.homedev.csvdatabase.utils.CsvUtils;
+import de.homedev.csvdatabase.utils.CsvLineToDto;
 
 /**
  * 
@@ -10,7 +11,7 @@ import de.homedev.csvdatabase.utils.CsvUtils;
  * 
  *
  */
-public class TypeDto implements Comparable<TypeDto> {
+public class TypeDto implements Comparable<TypeDto>, CsvLineToDto<TypeDto> {
 	private String schluessel;
 	private String text;
 
@@ -49,6 +50,13 @@ public class TypeDto implements Comparable<TypeDto> {
 	@Override
 	public int compareTo(TypeDto o) {
 		return o.getSchluessel().compareToIgnoreCase(this.schluessel);
+	}
+
+	@Override
+	public TypeDto lineToDto(String line) {
+		String schluessel = CsvUtils.valueFromCSVLine(line, CommonConstants.CSV_PARAM_SEPARATOR, 0);
+		String text = CsvUtils.valueFromCSVLine(line, CommonConstants.CSV_PARAM_SEPARATOR, 1);
+		return new TypeDto(schluessel, text);
 	}
 
 }

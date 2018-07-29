@@ -7,6 +7,8 @@ import java.io.IOException;
 import java.io.InputStream;
 import java.io.InputStreamReader;
 import java.nio.charset.Charset;
+import java.util.ArrayList;
+import java.util.List;
 import java.util.jar.JarFile;
 import java.util.zip.ZipEntry;
 
@@ -142,6 +144,33 @@ public final class InputOutputUtils {
 					log.error(ee.getMessage(), ee);
 				}
 			}
+		}
+	}
+
+	public static final <T extends CsvLineToDto<T>> List<T> getAllDataInJar(T obj, Class clazz, String url, Charset charset, int resultInitSize)
+			throws IOException {
+		BufferedReader reader = null;
+		List<T> result = new ArrayList<>(resultInitSize);
+		try {
+			InputStream is = clazz.getResourceAsStream(url);
+			reader = new BufferedReader(new InputStreamReader(is, charset));
+			String line = null;
+			while ((line = reader.readLine()) != null) {
+				if (line.isEmpty()) {
+					continue;
+				}
+				result.add(obj.lineToDto(line));
+			}
+			return result;
+		} finally {
+			if (reader != null) {
+				try {
+					reader.close();
+				} catch (IOException ee) {
+					log.error(ee.getMessage(), ee);
+				}
+			}
+
 		}
 	}
 
