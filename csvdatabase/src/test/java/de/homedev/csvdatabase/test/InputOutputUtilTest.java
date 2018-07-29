@@ -41,7 +41,7 @@ public class InputOutputUtilTest {
 	public void testIfFileExist() throws IOException {
 		File zipFile = new File(getDBDir(), "blz.zip");
 		if (!zipFile.exists()) {
-			throw new RuntimeException("Database " + zipFile.getAbsolutePath() + " wurde nicht gefunden");
+			throw new RuntimeException("Can't find database file:" + zipFile.getAbsolutePath());
 		}
 	}
 

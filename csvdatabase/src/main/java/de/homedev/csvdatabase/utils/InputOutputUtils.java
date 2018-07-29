@@ -43,6 +43,9 @@ public final class InputOutputUtils {
 
 	public static InputStream getResourceAsStream(JarFile jarFile, String internFileFullName) throws IOException {
 		ZipEntry entry = jarFile.getEntry(internFileFullName);
+		if (entry == null) {
+			throw new RuntimeException("Can't read " + internFileFullName + " in " + jarFile.getName());
+		}
 		InputStream is = jarFile.getInputStream(entry);
 		if (is == null) {
 			throw new RuntimeException("Can't read " + internFileFullName + " in " + jarFile.getName());

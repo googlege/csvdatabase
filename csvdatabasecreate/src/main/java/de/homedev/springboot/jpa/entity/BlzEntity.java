@@ -14,6 +14,7 @@ import javax.persistence.TableGenerator;
 import javax.persistence.Version;
 
 import de.homedev.springboot.jpa.utils.CsvUtils;
+import de.homedev.springboot.jpa.utils.SqlUtils;
 
 /**
  * 
@@ -143,9 +144,9 @@ public class BlzEntity implements Serializable {
 			sb.append(bic).append(COMMA);
 		}
 		if (bankname != null && !bankname.isEmpty()) {
-			sb.append(AP).append(bankname).append(AP);
+			sb.append(AP).append(SqlUtils.checkValue(bankname)).append(AP);
 		} else {
-			sb.append(bankname);
+			sb.append(SqlUtils.checkValue(bankname));
 		}
 		sb.append(");\r\n");
 		return sb.toString().getBytes(CommonConstants.CHARSET);

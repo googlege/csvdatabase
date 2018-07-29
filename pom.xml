@@ -13,7 +13,9 @@
     <modules>
 		<module>/csvdatabasecreate</module>
  		<module>/csvdatabase</module> 
-		<module>/csvdatabasetest</module> 
+		<module>/csvdatabasetest</module>
+        <module>/csvtdtdatabasecreate</module>
+		<module>/csvtdtdatabase</module>
 	</modules>
 
 </project>

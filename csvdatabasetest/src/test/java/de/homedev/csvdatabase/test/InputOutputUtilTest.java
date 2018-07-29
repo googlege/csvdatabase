@@ -24,8 +24,6 @@ public class InputOutputUtilTest {
 
 	public static final Charset CHARSET_UTF8 = Charset.forName("UTF-8");
 
-	private static final String BLZ = "70020270";
-
 	/**
 	 * Test data initialisation function
 	 */
@@ -43,19 +41,20 @@ public class InputOutputUtilTest {
 	public void testIfFileExist() throws IOException {
 		File zipFile = new File(getDBDir(), "blz.zip");
 		if (!zipFile.exists()) {
-			throw new RuntimeException("Database " + zipFile.getAbsolutePath() + " wurde nicht gefunden");
+			throw new RuntimeException("Can't find database file:" + zipFile.getAbsolutePath());
 		}
 	}
 
 	@Test
 	public void testZipFile() throws IOException {
+		String blz = "70020270";
 		File zipFile = new File(getDBDir(), "blz.zip");
-		String result = InputOutputUtils.findInZipFile(zipFile, BLZ, "blz", TestConstants.INDEX_FILENAME, TestConstants.RECORDS_PER_FILE,
+		String result = InputOutputUtils.findInZipFile(zipFile, blz, "blz", TestConstants.INDEX_FILENAME, TestConstants.RECORDS_PER_FILE,
 				TestConstants.CHARSET);
 		log.info("testZipFile result:" + result);
 		Assert.assertNotNull(result);
 		BlzDto blzDto = new BlzDto(result);
-		Assert.assertEquals(BLZ, blzDto.getBlz());
+		Assert.assertEquals(blz, blzDto.getBlz());
 		Assert.assertEquals("HYVEDEMMXXX", blzDto.getBic());
 		Assert.assertEquals("UniCredit Bank - HypoVereinsbank", blzDto.getBankname());
 
@@ -63,12 +62,13 @@ public class InputOutputUtilTest {
 
 	@Test
 	public void testJarFile() throws IOException {
-		String result = InputOutputUtils.findInJarFile(InputOutputUtils.class, BLZ, "blz", TestConstants.INDEX_FILENAME, TestConstants.RECORDS_PER_FILE,
+		String blz = "70020270";
+		String result = InputOutputUtils.findInJarFile(InputOutputUtils.class, blz, "blz", TestConstants.INDEX_FILENAME, TestConstants.RECORDS_PER_FILE,
 				TestConstants.CHARSET);
 		log.info("testJarFile result:" + result);
 		Assert.assertNotNull(result);
 		BlzDto blzDto = new BlzDto(result);
-		Assert.assertEquals(BLZ, blzDto.getBlz());
+		Assert.assertEquals(blz, blzDto.getBlz());
 		Assert.assertEquals("HYVEDEMMXXX", blzDto.getBic());
 		Assert.assertEquals("UniCredit Bank - HypoVereinsbank", blzDto.getBankname());
 
@@ -76,16 +76,17 @@ public class InputOutputUtilTest {
 
 	@Test
 	public void testZipFileExt() throws IOException {
+		String blz = "70020270";
 		File zipFile = new File(getDBDir(), "blz.zip");
 		long time1 = System.currentTimeMillis();
-		BlzDto blzDto = InputOutputUtilsExt.findInZipFile(zipFile, BLZ, "blz", TestConstants.INDEX_FILENAME, TestConstants.RECORDS_PER_FILE,
+		BlzDto blzDto = InputOutputUtilsExt.findInZipFile(zipFile, blz, "blz", TestConstants.INDEX_FILENAME, TestConstants.RECORDS_PER_FILE,
 				TestConstants.CHARSET, true);
 		long time2 = System.currentTimeMillis();
-		blzDto = InputOutputUtilsExt.findInZipFile(zipFile, BLZ, "blz", TestConstants.INDEX_FILENAME, TestConstants.RECORDS_PER_FILE, TestConstants.CHARSET,
+		blzDto = InputOutputUtilsExt.findInZipFile(zipFile, blz, "blz", TestConstants.INDEX_FILENAME, TestConstants.RECORDS_PER_FILE, TestConstants.CHARSET,
 				true);
 		long time3 = System.currentTimeMillis();
 		Assert.assertNotNull(blzDto);
-		Assert.assertEquals(BLZ, blzDto.getBlz());
+		Assert.assertEquals(blz, blzDto.getBlz());
 		Assert.assertEquals("HYVEDEMMXXX", blzDto.getBic());
 		Assert.assertEquals("UniCredit Bank - HypoVereinsbank", blzDto.getBankname());
 		log.info("testZipFileExt time2-time1=" + (time2 - time1) + " time3-time2=" + (time3 - time2));
@@ -93,16 +94,17 @@ public class InputOutputUtilTest {
 
 	@Test
 	public void testJarFileExt() throws IOException {
+		String blz = "70020270";
 		long time1 = System.currentTimeMillis();
-		BlzDto blzDto = InputOutputUtilsExt.findInJarFile(InputOutputUtils.class, BLZ, "blz", TestConstants.INDEX_FILENAME, TestConstants.RECORDS_PER_FILE,
+		BlzDto blzDto = InputOutputUtilsExt.findInJarFile(InputOutputUtils.class, blz, "blz", TestConstants.INDEX_FILENAME, TestConstants.RECORDS_PER_FILE,
 				TestConstants.CHARSET, true);
 		long time2 = System.currentTimeMillis();
-		blzDto = InputOutputUtilsExt.findInJarFile(InputOutputUtils.class, BLZ, "blz", TestConstants.INDEX_FILENAME, TestConstants.RECORDS_PER_FILE,
+		blzDto = InputOutputUtilsExt.findInJarFile(InputOutputUtils.class, blz, "blz", TestConstants.INDEX_FILENAME, TestConstants.RECORDS_PER_FILE,
 				TestConstants.CHARSET, true);
 		long time3 = System.currentTimeMillis();
 
 		Assert.assertNotNull(blzDto);
-		Assert.assertEquals(BLZ, blzDto.getBlz());
+		Assert.assertEquals(blz, blzDto.getBlz());
 		Assert.assertEquals("HYVEDEMMXXX", blzDto.getBic());
 		Assert.assertEquals("UniCredit Bank - HypoVereinsbank", blzDto.getBankname());
 		log.info("testJarFileExt time2-time1=" + (time2 - time1) + " time3-time2=" + (time3 - time2));
@@ -115,11 +117,11 @@ public class InputOutputUtilTest {
 		String blz = "70020270";
 		final String landerkennung = "131400";// 1314 (D = 13, E = 14) + 00
 		String normkontonummer = CheckDigitUtils.toNormNummer(kontonummer, 10, '0');
-		String ibanPruefziffer = CheckDigitUtils.calculatePruefziffer(normkontonummer, BLZ, landerkennung);
+		String ibanPruefziffer = CheckDigitUtils.calculatePruefziffer(normkontonummer, blz, landerkennung);
 		final StringBuffer iban = new StringBuffer(22);
-		iban.append("DE").append(ibanPruefziffer).append(BLZ).append(normkontonummer);
+		iban.append("DE").append(ibanPruefziffer).append(blz).append(normkontonummer);
 		log.info("Input");
-		log.info("BLZ:" + BLZ + " KONTONUMMER:" + kontonummer);
+		log.info("BLZ:" + blz + " KONTONUMMER:" + kontonummer);
 		log.info("Output");
 		log.info("IBAN:" + iban.toString());
 		Assert.assertEquals("DE91700202700002712563", iban.toString());

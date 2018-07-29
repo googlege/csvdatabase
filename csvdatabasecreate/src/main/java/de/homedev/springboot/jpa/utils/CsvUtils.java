@@ -23,6 +23,9 @@ import de.homedev.springboot.jpa.entity.CommonConstants;
 public final class CsvUtils {
 	private static Logger log = LoggerFactory.getLogger(CsvUtils.class);
 
+	private CsvUtils() {
+	}
+
 	public static Long longFromCSVLine(final String line, final char separator, final int position) throws IndexOutOfBoundsException {
 		String value = valueFromCSVLine(line, separator, position);
 		if (value == null)
