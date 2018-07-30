@@ -1,0 +1,1 @@
+real database has about 80 MB as zipped CSV Database and about 2GB as unsipped fixed length file.(about 2GB in relational SQL Database)

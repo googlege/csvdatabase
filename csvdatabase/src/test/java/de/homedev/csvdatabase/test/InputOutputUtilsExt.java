@@ -9,7 +9,8 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-import de.homedev.csvdatabase.utils.InputOutputUtils;
+import de.homedev.csvdatabase.utils.InputOutputJarUtils;
+import de.homedev.csvdatabase.utils.InputOutputZipUtils;
 
 /**
  * 
@@ -33,13 +34,13 @@ public final class InputOutputUtilsExt {
 				list = new ArrayList<>(100);
 				MAP.put(dirInJar, list);
 			}
-			BlzDto compDto = new BlzDto(value, null, null, null, null);
+			BlzDto compDto = new BlzDto(value, null, null);
 			int index = Collections.binarySearch(list, compDto, new BlzComparator());
 			if (index >= 0) {
 				return list.get(index);
 			}
 		}
-		String line = InputOutputUtils.findInJarFile(clazz, value, '/' + dirInJar + '/', idxFileName, recordsPerFile, charset);
+		String line = InputOutputJarUtils.findInJarFile(clazz, value, '/' + dirInJar + '/', idxFileName, recordsPerFile, charset);
 		if (line != null) {
 			result = new BlzDto(line);
 		}
@@ -58,13 +59,13 @@ public final class InputOutputUtilsExt {
 				list = new ArrayList<>(100);
 				MAP.put(dirInJar, list);
 			}
-			BlzDto compDto = new BlzDto(value, null, null, null, null);
+			BlzDto compDto = new BlzDto(value, null, null);
 			int index = Collections.binarySearch(list, compDto, new BlzComparator());
 			if (index >= 0) {
 				return list.get(index);
 			}
 		}
-		String line = InputOutputUtils.findInZipFile(zipFile, value, dirInJar, idxFileName, recordsPerFile, charset);
+		String line = InputOutputZipUtils.findInZipFile(zipFile, value, dirInJar, idxFileName, recordsPerFile, charset);
 		if (line != null) {
 			result = new BlzDto(line);
 		}

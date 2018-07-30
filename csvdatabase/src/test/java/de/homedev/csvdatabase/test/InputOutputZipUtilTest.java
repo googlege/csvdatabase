@@ -9,7 +9,7 @@ import org.junit.Assert;
 import org.junit.Before;
 import org.junit.Test;
 
-import de.homedev.csvdatabase.utils.InputOutputUtils;
+import de.homedev.csvdatabase.utils.InputOutputZipUtils;
 
 /**
  * 
@@ -18,8 +18,8 @@ import de.homedev.csvdatabase.utils.InputOutputUtils;
  * 
  *
  */
-public class InputOutputUtilTest {
-	private static Logger log = Logger.getLogger(InputOutputUtilTest.class);
+public class InputOutputZipUtilTest {
+	private static Logger log = Logger.getLogger(InputOutputZipUtilTest.class);
 
 	public static final Charset CHARSET_UTF8 = Charset.forName("UTF-8");
 	private static final String BLZ = "70020270";
@@ -48,22 +48,9 @@ public class InputOutputUtilTest {
 	@Test
 	public void testZipFile() throws IOException {
 		File zipFile = new File(getDBDir(), "blz.zip");
-		String result = InputOutputUtils.findInZipFile(zipFile, BLZ, "blz", TestConstants.INDEX_FILENAME, TestConstants.RECORDS_PER_FILE,
+		String result = InputOutputZipUtils.findInZipFile(zipFile, BLZ, "blz", TestConstants.INDEX_FILENAME, TestConstants.RECORDS_PER_FILE,
 				TestConstants.CHARSET);
 		log.info("testZipFile result:" + result);
-		Assert.assertNotNull(result);
-		BlzDto blzDto = new BlzDto(result);
-		Assert.assertEquals(BLZ, blzDto.getBlz());
-		Assert.assertEquals("HYVEDEMMXXX", blzDto.getBic());
-		Assert.assertEquals("UniCredit Bank - HypoVereinsbank", blzDto.getBankname());
-
-	}
-
-	@Test
-	public void testJarFile() throws IOException {
-		String result = InputOutputUtils.findInJarFile(InputOutputUtils.class, BLZ, "/blz/", TestConstants.INDEX_FILENAME, TestConstants.RECORDS_PER_FILE,
-				TestConstants.CHARSET);
-		log.info("testJarFile result:" + result);
 		Assert.assertNotNull(result);
 		BlzDto blzDto = new BlzDto(result);
 		Assert.assertEquals(BLZ, blzDto.getBlz());
@@ -87,24 +74,6 @@ public class InputOutputUtilTest {
 		Assert.assertEquals("HYVEDEMMXXX", blzDto.getBic());
 		Assert.assertEquals("UniCredit Bank - HypoVereinsbank", blzDto.getBankname());
 		log.info("testZipFileExt time2-time1=" + (time2 - time1) + " time3-time2=" + (time3 - time2));
-	}
-
-	@Test
-	public void testJarFileExt() throws IOException {
-		long time1 = System.currentTimeMillis();
-		BlzDto blzDto = InputOutputUtilsExt.findInJarFile(InputOutputUtils.class, BLZ, "blz", TestConstants.INDEX_FILENAME, TestConstants.RECORDS_PER_FILE,
-				TestConstants.CHARSET, true);
-		long time2 = System.currentTimeMillis();
-		blzDto = InputOutputUtilsExt.findInJarFile(InputOutputUtils.class, BLZ, "blz", TestConstants.INDEX_FILENAME, TestConstants.RECORDS_PER_FILE,
-				TestConstants.CHARSET, true);
-		long time3 = System.currentTimeMillis();
-
-		Assert.assertNotNull(blzDto);
-		Assert.assertEquals(BLZ, blzDto.getBlz());
-		Assert.assertEquals("HYVEDEMMXXX", blzDto.getBic());
-		Assert.assertEquals("UniCredit Bank - HypoVereinsbank", blzDto.getBankname());
-		log.info("testJarFileExt time2-time1=" + (time2 - time1) + " time3-time2=" + (time3 - time2));
-
 	}
 
 }

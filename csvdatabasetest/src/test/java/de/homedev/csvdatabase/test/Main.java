@@ -1,6 +1,6 @@
 package de.homedev.csvdatabase.test;
 
-import de.homedev.csvdatabase.utils.InputOutputUtils;
+import de.homedev.csvdatabase.utils.InputOutputJarUtils;
 
 public class Main {
 	private static final String BLZ = "70020270";
@@ -17,7 +17,7 @@ public class Main {
 			System.out.println("BLZ:" + BLZ + " KONTONUMMER:" + KONTONUMMER);
 			System.out.println("Output");
 			System.out.println("IBAN:" + iban.toString());
-			BlzDto blzDto = InputOutputUtilsExt.findInJarFile(InputOutputUtils.class, BLZ, "blz", TestConstants.INDEX_FILENAME, TestConstants.RECORDS_PER_FILE,
+			BlzDto blzDto = InputOutputUtilsExt.findInJarFile(InputOutputJarUtils.class, BLZ, "blz", TestConstants.INDEX_FILENAME, TestConstants.RECORDS_PER_FILE,
 					TestConstants.CHARSET, true);
 			if (blzDto != null) {
 				System.out.println("BIC:" + blzDto.getBic());

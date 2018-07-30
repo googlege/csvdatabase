@@ -9,7 +9,7 @@ import org.apache.log4j.Logger;
 import de.homedev.csvdatabase.tdt.dto.HerstellerDto;
 import de.homedev.csvdatabase.tdt.dto.TypeDto;
 import de.homedev.csvdatabase.utils.CommonConstants;
-import de.homedev.csvdatabase.utils.InputOutputUtils;
+import de.homedev.csvdatabase.utils.InputOutputJarUtils;
 
 /**
  * 
@@ -27,7 +27,7 @@ public final class TdtInputOutputJarUtils implements CommonConstants {
 	public static final String findInJarFile(String herstellerSchl, String typeSchl, String vvsSchl) throws IOException {
 		String dirInJar = '/' + TdtConstants.DATABASE_DIR + '/' + TdtCommonUtils.checkDirName(herstellerSchl) + '/' + TdtCommonUtils.checkDirName(typeSchl)
 				+ '/';
-		return InputOutputUtils.findInJarFile(TdtInputOutputJarUtils.class, vvsSchl, dirInJar, TdtConstants.INDEX_FILENAME, TdtConstants.RECORDS_PER_FILE,
+		return InputOutputJarUtils.findInJarFile(TdtInputOutputJarUtils.class, vvsSchl, dirInJar, TdtConstants.INDEX_FILENAME, TdtConstants.RECORDS_PER_FILE,
 				TdtConstants.CHARSET);
 	}
 
@@ -35,20 +35,20 @@ public final class TdtInputOutputJarUtils implements CommonConstants {
 		String url = '/' + TdtConstants.DATABASE_DIR + '/' + manufacturerFileName;
 		HerstellerDto obj = new HerstellerDto();
 		int resultInitSize = 411;
-		return InputOutputUtils.getAllDataInJar(obj, TdtInputOutputJarUtils.class, url, charset, resultInitSize);
+		return InputOutputJarUtils.getAllDataInJar(obj, TdtInputOutputJarUtils.class, url, charset, resultInitSize);
 	}
 
 	public static final List<TypeDto> getAllTypesInJar(String herstellerSchl, Charset charset) throws IOException {
 		String url = '/' + TdtConstants.DATABASE_DIR + '/' + herstellerSchl + '/' + TdtConstants.INDEX_FILENAME;
 		TypeDto obj = new TypeDto();
 		int resultInitSize = 400;
-		return InputOutputUtils.getAllDataInJar(obj, TdtInputOutputJarUtils.class, url, charset, resultInitSize);
+		return InputOutputJarUtils.getAllDataInJar(obj, TdtInputOutputJarUtils.class, url, charset, resultInitSize);
 	}
 
 	public static final List<String> getAllVvsSchlInJar(String herstellerSchl, String typeSchl, Charset charset) throws IOException {
 		String url = '/' + TdtConstants.DATABASE_DIR + '/' + herstellerSchl + '/' + typeSchl + '/' + TdtConstants.INDEX_FILENAME;
 		int resultInitSize = 400;
-		return InputOutputUtils.getAllDataInJar(TdtInputOutputJarUtils.class, url, charset, resultInitSize);
+		return InputOutputJarUtils.getAllDataInJar(TdtInputOutputJarUtils.class, url, charset, resultInitSize);
 	}
 
 }

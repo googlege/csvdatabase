@@ -16,7 +16,8 @@ import org.apache.log4j.Logger;
 import de.homedev.csvdatabase.tdt.dto.HerstellerDto;
 import de.homedev.csvdatabase.tdt.dto.TypeDto;
 import de.homedev.csvdatabase.utils.CommonConstants;
-import de.homedev.csvdatabase.utils.InputOutputUtils;
+import de.homedev.csvdatabase.utils.InputOutputCommonUtils;
+import de.homedev.csvdatabase.utils.InputOutputZipUtils;
 
 /**
  * 
@@ -44,13 +45,13 @@ public final class TdtInputOutputZipUtils implements CommonConstants {
 	public static final String findInZipFile(String herstellerSchl, String typeSchl, String vvsSchl, File dbDir) throws IOException {
 		String dirInJar = TdtCommonUtils.checkDirName(herstellerSchl) + "/" + TdtCommonUtils.checkDirName(typeSchl);
 		File zipFile = new File(dbDir, herstellerSchl + ".zip");
-		return InputOutputUtils.findInZipFile(zipFile, vvsSchl, dirInJar, TdtConstants.INDEX_FILENAME, TdtConstants.RECORDS_PER_FILE, TdtConstants.CHARSET);
+		return InputOutputZipUtils.findInZipFile(zipFile, vvsSchl, dirInJar, TdtConstants.INDEX_FILENAME, TdtConstants.RECORDS_PER_FILE, TdtConstants.CHARSET);
 	}
 
 	public static final List<HerstellerDto> getAllManufacturerInZip(File manufacturerFile, Charset charset) throws IOException {
 		HerstellerDto obj = new HerstellerDto();
 		int resultInitSize = 411;
-		return InputOutputUtils.getAllDataInFile(obj, manufacturerFile, charset, resultInitSize);
+		return InputOutputCommonUtils.getAllDataInFile(obj, manufacturerFile, charset, resultInitSize);
 
 	}
 
@@ -64,7 +65,7 @@ public final class TdtInputOutputZipUtils implements CommonConstants {
 				throw new FileNotFoundException("Can not find file " + zipFile.getAbsolutePath());
 			}
 			jarFile = new JarFile(zipFile);
-			isIndex = InputOutputUtils.getResourceAsStream(jarFile, herstellerSchl + '/' + TdtConstants.INDEX_FILENAME);
+			isIndex = InputOutputZipUtils.getResourceAsStream(jarFile, herstellerSchl + '/' + TdtConstants.INDEX_FILENAME);
 			BufferedReader reader = new BufferedReader(new InputStreamReader(isIndex, charset));
 			String line = null;
 			while ((line = reader.readLine()) != null) {
@@ -103,7 +104,7 @@ public final class TdtInputOutputZipUtils implements CommonConstants {
 				throw new FileNotFoundException("Can not find file " + zipFile.getAbsolutePath());
 			}
 			jarFile = new JarFile(zipFile);
-			isIndex = InputOutputUtils.getResourceAsStream(jarFile, herstellerSchl + "/" + typeSchl + "/" + TdtConstants.INDEX_FILENAME);
+			isIndex = InputOutputZipUtils.getResourceAsStream(jarFile, herstellerSchl + "/" + typeSchl + "/" + TdtConstants.INDEX_FILENAME);
 			BufferedReader reader = new BufferedReader(new InputStreamReader(isIndex, charset));
 			String line = null;
 			while ((line = reader.readLine()) != null) {
