@@ -1,8 +1,8 @@
 package de.homedev.csvdatabase.tdt.dto;
 
 import de.homedev.csvdatabase.utils.CommonConstants;
-import de.homedev.csvdatabase.utils.CsvUtils;
 import de.homedev.csvdatabase.utils.CsvLineToDto;
+import de.homedev.csvdatabase.utils.CsvUtils;
 
 /**
  * 
@@ -54,8 +54,9 @@ public class HerstellerDto implements Comparable<HerstellerDto>, CsvLineToDto<He
 
 	@Override
 	public HerstellerDto lineToDto(String line) {
-		String schluessel = CsvUtils.valueFromCSVLine(line, CommonConstants.CSV_PARAM_SEPARATOR, 0);
-		String text = CsvUtils.valueFromCSVLine(line, CommonConstants.CSV_PARAM_SEPARATOR, 1);
+		String[] array = CsvUtils.split(line, CommonConstants.CSV_PARAM_SEPARATOR_STR, 2);
+		String schluessel = array[0];
+		String text = array[1];
 		return new HerstellerDto(schluessel, text);
 	}
 

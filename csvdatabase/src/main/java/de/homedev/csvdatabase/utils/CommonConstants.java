@@ -10,6 +10,7 @@ package de.homedev.csvdatabase.utils;
 public interface CommonConstants {
 
 	public static final char CSV_PARAM_SEPARATOR = ';';
+	public static final String CSV_PARAM_SEPARATOR_STR = ";";
 	public static final char CSV_PARAM_SEPARATOR_REPLACEMENT = '|';
 	public static final String RECORD_SEPARATOR = "\r\n";
 

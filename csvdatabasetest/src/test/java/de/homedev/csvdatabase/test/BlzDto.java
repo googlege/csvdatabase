@@ -73,9 +73,10 @@ public class BlzDto implements Serializable, CsvLineToDto<BlzDto> {
 
 	@Override
 	public BlzDto lineToDto(String line) {
-		String blz = CsvUtils.valueFromCSVLine(line, CommonConstants.CSV_PARAM_SEPARATOR, TestConstants.BLZ_ID);
-		String bic = CsvUtils.valueFromCSVLine(line, CommonConstants.CSV_PARAM_SEPARATOR, TestConstants.BIC_ID);
-		String bankname = CsvUtils.valueFromCSVLine(line, CommonConstants.CSV_PARAM_SEPARATOR, TestConstants.BANKNAME_ID);
+		String[] array = CsvUtils.split(line, CommonConstants.CSV_PARAM_SEPARATOR_STR, 3);
+		String blz = array[TestConstants.BLZ_ID];
+		String bic = array[TestConstants.BIC_ID];
+		String bankname = array[TestConstants.BANKNAME_ID];
 		return new BlzDto(blz, bic, bankname);
 	}
 

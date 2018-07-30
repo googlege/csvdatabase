@@ -15,32 +15,56 @@ public final class CsvUtils {
 	private CsvUtils() {
 	}
 
+	public static Long stringToLong(final String value) {
+		if (value == null || value.isEmpty()) {
+			return null;
+		}
+
+		try {
+			return Long.parseLong(value);
+		} catch (NumberFormatException e) {
+			log.error(e.getMessage(), e);
+		}
+
+		return null;
+	}
+
+	public static Double stringToDouble(final String value) {
+		if (value == null || value.isEmpty()) {
+			return null;
+		}
+
+		try {
+			return Double.parseDouble(value);
+		} catch (NumberFormatException e) {
+			log.error(e.getMessage(), e);
+		}
+
+		return null;
+	}
+
 	public static Long longFromCSVLine(final String line, final char separator, final int position) throws IndexOutOfBoundsException {
 		String value = valueFromCSVLine(line, separator, position);
-		if (value == null)
-			return null;
-		if (value != null) {
-			try {
-				return Long.parseLong(value);
-			} catch (NumberFormatException e) {
-				log.error(e.getMessage(), e);
-			}
-		}
-		return null;
+		return stringToLong(value);
+
 	}
 
 	public static Double doubleFromCSVLine(final String line, final char separator, final int position) throws IndexOutOfBoundsException {
 		String value = valueFromCSVLine(line, separator, position);
-		if (value == null)
-			return null;
-		if (value != null) {
-			try {
-				return Double.parseDouble(value);
-			} catch (NumberFormatException e) {
-				log.error(e.getMessage(), e);
-			}
+		return stringToDouble(value);
+	}
+
+	public static String[] split(final String line, final String separator, final int size) {
+		String[] result = line.split(separator, size);
+		if (result.length != size) {
+			final String msg = "Separator:" + separator + " found values:" + result.length + " must have:" + size + " Line:" + line;
+			log.error(msg);
+			throw new IndexOutOfBoundsException(msg);
 		}
-		return null;
+		for (int i = 0; i < result.length; i++) {
+			result[i] = result[i].trim().replace(CommonConstants.CSV_PARAM_SEPARATOR_REPLACEMENT, CommonConstants.CSV_PARAM_SEPARATOR);
+		}
+		return result;
 	}
 
 	public static String valueFromCSVLine(final String line, final char separator, final int position) throws IndexOutOfBoundsException {
