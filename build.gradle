@@ -1,0 +1,7 @@
+allprojects {
+   group = 'de.homedev.csvdatabase'
+   version = '1.0.1-SNAPSHOT'
+   
+}
+
+
